@@ -45,7 +45,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "More than singing! More than dancing!",
+              "str": "أكثر من الغناء! أكثر من الرقص!",
               "strWidth": 500.17188
             },
             {
@@ -53,7 +53,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I love Pokémon! So, shall we battle?",
+              "str": "أنا أحب البوكيمون! إذن، هل نتبارز؟",
               "strWidth": 468.375
             }
           ]
@@ -89,7 +89,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll let you join my fan club if you can beat me!",
+              "str": "سأسمح لك بالانضمام إلى نادي المعجبين الخاص بي إذا استطعت هزيمتي!",
               "strWidth": 602.875
             }
           ]
@@ -125,7 +125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Aww, that’s heartbreaking... I’m an idol, too...",
+              "str": "آه، هذا محزن للغاية... أنا أيضاً نجم ...",
               "strWidth": 592.09375
             }
           ]
@@ -161,7 +161,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Well, that’s me and my Pokémon! Thank you for",
+              "str": "حسناً، هذا أنا والبوكيمون الخاص بي! شكراً لك على",
               "strWidth": 622.6406
             },
             {
@@ -169,7 +169,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "being such a fan!",
+              "str": "كونك معجباً رائعاً!",
               "strWidth": 218.4375
             },
             {
@@ -177,7 +177,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Just so you know, our latest single is called",
+              "str": "فقط لأعلمك، أحدث أغنية لنا بعنوان",
               "strWidth": 556.0
             },
             {
@@ -185,7 +185,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Jigglin’ Pokémon Wub”!",
+              "str": "“ تراقص البوكيمون وب “",
               "strWidth": 324.23438
             }
           ]
@@ -221,7 +221,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’m working on a story. Can you battle me?",
+              "str": "أنا أعمل على قصة. هل يمكنك التبارز معي؟",
               "strWidth": 556.59375
             }
           ]
@@ -257,7 +257,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Join me for a live report!",
+              "str": "انضم إلي لتقرير مباشر!",
               "strWidth": 319.34375
             }
           ]
@@ -293,7 +293,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Press coverage denied... But you’re so intriguing!",
+              "str": "تم رفض التغطية الصحفية... لكنك مثير للاهتمام للغاية!",
               "strWidth": 630.71875
             }
           ]
@@ -329,7 +329,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Interviews are about taking the initiative.",
+              "str": "المقابلات تتعلق بأخذ المبادرة.",
               "strWidth": 528.71875
             }
           ]
@@ -365,7 +365,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ve spotted a charismatic Trainer! Is it OK to go",
+              "str": "لقد رأيت مدربًا جذابًا! هل من الجيد الذهاب",
               "strWidth": 622.8125
             },
             {
@@ -373,7 +373,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "for the scoop?",
+              "str": "للحصول على الخبر؟",
               "strWidth": 187.01562
             }
           ]
@@ -409,7 +409,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "As a professional cameraman, I always go for the",
+              "str": "كمصور محترف , أبحث دائماً",
               "strWidth": 631.8594
             },
             {
@@ -417,7 +417,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "best shot!",
+              "str": "عن أفضل لقطة!",
               "strWidth": 125.015625
             }
           ]
@@ -453,7 +453,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That’s a downer... I thought I’d found a Trainer",
+              "str": "هذا محبط... كنت أظن أنني وجدت مدربًا ",
               "strWidth": 606.84375
             },
             {
@@ -461,7 +461,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and Pokémon who’d shine on camera.",
+              "str": "وبوكيمون سيتألقان أمام الكاميرا.",
               "strWidth": 489.625
             }
           ]
@@ -497,7 +497,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The lively expressions on you and your",
+              "str": "التعابير الحيوية على وجهك",
               "strWidth": 501.26562
             },
             {
@@ -505,7 +505,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon’s faces make for some great TV!",
+              "str": "و وجوه بوكيموناتك تجعل من ذلك عرضاً رائعًا!",
               "strWidth": 542.8281
             }
           ]
@@ -541,7 +541,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Are we all ready to have some fun? I sure am!",
+              "str": "هل نحن جميعًا مستعدون للاستمتاع؟ أنا بالتأكيد مستعد!",
               "strWidth": 588.9531
             },
             {
@@ -549,7 +549,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Aren’t you having fun? Let’s make it fun! OK?!",
+              "str": "ألا تستمتع ؟ لنجعلها ممتعة , موافق ؟",
               "strWidth": 597.5469
             }
           ]
@@ -585,7 +585,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK, how shall we do this? Shall we try",
+              "str": "حسنًا، كيف سنفعل ذلك؟ هل يجب أن نجرب",
               "strWidth": 493.32812
             },
             {
@@ -593,7 +593,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "something fantastical?",
+              "str": "شيئًا خياليًا؟",
               "strWidth": 287.6875
             }
           ]
@@ -629,7 +629,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, how shall I say this? It makes me all lonely,",
+              "str": "أوه، كيف سأقول هذا؟ يجعلني أشعر بالوحدة،",
               "strWidth": 610.5781
             },
             {
@@ -637,7 +637,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I say...",
+              "str": "كما أقول...",
               "strWidth": 81.96875
             }
           ]
@@ -673,7 +673,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A clown’s makeup is a face that’s crying while",
+              "str": "ماكياج المهرج هو وجه يبكي بينما يضحك",
               "strWidth": 590.5781
             },
             {
@@ -681,7 +681,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "laughing. It defines what we do!",
+              "str": "إنه يحدد ما نقوم به!",
               "strWidth": 411.40625
             }
           ]
@@ -717,7 +717,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Two Pokémon! If you had two Pokémon, we’d get",
+              "str": "بوكيمونان! إذا كان لديك بوكيمونان، فسوف نحصل",
               "strWidth": 643.4375
             },
             {
@@ -725,7 +725,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a great shot here.",
+              "str": "على لقطة رائعة هنا.",
               "strWidth": 227.84375
             }
           ]
@@ -761,7 +761,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh! You’re ready for a battle with us?",
+              "str": "أوه! هل أنت مستعد للتبارز معنا؟",
               "strWidth": 489.90625
             }
           ]
@@ -797,7 +797,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’re live on camera, but try to act natural, OK?",
+              "str": "أنت على الهواء مباشرة، لكن حاول أن تتصرف بشكل طبيعي، حسنًا؟",
               "strWidth": 643.875
             }
           ]
@@ -833,7 +833,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK, that’s how it is, huh. Can’t do anything",
+              "str": "حسنًا، هكذا هي الأمور، أليس كذلك؟ لا يمكن فعل أي شيء",
               "strWidth": 560.4375
             },
             {
@@ -841,7 +841,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "about that.",
+              "str": "حيال ذلك.",
               "strWidth": 142.875
             }
           ]
@@ -877,7 +877,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’d like to take that footage and have it",
+              "str": "أود أن آخذ تلك اللقطات",
               "strWidth": 512.65625
             },
             {
@@ -885,7 +885,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "broadcast worldwide.",
+              "str": "وأبثها في جميع أنحاء العالم.",
               "strWidth": 276.39062
             }
           ]
@@ -921,7 +921,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, no. What we really want to see is you in",
+              "str": "أوه، لا. هذا ما نريد حقًا رؤيته ",
               "strWidth": 573.1719
             },
             {
@@ -929,7 +929,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "action with two Pokémon!",
+              "str": "وهو هو أنت في العمل مع بوكيمونين!",
               "strWidth": 332.65625
             }
           ]
@@ -965,7 +965,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "*giggle*",
+              "str": "*يضحك *",
               "strWidth": 105.453125
             },
             {
@@ -973,7 +973,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Will you have a battle with us?",
+              "str": "هل ستتبارز معنا؟",
               "strWidth": 398.17188
             }
           ]
@@ -1009,7 +1009,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We’ll thoroughly check you out as a Trainer!",
+              "str": "سوف نتفحصك جيدًا كمدرب!",
               "strWidth": 573.21875
             }
           ]
@@ -1045,7 +1045,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, too bad! I wanted to check out",
+              "str": "أوه، يا للأسف! كنت أرغب في الاطلاع",
               "strWidth": 457.57812
             },
             {
@@ -1053,7 +1053,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "your Pokémon!",
+              "str": "على بوكيمونك!",
               "strWidth": 192.375
             }
           ]
@@ -1089,7 +1089,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I lost, but I’m totally thrilled! We made a",
+              "str": "قد خسرت، لكنني متحمس تمامًا! لقد صنعنا",
               "strWidth": 528.53125
             },
             {
@@ -1097,7 +1097,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "wonderful spectacle!",
+              "str": "عرضًا رائعًا!",
               "strWidth": 266.25
             }
           ]
@@ -1133,7 +1133,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Po-Po-Pokémon!",
+              "str": "بو-بو-بوكيمون!",
               "strWidth": 216.21875
             },
             {
@@ -1141,7 +1141,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I want to become more like a Pikachu! Will you",
+              "str": "أريد أن أكون أكثر مثل بيكاتشو! ",
               "strWidth": 609.65625
             },
             {
@@ -1149,7 +1149,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "battle me?",
+              "str": "هل ستتبارز معي ؟",
               "strWidth": 138.21875
             }
           ]
@@ -1185,7 +1185,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pi-Pikachu!",
+              "str": "بي - بيكاتشو",
               "strWidth": 141.46875
             }
           ]
@@ -1221,7 +1221,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pikachu!",
+              "str": "بيكاتشو !",
               "strWidth": 106.375
             }
           ]
@@ -1257,7 +1257,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I need to get more into the character of",
+              "str": "أحتاج إلى الانغماس أكثر في شخصية",
               "strWidth": 515.78125
             },
             {
@@ -1265,7 +1265,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon...",
+              "str": "بوكيمون...",
               "strWidth": 167.35938
             }
           ]
@@ -1301,7 +1301,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Come on, time to show off our Pokémon!",
+              "str": "هيا، حان الوقت لنظهر بوكيموناتنا!",
               "strWidth": 531.9844
             },
             {
@@ -1309,7 +1309,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Let’s do battle, kiddo!",
+              "str": "دعنا نتبارز، أيها الصغير!",
               "strWidth": 288.40625
             }
           ]
@@ -1345,7 +1345,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Your spirit’s giving off some seriously cool vibes...",
+              "str": "روحك تبث أجواء رائعة حقًا.",
               "strWidth": 645.09375
             },
             {
@@ -1353,7 +1353,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I can tell that you totally rock!",
+              "str": "أستطيع أن أقول إنك مدهش تمامًا!",
               "strWidth": 390.23438
             }
           ]
@@ -1389,7 +1389,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Now, that is seriously uncool. You have to let",
+              "str": "الآن، هذا غير رائع حقًا. عليك أن تدع",
               "strWidth": 587.1406
             },
             {
@@ -1397,7 +1397,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "your passion burn!",
+              "str": "شغفك يتأجج!",
               "strWidth": 235.35938
             }
           ]
@@ -1433,7 +1433,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rock is about your spirit! Battling is about spirit,",
+              "str": "الصخر يتعلق بروحك! التبارز يتعلق بالروح أيضًا!,",
               "strWidth": 621.9219
             },
             {
@@ -1441,7 +1441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "too! That’s what makes a battle rock!",
+              "str": "هذا ما يجعل المعركة رائعة!",
               "strWidth": 477.625
             }
           ]
@@ -1477,7 +1477,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Battling is the best way to learn! Can we get a",
+              "str": "التبارز هو أفضل وسيلة للتعلم!",
               "strWidth": 594.71875
             },
             {
@@ -1485,7 +1485,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "battle with you?",
+              "str": "هل يمكننا التبارز معك؟",
               "strWidth": 208.35938
             }
           ]
@@ -1521,7 +1521,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Go, my Pokémon, go!",
+              "str": "إنطلق أيها البوكيمون , إنطلق",
               "strWidth": 281.53125
             }
           ]
@@ -1557,7 +1557,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Aww! But battling is the best way to learn",
+              "str": "آه! لكن التبارز هو أفضل وسيلة للتعلم",
               "strWidth": 535.59375
             },
             {
@@ -1565,7 +1565,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "about Pokémon!",
+              "str": "عن البوكيمون!",
               "strWidth": 210.9375
             }
           ]
@@ -1601,7 +1601,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s hard to win if you don’t have some Pokémon",
+              "str": "من الصعب الفوز إذا لم يكن لديك بعض البوكيمونات",
               "strWidth": 626.1719
             },
             {
@@ -1609,7 +1609,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to choose from.",
+              "str": "للاختيار من بينها.",
               "strWidth": 203.07812
             }
           ]
@@ -1645,7 +1645,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Whew! You’re really good. We’ve been studying",
+              "str": "واو! أنت حقًا جيد. لقد كنا ندرس ",
               "strWidth": 628.78125
             },
             {
@@ -1653,7 +1653,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "every day, but we were no match at all!",
+              "str": "كل يوم، لكننا لم نكن على الإطلاق في مستواك!",
               "strWidth": 509.0625
             },
             {
@@ -1661,7 +1661,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’d be able to use these Technical Machines",
+              "str": "يمكنك استخدام هذه الآلات الفنية بشكل صحيح. ",
               "strWidth": 612.0625
             },
             {
@@ -1669,7 +1669,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "properly. Here you go!",
+              "str": "ها هي لك!",
               "strWidth": 294.34375
             }
           ]
