@@ -16,5 +16,6 @@ This project is brought to you by a dedicated team of translators and Pokémon e
 
 - **[IBRAHIM Imojoughan]** - Project Lead / Translator
 - **[OsaMa hawkiq]** - Translator 
+- **[Null : 0x00...dEaD]** - Translator 
 
 Together, we are committed to delivering a high-quality translation that captures the essence of Pokémon Shining Pearl while ensuring it resonates with Arabic-speaking players.
