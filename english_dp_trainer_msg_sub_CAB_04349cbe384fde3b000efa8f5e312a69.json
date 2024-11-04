@@ -3949,7 +3949,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, you’re offering to do battle with us?",
+              "str": "أوه، هل تعرض خوض معركة معنا؟",
               "strWidth": 525.3906
             },
             {
@@ -3957,7 +3957,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "How nice of you.",
+              "str": "كم هو لطيف منك.",
               "strWidth": 220.04688
             },
             {
@@ -3965,7 +3965,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Unfortunately, you simply cannot battle us both",
+              "str": "للأسف، لا يمكنك ببساطة التبارز معنا كلاكما",
               "strWidth": 618.5156
             },
             {
@@ -3973,7 +3973,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with just one Pokémon.",
+              "str": "ببوكيمون واحد فقط",
               "strWidth": 299.8125
             }
           ]
@@ -4009,7 +4009,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Let me propose a toast to many more happy",
+              "str": "دعني أقترح نخبًا للعديد من السنوات",
               "strWidth": 574.78125
             },
             {
@@ -4017,7 +4017,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "years together.",
+              "str": "السعيدة معًا.",
               "strWidth": 194.0
             }
           ]
@@ -4053,7 +4053,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Since I took my retirement, I’ve been traveling",
+              "str": "منذ تقاعدي، كنت أسافر",
               "strWidth": 600.2031
             },
             {
@@ -4061,7 +4061,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with my wife. We both enjoy searching for",
+              "str": "مع زوجتي. نحن نحب كلانا البحث",
               "strWidth": 544.875
             },
             {
@@ -4069,7 +4069,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "delicious dining experiences.",
+              "str": "عن تجارب تناول طعام لذيذة. ",
               "strWidth": 373.45312
             },
             {
@@ -4077,7 +4077,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You seem to enjoy battling with Pokémon.",
+              "str": "يبدو أنك تستمتع بالتبارز مع البوكيمونات.",
               "strWidth": 548.2969
             },
             {
@@ -4085,7 +4085,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Am I right?",
+              "str": "هل أنا على حق؟",
               "strWidth": 142.125
             }
           ]
@@ -4121,7 +4121,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Well, so much for that. Let’s try to enjoy the rest",
+              "str": "حسنًا، لنترك ذلك. دعنا نحاول الاستمتاع",
               "strWidth": 629.46875
             },
             {
@@ -4129,7 +4129,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "of our meal.",
+              "str": "ببقية وجبتنا.",
               "strWidth": 156.32812
             }
           ]
@@ -4165,7 +4165,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "To our health, our welfare, and fine",
+              "str": "إلى صحتنا، ورخائنا، وتجارب الطعام الرفيعة!",
               "strWidth": 460.32812
             },
             {
@@ -4173,7 +4173,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "dining! Cheers!",
+              "str": "في صحتك!",
               "strWidth": 191.98438
             }
           ]
@@ -4209,7 +4209,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A toast before a meal helps stimulate the",
+              "str": "أجد أن رفع نخب قبل الوجبة يساعد على  ",
               "strWidth": 533.96875
             },
             {
@@ -4217,7 +4217,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "appetite, I find.",
+              "str": "تحفيز الشهية.",
               "strWidth": 202.14062
             },
             {
@@ -4225,7 +4225,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "But that’s neither here nor there. You wanted a",
+              "str": "لكن ذلك ليس هو الموضوع هنا أو هناك",
               "strWidth": 610.0625
             },
             {
@@ -4233,7 +4233,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "battle, surely?",
+              "str": "كنت تريد معركة، أليس كذلك؟",
               "strWidth": 183.23438
             }
           ]
@@ -4269,7 +4269,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gourmet dining in restaurants and exhilarating",
+              "str": "تناول الطعام الفاخر في المطاعم ",
               "strWidth": 600.2344
             },
             {
@@ -4277,7 +4277,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon battles...",
+              "str": "ومعارك البوكيمون المثيرة...",
               "strWidth": 239.96875
             },
             {
@@ -4285,7 +4285,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There is so much contentment in my life!",
+              "str": "هناك الكثير من الرضا في حياتي!",
               "strWidth": 521.9375
             }
           ]
@@ -4321,7 +4321,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm! Now, this is special! It looks like it was just",
+              "str": "همم! الآن، هذا مميز! يبدو أنه",
               "strWidth": 631.15625
             },
             {
@@ -4329,7 +4329,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "quickly warmed through, but in reality, much care",
+              "str": "تم تسخينه بسرعة، لكن في الواقع،",
               "strWidth": 639.7656
             },
             {
@@ -4337,7 +4337,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "has gone into its preparation!",
+              "str": "تم العناية كثيرًا في إعداده!",
               "strWidth": 379.5625
             }
           ]
@@ -4373,7 +4373,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "When one gets to be an accomplished gourmet",
+              "str": "عندما يصبح المرء طاهيًا بارعًا مثلي،",
               "strWidth": 613.5625
             },
             {
@@ -4381,7 +4381,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "like myself, one can tell at a glance if a dish is",
+              "str": "يمكنه أن يعرف من لمحة إذا كان الطبق   ",
               "strWidth": 596.8125
             },
             {
@@ -4389,7 +4389,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "delicious or not.",
+              "str": "لذيذ أم لا",
               "strWidth": 209.29688
             },
             {
@@ -4397,7 +4397,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You would battle against such discerning taste?",
+              "str": "هل ستتبارز ضد مثل هذا الذوق الرفيع؟",
               "strWidth": 614.53125
             }
           ]
@@ -4433,7 +4433,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Well, so much for that. We’ll keep a stiff upper",
+              "str": "حسنًا، لنترك ذلك. سنظل",
               "strWidth": 611.7031
             },
             {
@@ -4441,7 +4441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "lip and look forward to enjoying the main course.",
+              "str": "متماسكين ونتطلع إلى الاستمتاع بالطبق الرئيسي.",
               "strWidth": 637.21875
             }
           ]
@@ -4477,7 +4477,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "These hors d’oeuvres are simply divine!",
+              "str": "هذه المقبلات رائعة ببساطة! ",
               "strWidth": 507.01562
             },
             {
@@ -4485,7 +4485,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "They tell me that I can expect the main",
+              "str": "تخبرني أنه يمكنني توقع أن يكون",
               "strWidth": 507.32812
             },
             {
@@ -4493,7 +4493,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "course to be fantastic!",
+              "str": "الطبق الرئيسي مذهلًا!",
               "strWidth": 286.64062
             }
           ]
@@ -4529,7 +4529,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I thought the main course arrived already...",
+              "str": "ظننت أن الطبق الرئيسي قد وصل بالفعل.",
               "strWidth": 556.1406
             },
             {
@@ -4537,7 +4537,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’re a Trainer seeking battle?",
+              "str": "أنت مدرب تسعى للقتال؟",
               "strWidth": 415.89062
             }
           ]
@@ -4573,7 +4573,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The hors d’oeuvres were most excellent!",
+              "str": "كانت المقبلات ممتازة جدًا!",
               "strWidth": 519.59375
             }
           ]
@@ -4609,7 +4609,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mmm! The chef flambéed this to perfection!",
+              "str": "مم! الطباخ أعد هذا بطريقة مذهلة!",
               "strWidth": 568.8594
             },
             {
@@ -4617,7 +4617,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The rich aromas and flavors fill my mouth",
+              "str": "الروائح الغنية والنكهات تملأ فمي",
               "strWidth": 532.3281
             },
             {
@@ -4625,7 +4625,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with joy!",
+              "str": "بالبهجة!",
               "strWidth": 107.84375
             }
           ]
@@ -4661,7 +4661,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’re throwing down a challenge in the middle",
+              "str": "هل تتحدى في منتصف وجبتنا؟",
               "strWidth": 621.4844
             },
             {
@@ -4669,7 +4669,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "of our meal? I would say you’re a very dedicated",
+              "str": "أقول إنك مدرب مخلص جدًا، ",
               "strWidth": 632.40625
             },
             {
@@ -4677,7 +4677,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trainer, especially for one so young!",
+              "str": "خاصةً لشخص في مثل عمرك",
               "strWidth": 470.67188
             }
           ]
@@ -4713,7 +4713,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ah... I’m very satisfied with our meal and",
+              "str": "آه... أنا راضٍ جدًا عن وجبتنا",
               "strWidth": 526.1094
             },
             {
@@ -4721,7 +4721,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "our battle.",
+              "str": "ومعركتنا.",
               "strWidth": 135.35938
             }
           ]
@@ -4757,7 +4757,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mmm, this sauce!",
+              "str": "مم، هذه الصلصة!",
               "strWidth": 221.92188
             },
             {
@@ -4765,7 +4765,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a spicy sauce made Hoenn-style from grated",
+              "str": "إنها صلصة حارة مصنوعة على طريقة هوين",
               "strWidth": 623.9844
             },
             {
@@ -4773,7 +4773,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cheri Berries!",
+              "str": "من توت الشيري المبشور!",
               "strWidth": 172.6875
             }
           ]
@@ -4809,7 +4809,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to sample a bite...? Oh, right.",
+              "str": "هل تود تذوق قضمة...؟ آه، صحيح.",
               "strWidth": 586.96875
             },
             {
@@ -4817,7 +4817,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon battle?",
+              "str": "هل تود القتال ؟",
               "strWidth": 219.20312
             }
           ]
@@ -4853,7 +4853,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Battling is fine, of course. But personally, I would",
+              "str": "التبارز جيد، بالطبع. لكن شخصيًا، أفضل",
               "strWidth": 634.8906
             },
             {
@@ -4861,7 +4861,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "rather be out enjoying good meals.",
+              "str": "أن أكون خارجًا للاستمتاع بوجبات جيدة.",
               "strWidth": 454.3125
             }
           ]
@@ -4897,7 +4897,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you want to battle us, you’ll have to bring at",
+              "str": "إذا كنت تريد أن تتبارز معنا، فستحتاج إلى إحضار",
               "strWidth": 603.4844
             },
             {
@@ -4905,7 +4905,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "least two Pokémon.",
+              "str": "اثنين من البوكيمونات على الأقل.",
               "strWidth": 252.54688
             }
           ]
@@ -4941,7 +4941,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Don’t you have more than one Pokémon?",
+              "str": "أليس لديك أكثر من بوكيمون واحد؟",
               "strWidth": 538.625
             },
             {
@@ -4949,7 +4949,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We’ll have to battle another time!",
+              "str": "سيتعين علينا التبارز في وقت آخر!",
               "strWidth": 439.76562
             }
           ]
@@ -4985,7 +4985,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Alison, um, I, er... Thank you for coming today.",
+              "str": "أليسون، أم، أنا، إه... شكرًا لقدومك اليوم. ",
               "strWidth": 609.0
             },
             {
@@ -4993,7 +4993,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Should we make a toast?",
+              "str": "هل يجب أن نرفع نخبًا؟",
               "strWidth": 321.92188
             }
           ]
@@ -5029,7 +5029,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "She’s the girl from the Pokémon supply store I go",
+              "str": "إنها الفتاة من متجر لوازم البوكيمون الذي أذهب إليه",
               "strWidth": 638.6094
             },
             {
@@ -5037,7 +5037,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to all the time. We’re incredibly happy together.",
+              "str": "طوال الوقت. نحن سعداء للغاية معًا.",
               "strWidth": 629.0
             },
             {
@@ -5045,7 +5045,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to battle us?",
+              "str": "هل تود أن تتبارز معنا؟",
               "strWidth": 368.23438
             }
           ]
@@ -5081,7 +5081,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, gosh. I’m sorry we lost, Alison. You’re not",
+              "str": "آه، يا إلهي. أنا آسف لأننا خسرنا، أليسون. أنتِ لستِ ",
               "strWidth": 596.8906
             },
             {
@@ -5089,7 +5089,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "upset, are you?",
+              "str": "حزينة، أليس كذلك؟",
               "strWidth": 199.03125
             }
           ]
@@ -5125,7 +5125,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hee hee... Eugene, you act so different from the",
+              "str": "هي هي... يوجين، أنت تتصرف بشكل مختلف تمامًا",
               "strWidth": 626.125
             },
             {
@@ -5133,7 +5133,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "way you do at the store. You’re surprisingly shy.",
+              "str": "عن الطريقة التي تتصرف بها في المتجر. أنت خجول بشكل مدهش",
               "strWidth": 619.7969
             }
           ]
@@ -5169,7 +5169,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I work at a Pokémon supply store because I",
+              "str": "أعمل في متجر لوازم البوكيمون لأنني",
               "strWidth": 561.53125
             },
             {
@@ -5177,7 +5177,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "love Pokémon.",
+              "str": "أحب البوكيمون. ",
               "strWidth": 191.23438
             },
             {
@@ -5185,7 +5185,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "My job lets me be with Pokémon all day long,",
+              "str": "وظيفتي تتيح لي أن أكون مع البوكيمون طوال اليوم،",
               "strWidth": 593.4219
             },
             {
@@ -5193,7 +5193,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "so it naturally made me pretty decent at battling.",
+              "str": "لذا أصبحت جيدًا بشكل طبيعي في التبارز. ",
               "strWidth": 636.2344
             },
             {
@@ -5201,7 +5201,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Want to try us?",
+              "str": "هل ترغب في تجربتنا؟",
               "strWidth": 198.42188
             }
           ]
@@ -5237,7 +5237,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I don’t worry much about winning or losing.",
+              "str": "لا أقلق كثيرًا بشأن الفوز أو الخسارة",
               "strWidth": 560.2969
             },
             {
@@ -5245,7 +5245,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I keep my Pokémon with me because I love it!",
+              "str": "أحتفظ ببوكيموني معي لأنني أحبه!",
               "strWidth": 592.7656
             }
           ]
@@ -5281,7 +5281,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If my Pokémon buddies heard I went on a date",
+              "str": "إذا سمع أصدقائي البوكيمون أنني خرجت في موعد معك،",
               "strWidth": 605.65625
             },
             {
@@ -5289,7 +5289,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with you, Alison...they’d probably hate me for it.",
+              "str": "أليسون... من المحتمل أن يكرهوني من أجل ذلك.",
               "strWidth": 628.9844
             }
           ]
@@ -5325,7 +5325,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Are you Alison’s fan, too?",
+              "str": "هل أنت من معجبي أليسون أيضًا؟",
               "strWidth": 335.95312
             }
           ]
@@ -5361,7 +5361,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Alison, seeing your smiling face... I can’t tell if",
+              "str": "أليسون، رؤية وجهك المبتسم... لا أستطيع أن أخبر",
               "strWidth": 596.3125
             },
             {
@@ -5369,7 +5369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "these appetizers are delicious or not!",
+              "str": "إذا كانت هذه المقبلات لذيذة أم لا!",
               "strWidth": 478.26562
             }
           ]
@@ -5405,7 +5405,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sorry, what? A date? Um, Eugene... You are a",
+              "str": "آسف، ماذا؟ موعد؟ أمم، يوجين... أنت",
               "strWidth": 592.90625
             },
             {
@@ -5413,7 +5413,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "valued customer and all, but I just don’t know...",
+              "str": "عميل مهم وكل شيء، لكنني لا أعرف...",
               "strWidth": 615.5
             }
           ]
@@ -5449,7 +5449,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I know I’m being indecisive, but I have to admit—",
+              "str": "أعلم أنني أتردد، لكن يجب أن أعترف",
               "strWidth": 640.2656
             },
             {
@@ -5457,7 +5457,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "his invitation was just too flattering to refuse.",
+              "str": "دعوةه كانت مغرية جدًا لدرجة أنني لا أستطيع الرفض.",
               "strWidth": 582.96875
             },
             {
@@ -5465,7 +5465,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll let my Pokémon decide for my fickle heart.",
+              "str": "سأدع بوكيمونتي يقرر لقلبى المتردد.",
               "strWidth": 598.7969
             },
             {
@@ -5473,7 +5473,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Let’s battle?",
+              "str": "هيا لنقاتل؟",
               "strWidth": 160.85938
             }
           ]
