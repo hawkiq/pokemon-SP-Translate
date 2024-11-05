@@ -1929,7 +1929,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Do you think we would have done better if I",
+              "str": "هل تعتقد أننا كنا سنفعل بشكل أفضل لو",
               "strWidth": 573.0469
             },
             {
@@ -1937,7 +1937,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "used Potions?",
+              "str": "استخدمت جرعات العلاج؟",
               "strWidth": 178.82812
             }
           ]
@@ -8541,7 +8541,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Do you know what the most important thing is",
+              "str": "هل تعرف ما هو أهم شيء ",
               "strWidth": 596.3594
             },
             {
@@ -8549,7 +8549,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "for gourmet reporting?",
+              "str": "في تقارير الطعام الفاخر؟",
               "strWidth": 294.8125
             },
             {
@@ -8557,7 +8557,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a...thesaurus-like vocabulary!",
+              "str": "إنه... مفردات شبيهة بالقاموس!",
               "strWidth": 420.9375
             }
           ]
@@ -8593,7 +8593,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll only say this once, so listen closely. I’ll even",
+              "str": "سأقول هذا مرة واحدة فقط، لذا استمع جيدًا. ",
               "strWidth": 611.125
             },
             {
@@ -8601,7 +8601,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "say it slowly—to battle against two Trainers,",
+              "str": "سأقوله ببطء أيضًا - لمواجهة مدربين اثنين،",
               "strWidth": 568.2656
             },
             {
@@ -8609,7 +8609,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you need two or more Pokémon.",
+              "str": "تحتاج إلى اثنين أو أكثر من البوكيمونات",
               "strWidth": 422.17188
             },
             {
@@ -8617,7 +8617,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Now if you were to bring more Pokémon, I could",
+              "str": "الآن إذا كنت ستجلب المزيد من البوكيمونات",
               "strWidth": 630.15625
             },
             {
@@ -8625,7 +8625,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "consider a battle...",
+              "str": "يمكنني أن أفكر في معركة..",
               "strWidth": 241.46875
             }
           ]
@@ -8661,7 +8661,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, you’ll have to bring more Pokémon than that",
+              "str": "أوه، سيتعين عليك جلب المزيد من البوكيمون من ذلك",
               "strWidth": 636.71875
             },
             {
@@ -8669,7 +8669,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to battle us!",
+              "str": "لتواجهنا!",
               "strWidth": 155.29688
             }
           ]
@@ -8705,7 +8705,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "And that’s another brilliant day on the markets!",
+              "str": "وها هو يوم آخر رائع في الأسواق!",
               "strWidth": 611.4531
             },
             {
@@ -8713,7 +8713,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A toast to my Lady Luck!",
+              "str": "لنرفع نخب حظي الجيد!!",
               "strWidth": 320.34375
             }
           ]
@@ -8749,7 +8749,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Since I’ve been with her, I’ve been riding a hot",
+              "str": "منذ أن كنت معها، وأنا في    ",
               "strWidth": 605.75
             },
             {
@@ -8757,7 +8757,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "streak on the markets.",
+              "str": "سلسلة من النجاح في الأسواق.",
               "strWidth": 285.5625
             },
             {
@@ -8765,7 +8765,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’m surfing on a wave of good luck! You’re sure",
+              "str": "أركب موجة من الحظ الجيد!  ",
               "strWidth": 610.3906
             },
             {
@@ -8773,7 +8773,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you want to battle us?",
+              "str": "هل أنت متأكد أنك تريد أن تتحدانا؟?",
               "strWidth": 287.6875
             }
           ]
@@ -8809,7 +8809,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This is just a minor setback. I can easily make up",
+              "str": "هذه مجرد عقبة بسيطة. يمكنني تعويض ذلك",
               "strWidth": 624.2969
             },
             {
@@ -8817,7 +8817,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "for this!",
+              "str": "بسهولة!",
               "strWidth": 97.265625
             }
           ]
@@ -8853,7 +8853,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ooh! All your stocks went up again? You haven’t",
+              "str": "أوه! كل أسهمك ارتفعت مرة أخرى؟",
               "strWidth": 631.3281
             },
             {
@@ -8861,7 +8861,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "guessed wrong yet!",
+              "str": "لم تخطئ في التخمين بعد!",
               "strWidth": 247.40625
             }
           ]
@@ -8897,7 +8897,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "My boyfriend’s a stock market wizard!",
+              "str": "صديقي هو ساحر في سوق الأسهم!",
               "strWidth": 489.9375
             },
             {
@@ -8905,7 +8905,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Did you know? Someone who’s that lucky also",
+              "str": "هل كنت تعلم؟ الشخص المحظوظ بهذا الشكل",
               "strWidth": 598.75
             },
             {
@@ -8913,7 +8913,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "happens to make for a tough Trainer.",
+              "str": "يكون أيضًا مدربًا قويًا.",
               "strWidth": 481.6875
             },
             {
@@ -8921,7 +8921,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Are you willing to try your luck against that?",
+              "str": "هل أنت مستعد لتجربة حظك ضد ذلك؟",
               "strWidth": 571.7344
             }
           ]
@@ -8957,7 +8957,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s just one loss. We can make that back with a",
+              "str": "إنها مجرد خسارة واحدة. يمكننا تعويض ذلك",
               "strWidth": 613.40625
             },
             {
@@ -8965,7 +8965,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "big win next time!",
+              "str": "بفوز كبير في المرة القادمة!",
               "strWidth": 229.73438
             }
           ]
@@ -9001,7 +9001,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There’s no need for technique. You just have to",
+              "str": "لا حاجة للتقنيات. عليك فقط",
               "strWidth": 618.25
             },
             {
@@ -9009,7 +9009,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "read what’s in your opponent’s heart.",
+              "str": "أن تقرأ ما في قلب خصمك",
               "strWidth": 483.375
             }
           ]
@@ -9045,7 +9045,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Now, when I say “heart,” I don’t mean what a",
+              "str": "الآن، عندما أقول 'قلب'، لا أعني",
               "strWidth": 586.2969
             },
             {
@@ -9053,7 +9053,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "person is thinking. It’s about how they want to",
+              "str": "ما يفكر فيه الشخص. إنه يتعلق بكيف",
               "strWidth": 597.09375
             },
             {
@@ -9061,7 +9061,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "be perceived.",
+              "str": " يريد أن يُنظر إليه",
               "strWidth": 177.53125
             },
             {
@@ -9069,7 +9069,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Do you... Would you like me to think of you as a",
+              "str": "هل... هل تود أن أفكر فيك",
               "strWidth": 630.8594
             },
             {
@@ -9077,7 +9077,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "tough Trainer?",
+              "str": "كمدرب قوي؟",
               "strWidth": 188.57812
             }
           ]
@@ -9113,7 +9113,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I had a bad feeling about this Trainer...",
+              "str": "كان لدي شعور سيء تجاه هذا المدرب..",
               "strWidth": 505.92188
             }
           ]
@@ -9149,7 +9149,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No, really? Wooow, that is so neat! How can you",
+              "str": "لا، حقاً؟ واو، هذا رائع جداً! كيف يمكنك",
               "strWidth": 633.5781
             },
             {
@@ -9157,7 +9157,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "tell these things?",
+              "str": "معرفة هذه الأشياء؟",
               "strWidth": 218.98438
             }
           ]
@@ -9193,7 +9193,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "My boyfriend could tell that deep down,",
+              "str": "يمكن لصديقي أن يخبر أنني في أعماقي،",
               "strWidth": 526.4531
             },
             {
@@ -9201,7 +9201,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’m actually a frightened and lonely child!",
+              "str": "أنا في الحقيقة طفلة خائفة ووحيدة! ",
               "strWidth": 537.28125
             },
             {
@@ -9209,7 +9209,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I don’t think I could ever lose with him.",
+              "str": "لا أعتقد أنني يمكن أن أخسر معه أبداً.",
               "strWidth": 505.375
             },
             {
@@ -9217,7 +9217,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Want to test that theory?",
+              "str": "هل تود اختبار هذه النظرية؟",
               "strWidth": 327.25
             }
           ]
@@ -9253,7 +9253,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s amazing that you predicted you would lose!",
+              "str": "من الرائع أنك توقعت أنك ستخسر!",
               "strWidth": 612.7031
             }
           ]
@@ -9289,7 +9289,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Let’s savor this extravagant meal and think of",
+              "str": "دعونا نستمتع بهذه الوجبة الفاخرة ونتأمل",
               "strWidth": 586.875
             },
             {
@@ -9297,7 +9297,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "what it represents. We can use that as motivation",
+              "str": "فيما تمثله. يمكننا استخدام ذلك كتحفيز",
               "strWidth": 636.375
             },
             {
@@ -9305,7 +9305,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to keep winning at life!",
+              "str": "للاستمرار في الفوز في الحياة!",
               "strWidth": 297.57812
             }
           ]
@@ -9341,7 +9341,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Personally, I think there are two kinds of people:",
+              "str": "شخصيًا، أعتقد أن هناك نوعين من الأشخاص:",
               "strWidth": 631.96875
             },
             {
@@ -9349,7 +9349,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "those who face up to any challenge, and those",
+              "str": "أولئك الذين يواجهون أي تحدٍ، ",
               "strWidth": 603.7969
             },
             {
@@ -9357,7 +9357,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "who duck and cover.",
+              "str": "وأولئك الذين يختبئون ويتجنبون.",
               "strWidth": 267.0625
             },
             {
@@ -9365,7 +9365,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’re the type who faces up to any challenge,",
+              "str": "نت من النوع الذي يواجه أي تحدٍ،",
               "strWidth": 612.375
             },
             {
@@ -9373,7 +9373,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "am I right?",
+              "str": " أليس كذلك؟",
               "strWidth": 137.29688
             }
           ]
@@ -9409,7 +9409,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If I had the power of premonition, I’d be a terror",
+              "str": "لو كان لدي القدرة على التنبؤ بالمستقبل، لكنتُ رعبًا",
               "strWidth": 630.09375
             },
             {
@@ -9417,7 +9417,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on the markets.",
+              "str": "في أسواق المال.",
               "strWidth": 199.59375
             },
             {
@@ -9425,7 +9425,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "But you know that’s not really possible.",
+              "str": "لكنك تعلم أن هذا ليس ممكنًا حقًا",
               "strWidth": 508.34375
             }
           ]
@@ -9461,7 +9461,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "How can you guess right about everything all",
+              "str": "كيف يمكنك أن تخمن الصواب في كل شيء",
               "strWidth": 582.7031
             },
             {
@@ -9469,7 +9469,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the time?",
+              "str": "طوال الوقت؟",
               "strWidth": 121.078125
             },
             {
@@ -9477,7 +9477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Do you really have the power of premonition?",
+              "str": "هل لديك حقًا القدرة على التنبؤ بالمستقبل؟",
               "strWidth": 598.0156
             }
           ]
@@ -9513,7 +9513,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’m convinced that he has some extrasensory",
+              "str": "أنا مقتنع أنه يمتلك بعض القوى الخارقة",
               "strWidth": 576.59375
             },
             {
@@ -9521,7 +9521,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "power or something.",
+              "str": "أو شيء من هذا القبيل.",
               "strWidth": 264.26562
             },
             {
@@ -9529,7 +9529,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If I’m teaming up with a guy like that, are you",
+              "str": "إذا كنت سأشارك مع شخص مثل هذا،",
               "strWidth": 589.53125
             },
             {
@@ -9537,7 +9537,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "sure you want to do this?",
+              "str": "هل أنت متأكد أنك تريد القيام بذلك؟",
               "strWidth": 324.78125
             }
           ]
@@ -9573,7 +9573,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If it’s not premonition, did you...maybe come",
+              "str": "إذا لم يكن تنبؤًا، هل... ربما",
               "strWidth": 584.53125
             },
             {
@@ -9581,7 +9581,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "from the future?",
+              "str": "جئت من المستقبل؟",
               "strWidth": 209.29688
             }
           ]
@@ -9617,7 +9617,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "One Pokémon is insufficient if you want to battle",
+              "str": "بوكيمون واحد غير كافٍ إذا كنت تريد",
               "strWidth": 633.5
             },
             {
@@ -9625,7 +9625,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "against us.",
+              "str": "أن تتبارى ضدنا.",
               "strWidth": 135.20312
             }
           ]
@@ -9661,7 +9661,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you’d bring two or more Pokémon, we could",
+              "str": "إذا كنت ستجلب اثنين أو أكثر من البوكيمونات",
               "strWidth": 602.3906
             },
             {
@@ -9669,7 +9669,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "have a battle with you.",
+              "str": "يمكننا التبارز معك",
               "strWidth": 295.35938
             }
           ]
@@ -9705,7 +9705,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm. This beverage’s coloration borders on the",
+              "str": "همم. لون هذا المشروب يقترب من كونه",
               "strWidth": 624.1406
             },
             {
@@ -9713,7 +9713,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "positively toxic... However, my analysis indicates",
+              "str": "ساماً بشكل إيجابي... ومع ذلك، تشير تحليلاتي",
               "strWidth": 628.1094
             },
             {
@@ -9721,7 +9721,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "that it is composed of natural ingredients.",
+              "str": "إلى أنه يتكون من مكونات طبيعية.",
               "strWidth": 539.84375
             }
           ]
@@ -9757,7 +9757,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What is it? You are...? Oh, yes, a Trainer.",
+              "str": "ماذا لديك؟ أنت... أوه، نعم، مدرب",
               "strWidth": 534.9375
             }
           ]
@@ -9793,7 +9793,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The results of that battle are insignificant.",
+              "str": "نتائج تلك المعركة غير مهمة.",
               "strWidth": 539.8125
             },
             {
@@ -9801,7 +9801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Let’s celebrate.",
+              "str": "دعنا نحتفل.",
               "strWidth": 199.79688
             }
           ]
@@ -9837,7 +9837,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, dear! I wish you wouldn’t!",
+              "str": "آه، عزيزي! أتمنى ألا تفعل ذلك!",
               "strWidth": 386.96875
             },
             {
@@ -9845,7 +9845,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We’re at a fancy restaurant, and you want to",
+              "str": "نحن في مطعم فاخر،",
               "strWidth": 578.71875
             },
             {
@@ -9853,7 +9853,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "analyze what’s served?",
+              "str": "وأنت تريد تحليل ما يقدم؟",
               "strWidth": 294.6875
             }
           ]
@@ -9889,7 +9889,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, you’re a Trainer?",
+              "str": "أوه، أنت مدرب بوكيمون؟",
               "strWidth": 277.03125
             }
           ]
@@ -9925,7 +9925,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cheers, dear! Please don’t start analyzing what",
+              "str": "في صحتك، عزيزي! من فضلك، لا تبدأ في تحليل",
               "strWidth": 605.0
             },
             {
@@ -9933,7 +9933,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "we just drank!",
+              "str": "ما شربناه للتو!",
               "strWidth": 177.48438
             }
           ]
@@ -9969,7 +9969,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Interesting. These hors d’oeuvres are fascinating.",
+              "str": "مثير للاهتمام. هذه المقبلات رائعة.",
               "strWidth": 631.1719
             },
             {
@@ -9977,7 +9977,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Plant fiber 20%, iron 5%, protein 35%.",
+              "str": "الألياف النباتية 20%، الحديد 5%، البروتين 35%.",
               "strWidth": 505.25
             },
             {
@@ -9985,7 +9985,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Curiouser and curiouser...",
+              "str": "عجيب وعجيب..",
               "strWidth": 328.85938
             }
           ]
@@ -10021,7 +10021,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What is it now? Do you want me to analyze your",
+              "str": "اذا الآن؟ هل تريدني أن أحلل",
               "strWidth": 627.1719
             },
             {
@@ -10029,7 +10029,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "skill level?",
+              "str": "مستوى مهارتك؟",
               "strWidth": 134.21875
             }
           ]
@@ -10065,7 +10065,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I feel compelled to analyze that which is",
+              "str": "أشعر بأنني مدفوع لتحليل ما",
               "strWidth": 521.59375
             },
             {
@@ -10073,7 +10073,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "unknown to me. By defining its composition,",
+              "str": "هو غير معروف لي. من خلال تحديد تركيبه،",
               "strWidth": 572.9375
             },
             {
@@ -10081,7 +10081,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I feel reassured in my knowledge.",
+              "str": "أشعر بالطمأنينة في معرفتي.",
               "strWidth": 432.40625
             }
           ]
@@ -10117,7 +10117,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, dear, must you go on that way? It takes the",
+              "str": "يا عزيزي، هل يجب عليك أن تستمر بهذه الطريقة؟",
               "strWidth": 618.1875
             },
             {
@@ -10125,7 +10125,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "magic out of a meal. I wish you wouldn’t think",
+              "str": "هذا يسلب وجبتنا بعضًا من سحرها.",
               "strWidth": 594.1875
             },
             {
@@ -10133,7 +10133,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "about your research while we’re out eating!",
+              "str": "أتمنى لو أنك لا تفكر في أبحاثك بينما نحن في الخارج نتناول الطعام!",
               "strWidth": 559.4375
             }
           ]
@@ -10169,7 +10169,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "My husband never ceases to amaze me with his",
+              "str": "زوجي لا يكف عن إدهاشي",
               "strWidth": 609.2344
             },
             {
@@ -10177,7 +10177,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "dedication to research.",
+              "str": "بتفانيه في البحث.",
               "strWidth": 297.82812
             },
             {
@@ -10185,7 +10185,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you care to have a battle with us?",
+              "str": "هل ترغب في خوض معركة معنا؟",
               "strWidth": 532.21875
             }
           ]
@@ -10221,7 +10221,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you were to ask me, I’d rather not know about",
+              "str": "لو سألتني، فأنا أفضل ألا أعرف عن الأشياء",
               "strWidth": 625.90625
             },
             {
@@ -10229,7 +10229,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "what I don’t understand. It’s simpler that way.",
+              "str": "التي لا أفهمها. الأمر أبسط بهذه الطريقة.",
               "strWidth": 590.0469
             }
           ]
@@ -10265,7 +10265,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "By my calculations, the main dish should have",
+              "str": "وفقاً لحساباتي، كان ينبغي أن يصل الطبق الرئيسي الآن",
               "strWidth": 590.4531
             },
             {
@@ -10273,7 +10273,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "arrived by now. Perhaps the thermal setting is",
+              "str": "ربما تكون درجة الحرارة منخفضة جداً ",
               "strWidth": 588.59375
             },
             {
@@ -10281,7 +10281,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "too low to prepare the food efficiently?",
+              "str": "لإعداد الطعام بكفاءة؟",
               "strWidth": 515.2344
             }
           ]
@@ -10317,7 +10317,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You there! Let’s battle to consume time!",
+              "str": "أنت هناك! لنتبارز لنمضي بعض الوقت!",
               "strWidth": 519.5781
             }
           ]
@@ -10353,7 +10353,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "They brought the main course while we were",
+              "str": "أحضروا الطبق الرئيسي بينما كنا نتبارز",
               "strWidth": 575.7656
             },
             {
@@ -10361,7 +10361,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "battling... The calorie content appears to be",
+              "str": "ويبدو أن محتوى السعرات الحرارية",
               "strWidth": 572.625
             },
             {
@@ -10369,7 +10369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "alarmingly high.",
+              "str": "مرتفع بشكل مقلق.",
               "strWidth": 203.8125
             }
           ]
@@ -10405,7 +10405,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There isn’t any point getting impatient over the",
+              "str": "لا داعي للنفاد صبرك بسبب الطعام،",
               "strWidth": 613.6719
             },
             {
@@ -10413,7 +10413,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "food, dear. Isn’t this the sort of situation that you",
+              "str": "عزيزي. أليست هذه هي الحالة التي",
               "strWidth": 638.8594
             },
             {
@@ -10421,7 +10421,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "brought your Pokémon for?",
+              "str": "جلبت فيها البوكيمون الخاص بك؟",
               "strWidth": 354.95312
             }
           ]
@@ -10457,7 +10457,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh, what good timing! Would you join us for a",
+              "str": "يا للوقت المناسب! هل تود الانضمام إلينا ",
               "strWidth": 602.5625
             },
             {
@@ -10465,7 +10465,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "quick battle?",
+              "str": "في معركة سريعة؟",
               "strWidth": 168.76562
             }
           ]
@@ -10501,7 +10501,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Don’t fret, dear. If we take in too many calories,",
+              "str": "لا تقلقي، عزيزتي. إذا استهلكنا الكثير من السعرات الحرارية، ",
               "strWidth": 625.4844
             },
             {
@@ -10509,7 +10509,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "we can always work them off by battling!",
+              "str": "يمكننا دائمًا حرقها عبر المعارك!",
               "strWidth": 526.5156
             }
           ]
@@ -10545,7 +10545,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Does this mean I’m only talented as an artist?",
+              "str": "هل يعني هذا أنني موهوب فقط كفنان؟",
               "strWidth": 589.5625
             }
           ]
@@ -10581,7 +10581,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’re a lucky one...",
+              "str": "أنت محظوظ...",
               "strWidth": 266.75
             }
           ]
@@ -10617,7 +10617,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I never thought I’d lose at Father’s restaurant...",
+              "str": "لم أكن أعتقد أنني سأخسر في مطعم والدي...",
               "strWidth": 608.1875
             }
           ]
@@ -10653,7 +10653,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh... How could I lose at dear Papa’s restaurant?",
+              "str": "أوه... كيف يمكن أن أخسر في مطعم بابا العزيز؟",
               "strWidth": 635.7344
             }
           ]
@@ -10689,7 +10689,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ack! I lost... Check, please!",
+              "str": "آخ! لقد خسرت... الفاتورة، من فضلك!",
               "strWidth": 349.89062
             }
           ]
@@ -10725,7 +10725,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "So young, and yet so strong!",
+              "str": "أنت صغير جدًا، ومع ذلك قوي للغاية! ",
               "strWidth": 368.29688
             },
             {
@@ -10733,7 +10733,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "How very remarkable!",
+              "str": "إنه لأمر رائع حقًا!",
               "strWidth": 282.07812
             }
           ]
@@ -10769,7 +10769,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I don’t care if I lose. I’m still a happy guy.",
+              "str": "لا يهمني إذا خسرت. أنا ما زلت رجلًا سعيدًا.",
               "strWidth": 538.7344
             }
           ]
@@ -10805,7 +10805,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Waaah! You’re too much!",
+              "str": "وااه! أنت أكثر مما ينبغي!",
               "strWidth": 329.35938
             }
           ]
@@ -10841,7 +10841,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Wow... You’re out there.",
+              "str": "واو... أنت شجاع جدًا.",
               "strWidth": 319.76562
             }
           ]
@@ -10877,7 +10877,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No one’s hurt?",
+              "str": "لم يتأذى أحد ؟",
               "strWidth": 190.5
             }
           ]
@@ -10913,7 +10913,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tough, aren’t you...?",
+              "str": "أنت قوي، أليس كذلك...؟",
               "strWidth": 268.46875
             }
           ]
@@ -10949,7 +10949,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I was with my dad, too...",
+              "str": "كنت مع والدي أيضًا....",
               "strWidth": 315.28125
             }
           ]
@@ -10985,7 +10985,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That’s quite the demonstration.",
+              "str": "هذا حقًا عرض مميز",
               "strWidth": 406.0
             }
           ]
@@ -11021,7 +11021,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm... I should have expected this.",
+              "str": "همم... كان يجب أن أتوقع ذلك.",
               "strWidth": 462.29688
             }
           ]
@@ -11057,7 +11057,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "My luck’s run out...",
+              "str": "ان حظي بدأ ينفذ...",
               "strWidth": 246.15625
             }
           ]
@@ -11093,7 +11093,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I think I have what it takes to become a",
+              "str": "أعتقد أن لدي ما يلزم لأصبح ",
               "strWidth": 510.92188
             },
             {
@@ -11101,7 +11101,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "successful model!",
+              "str": "عارض أزياء ناجح!",
               "strWidth": 223.96875
             }
           ]
@@ -11137,7 +11137,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm... I failed to foresee this outcome.",
+              "str": "همم... لم أتوقع هذه النتيجة.",
               "strWidth": 513.7344
             }
           ]
@@ -11173,7 +11173,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You know, I had confidence before heading",
+              "str": "كنت واثقًا قبل الدخول",
               "strWidth": 568.90625
             },
             {
@@ -11181,7 +11181,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "into this.",
+              "str": "في هذا",
               "strWidth": 111.71875
             }
           ]
@@ -11217,7 +11217,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh snap! That’s how it is, then?",
+              "str": "أوه، هل هكذا هي الأمور إذن؟",
               "strWidth": 407.09375
             }
           ]
@@ -11253,7 +11253,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I like to study a lot. I thought I could win...",
+              "str": "أحب الدراسة كثيراً. كنت أظن أنني سأفوز....",
               "strWidth": 550.8906
             }
           ]
