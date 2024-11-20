@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "CAPSULE DECORATION",
+              "str": "ديكورات الكبسولة",
               "strWidth": 324.8125
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a Ball Capsule.",
+              "str": "رجاءا اختر كبسولة الكرة ",
               "strWidth": 367.75
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What would you like to do with this",
+              "str": "ما الذي تريد فعله على",
               "strWidth": 460.59375
             },
             {
@@ -125,7 +125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ball Capsule?",
+              "str": "كبسولة الكرة?",
               "strWidth": 174.95312
             }
           ]
@@ -161,7 +161,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to quit without changing the",
+              "str": "هل تريد الخروج من دون التعديل على ",
               "strWidth": 571.53125
             },
             {
@@ -169,7 +169,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ball Capsule design?",
+              "str": "تصميم كبسولة الكرة?",
               "strWidth": 267.76562
             }
           ]
@@ -205,7 +205,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You cannot place any more Stickers.",
+              "str": "لا يمكنك اضافة ملصقات اخرى.",
               "strWidth": 470.95312
             }
           ]
@@ -241,7 +241,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There are no Stickers left.",
+              "str": "لم يتبقى اي ملصقات.",
               "strWidth": 333.125
             }
           ]
@@ -277,7 +277,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to remove all Stickers from",
+              "str": "هل تريد ازالة جميع الملصقات من",
               "strWidth": 552.34375
             },
             {
@@ -285,7 +285,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Ball Capsule?",
+              "str": "كبسولة الكرة?",
               "strWidth": 225.21875
             }
           ]
@@ -321,7 +321,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "All Stickers have been removed.",
+              "str": "تم ازالة جميع الملصقات.",
               "strWidth": 415.8125
             }
           ]
@@ -357,7 +357,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Ball Capsule would you like to swap",
+              "str": "أي كبسولة كرة تريد استبدالها",
               "strWidth": 555.84375
             },
             {
@@ -365,7 +365,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "it with?",
+              "str": "بها?",
               "strWidth": 93.84375
             }
           ]
@@ -401,7 +401,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Confirm",
+              "str": " تأكيد",
               "strWidth": 111.40625
             }
           ]
@@ -437,7 +437,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Back",
+              "str": " رجوع",
               "strWidth": 70.046875
             }
           ]
@@ -473,7 +473,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Toggle 2D/3D",
+              "str": " تحويل 2D/3D",
               "strWidth": 200.73438
             }
           ]
@@ -509,7 +509,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Toggle List",
+              "str": " تشغيل القائمة",
               "strWidth": 151.89062
             }
           ]
@@ -545,7 +545,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Place Sticker",
+              "str": " اضافة ملصق",
               "strWidth": 174.125
             }
           ]
@@ -581,7 +581,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Grab Sticker",
+              "str": " خذ ملصق",
               "strWidth": 170.375
             }
           ]
@@ -617,7 +617,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Select Pokémon",
+              "str": "أختر بوكيمون",
               "strWidth": 207.51562
             }
           ]
@@ -653,7 +653,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Remove Pokémon",
+              "str": "ازالة بوكيمون",
               "strWidth": 231.85938
             }
           ]
@@ -689,7 +689,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Place Sticker",
+              "str": "اضافة ملصق",
               "strWidth": 165.45312
             }
           ]
@@ -725,7 +725,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Remove all Stickers",
+              "str": "ازالة جميع الملصقات",
               "strWidth": 250.73438
             }
           ]
@@ -761,7 +761,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Swap",
+              "str": "تبديل",
               "strWidth": 67.8125
             }
           ]
@@ -797,7 +797,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "خروج",
               "strWidth": 57.625
             }
           ]
@@ -833,7 +833,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Ball Capsules have been swapped.",
+              "str": "تم استبدال كبسولة الكرة.",
               "strWidth": 503.32812
             }
           ]
@@ -869,7 +869,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t place any Stickers on this Ball Capsule.",
+              "str": "لا يمكنك اضافة اي ملصقات على كبسولة الكرة هذه.",
               "strWidth": 636.8594
             }
           ]
@@ -926,7 +926,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You don’t have any Stickers that you can place.",
+              "str": "لا تمتلك اي ملصقات يمكنك وضعها على هذه الكبسولة.",
               "strWidth": 616.5781
             }
           ]
@@ -962,7 +962,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to copy to this Ball Capsule?",
+              "str": "هل تريد نسخ المحتويات الى كبسولة الكرة هذه ?",
               "strWidth": 577.2656
             }
           ]
@@ -998,7 +998,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t copy to this Ball Capsule because it",
+              "str": "لا يمكنك النسخ الى كبسولة الكرة هذه بسبب",
               "strWidth": 594.8281
             },
             {
@@ -1006,7 +1006,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "already has Stickers placed on it.",
+              "str": "وجود ملصقات مسبقاً.",
               "strWidth": 426.25
             }
           ]
@@ -1042,7 +1042,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t copy to the same Ball Capsule.",
+              "str": "لا يمكنك النسخ الى نفس كبسولة الكرة.",
               "strWidth": 533.21875
             }
           ]
@@ -1078,7 +1078,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You don’t have all the Stickers you need.",
+              "str": "انت لا تمتلك جميع الملصقات التي تحتاجها.",
               "strWidth": 533.8594
             }
           ]
@@ -1114,7 +1114,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to copy just the Stickers that",
+              "str": "هل تريد نسخ فقط الملصقات",
               "strWidth": 575.0781
             },
             {
@@ -1122,7 +1122,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you have?",
+              "str": "التي تمتلكها?",
               "strWidth": 131.17188
             }
           ]
@@ -1158,7 +1158,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Ball Capsule has been copied.",
+              "str": "تم نسخ كبسولة الكرة.",
               "strWidth": 448.125
             }
           ]
@@ -1194,7 +1194,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You were unable to copy because you don’t have",
+              "str": "لم يتم نسخ كبسولة الكرة لانك لا تمتلك",
               "strWidth": 642.6875
             },
             {
@@ -1202,7 +1202,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Stickers you need.",
+              "str": "الملصقات التي تحتاجها.",
               "strWidth": 286.4375
             }
           ]
@@ -1238,7 +1238,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "When you toggle between 2D and 3D mode, all",
+              "str": "عندما يتم التبديل بين وضع ثلاثي الابعاد والوضع ثنائي الابعاد",
               "strWidth": 627.3281
             },
             {
@@ -1246,7 +1246,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the placed Stickers will be removed.",
+              "str": "سيتم ازالة جميع الملصقات.",
               "strWidth": 468.4375
             }
           ]
@@ -1282,7 +1282,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to toggle modes?",
+              "str": "هل تريد تبديل الانماط?",
               "strWidth": 432.71875
             }
           ]
@@ -1318,7 +1318,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Remove Sticker",
+              "str": " ازالة ملصق",
               "strWidth": 208.35938
             }
           ]
@@ -1354,7 +1354,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Reset Position",
+              "str": " اعادة تعيين الموقع",
               "strWidth": 191.42188
             }
           ]
@@ -1390,7 +1390,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Pause",
+              "str": " ايقاف مؤقت",
               "strWidth": 83.3125
             }
           ]
@@ -1426,7 +1426,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Toggle Camera",
+              "str": " تفعيل الكاميرا",
               "strWidth": 206.9375
             }
           ]
@@ -1462,7 +1462,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Copy",
+              "str": "نسخ",
               "strWidth": 69.03125
             }
           ]
@@ -1498,7 +1498,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم",
               "strWidth": 46.8125
             }
           ]
@@ -1534,7 +1534,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "كلا",
               "strWidth": 38.78125
             }
           ]
@@ -1570,7 +1570,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Preview",
+              "str": "عرض",
               "strWidth": 99.375
             }
           ]
@@ -1606,7 +1606,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotate",
+              "str": "تدوير",
               "strWidth": 86.140625
             }
           ]
@@ -2187,7 +2187,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Return to List",
+              "str": " الرجوع الى القائمة",
               "strWidth": 181.8125
             }
           ]
@@ -2223,7 +2223,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gym Leader",
+              "str": "قائد الصالة",
               "strWidth": 158.23438
             }
           ]
@@ -2259,7 +2259,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Elite Four",
+              "str": "النخبة الأربعة",
               "strWidth": 124.46875
             }
           ]
@@ -2295,7 +2295,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Champion",
+              "str": "البطل الأول",
               "strWidth": 131.4375
             }
           ]
@@ -2331,7 +2331,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tower Tycoon",
+              "str": "برج تايكون",
               "strWidth": 183.73438
             }
           ]
@@ -2367,7 +2367,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Trainer",
+              "str": "مدرب بوكيمون",
               "strWidth": 219.23438
             }
           ]
@@ -2403,7 +2403,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Roark",
+              "str": "رورك",
               "strWidth": 74.546875
             }
           ]
@@ -2439,7 +2439,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gardenia",
+              "str": "كاردينيا",
               "strWidth": 120.015625
             }
           ]
@@ -2475,7 +2475,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Maylene",
+              "str": "مايلين",
               "strWidth": 110.953125
             }
           ]
@@ -2511,7 +2511,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Wake",
+              "str": "وايك",
               "strWidth": 74.71875
             }
           ]
@@ -2547,7 +2547,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fantina",
+              "str": "فانتينا",
               "strWidth": 95.5625
             }
           ]
@@ -2583,7 +2583,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Candice",
+              "str": "كانديس",
               "strWidth": 105.9375
             }
           ]
@@ -2619,7 +2619,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Byron",
+              "str": "بايرون",
               "strWidth": 74.078125
             }
           ]
@@ -2655,7 +2655,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Volkner",
+              "str": "فولكنر",
               "strWidth": 100.953125
             }
           ]
@@ -2691,7 +2691,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Aaron",
+              "str": "ايرون",
               "strWidth": 77.8125
             }
           ]
@@ -2727,7 +2727,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bertha",
+              "str": "بيرثا",
               "strWidth": 83.859375
             }
           ]
@@ -2763,7 +2763,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Flint",
+              "str": "فلينت",
               "strWidth": 57.171875
             }
           ]
@@ -2799,7 +2799,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lucian",
+              "str": "لوشيان",
               "strWidth": 82.984375
             }
           ]
@@ -2835,7 +2835,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cynthia",
+              "str": "سينثيا",
               "strWidth": 98.734375
             }
           ]
@@ -2871,7 +2871,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Palmer",
+              "str": "بالمر",
               "strWidth": 87.703125
             }
           ]
@@ -2907,7 +2907,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cheryl",
+              "str": "شيرل",
               "strWidth": 83.609375
             }
           ]
@@ -2943,7 +2943,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mira",
+              "str": "ميرا",
               "strWidth": 58.546875
             }
           ]
@@ -2979,7 +2979,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Riley",
+              "str": "ريلي",
               "strWidth": 63.359375
             }
           ]
@@ -3015,7 +3015,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Marley",
+              "str": "مارلي",
               "strWidth": 89.0625
             }
           ]
@@ -3051,7 +3051,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Buck",
+              "str": "باخ",
               "strWidth": 61.65625
             }
           ]
@@ -3136,7 +3136,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stickers Needed",
+              "str": "مطلوب ملصقات",
               "strWidth": 211.78125
             }
           ]
@@ -3334,7 +3334,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to try this Capsule Decoration?",
+              "str": "هل تريد ان تجرب ديكورات الكبسولة?",
               "strWidth": 609.09375
             }
           ]
@@ -3370,7 +3370,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gym Leader",
+              "str": "قائد الصالة",
               "strWidth": 158.23438
             }
           ]
@@ -3406,7 +3406,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Trainer",
+              "str": "مدرب البوكيون",
               "strWidth": 219.23438
             }
           ]
@@ -3442,7 +3442,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Select",
+              "str": " أختر",
               "strWidth": 87.84375
             }
           ]
@@ -3478,7 +3478,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Preview",
+              "str": " عرض",
               "strWidth": 108.046875
             }
           ]

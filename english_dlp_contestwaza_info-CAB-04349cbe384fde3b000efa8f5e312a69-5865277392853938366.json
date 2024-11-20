@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This move has no additional effects.",
+              "str": "أن هذه الحركة ليس لديها أي تاثيرات",
               "strWidth": 466.0625
             }
           ]
@@ -130,7 +130,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "For ",
+              "str": "لمدة ",
               "strWidth": 51.640625
             },
             {
@@ -146,7 +146,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " seconds, missed notes will not be judged.",
+              "str": " ثواني, النقاط المفقودة لن تؤثر على نتيجتك.",
               "strWidth": 545.8906
             }
           ]
@@ -182,7 +182,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This move can’t be used.",
+              "str": "لا يمكن استخدام هذه الحركة",
               "strWidth": 321.60938
             },
             {
@@ -190,7 +190,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s recommended that this move is forgotten.",
+              "str": "يستحسن ان تقوم بنسيان هذه الحركة.",
               "strWidth": 589.2969
             },
             {
@@ -198,7 +198,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Once forgotten, this move can’t be remembered.",
+              "str": "وبمجرد نسيانها لن يمكنك تذكر هذه الحركة للابد.",
               "strWidth": 634.96875
             }
           ]
@@ -268,7 +268,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Groove will not drop for ",
+              "str": "الإيقاع لن يتوقف ولو  ",
               "strWidth": 324.39062
             },
             {
@@ -284,7 +284,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " seconds.",
+              "str": " ثواني.",
               "strWidth": 119.546875
             }
           ]
@@ -375,7 +375,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "For ",
+              "str": "لمدة ",
               "strWidth": 51.640625
             },
             {
@@ -391,7 +391,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " seconds, it will be a bit easier to fill up the",
+              "str": " ثوان, سيكون من الأسهل قليلاً ملء",
               "strWidth": 561.8281
             },
             {
@@ -399,7 +399,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Heart Gauge.",
+              "str": "عداد القلب.",
               "strWidth": 175.92188
             }
           ]
@@ -448,7 +448,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "For ",
+              "str": "لمدة ",
               "strWidth": 51.640625
             },
             {
@@ -464,7 +464,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " seconds, it will be easier to fill up the",
+              "str": " ثوان, سيكون من الأسهل قليلاً ملء",
               "strWidth": 494.28125
             },
             {
@@ -472,7 +472,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Heart Gauge.",
+              "str": "عداد القلب.",
               "strWidth": 175.92188
             }
           ]
@@ -521,7 +521,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "For ",
+              "str": "لمدة ",
               "strWidth": 51.640625
             },
             {
@@ -537,7 +537,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " seconds, it will be much easier to fill up the",
+              "str": " ثوانٍ، سيكون من الأسهل بكثير ملء",
               "strWidth": 570.78125
             },
             {
@@ -545,7 +545,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Heart Gauge.",
+              "str": "عداد القلب.",
               "strWidth": 175.92188
             }
           ]
@@ -594,7 +594,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hype Points gained will increase by ",
+              "str": "ستزداد نقاط الحماس المكتسبة بنسبة  ",
               "strWidth": 467.90625
             },
             {
@@ -610,7 +610,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " if groove",
+              "str": " إذا كان الإيقاع",
               "strWidth": 124.921875
             },
             {
@@ -618,7 +618,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "is positive.",
+              "str": "إيجابيًا.",
               "strWidth": 136.9375
             }
           ]
@@ -709,7 +709,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hype Points gained will increase by ",
+              "str": "ستزداد نقاط الحماس المكتسبة بنسبة ",
               "strWidth": 467.90625
             },
             {
@@ -725,7 +725,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " if groove",
+              "str": " إذا كان الإيقاع",
               "strWidth": 124.921875
             },
             {
@@ -733,7 +733,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "is negative.",
+              "str": "سلبياً.",
               "strWidth": 146.4375
             }
           ]
@@ -811,7 +811,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You will receive 1−5 Hype Points, depending on the",
+              "str": "سوف تحصل على 1 إلى 5 نقاط حماس، وذلك بناءً",
               "strWidth": 684.84375
             },
             {
@@ -819,7 +819,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon’s groove.",
+              "str": "على إيقاع البوكيمون.",
               "strWidth": 246.79688
             }
           ]

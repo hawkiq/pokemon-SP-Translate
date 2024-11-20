@@ -81,7 +81,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A small shard that emanates an enigmatic power. Inside",
+              "str": "قطعة صغيرة تشع بقوة غامضة. داخل ",
               "strWidth": 717.21875
             },
             {
@@ -89,7 +89,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the shard, you can see a pattern that looks like",
+              "str": " القطعة، يمكنك رؤية نمط يشبه",
               "strWidth": 607.8906
             },
             {
@@ -97,7 +97,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas roses.",
+              "str": " ورود الراماناس.",
               "strWidth": 195.71875
             }
           ]
@@ -133,7 +133,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A large shard that emanates an enigmatic power. Inside",
+              "str": "قطعة كبيرة تشع بقوة غامضة. داخل",
               "strWidth": 717.0156
             },
             {
@@ -141,7 +141,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the shard, you can see a pattern that looks like",
+              "str": " القطعة، يمكنك رؤية نمط يشبه",
               "strWidth": 607.8906
             },
             {
@@ -149,7 +149,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas roses.",
+              "str": "ورود الراماناس.",
               "strWidth": 195.71875
             }
           ]
@@ -185,7 +185,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -193,7 +193,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Discovery Room",
+              "str": "باتصال قوي بينه وبين غرفة الاكتشاف في",
               "strWidth": 726.46875
             },
             {
@@ -201,7 +201,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "at Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 219.96875
             }
           ]
@@ -345,7 +345,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -353,7 +353,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Kanto Room at",
+              "str": "باتصال قوي بينه وبين غرفة كانتو في",
               "strWidth": 711.1875
             },
             {
@@ -361,7 +361,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 185.95312
             }
           ]
@@ -505,7 +505,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر ",
               "strWidth": 720.8906
             },
             {
@@ -513,7 +513,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Johto Room at",
+              "str": "باتصال قوي بينه وبين غرفة جوتو في",
               "strWidth": 706.6406
             },
             {
@@ -521,7 +521,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 185.95312
             }
           ]
@@ -665,7 +665,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -673,7 +673,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Soul Room at",
+              "str": "باتصال قوي بينه وبين غرفة الأرواح في",
               "strWidth": 690.03125
             },
             {
@@ -681,7 +681,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 185.95312
             }
           ]
@@ -789,7 +789,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -797,7 +797,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Rainbow Room",
+              "str": "باتصال قوي بينه وبين غرفة قوس قزح في",
               "strWidth": 710.375
             },
             {
@@ -805,7 +805,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "at Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 219.96875
             }
           ]
@@ -877,7 +877,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -885,7 +885,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Squall Room at",
+              "str": "باتصال قوي بينه وبين غرفة العاصفة في ",
               "strWidth": 713.2344
             },
             {
@@ -893,7 +893,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 185.95312
             }
           ]
@@ -965,7 +965,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -973,7 +973,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Oceanic Room",
+              "str": "باتصال قوي بينه وبين غرفة المحيط  في",
               "strWidth": 706.7969
             },
             {
@@ -981,7 +981,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "at Ramanas Park.",
+              "str": "حديقة راماناس.",
               "strWidth": 219.96875
             }
           ]
@@ -1053,7 +1053,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح يفيض بطاقة غامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -1061,7 +1061,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Tectonic Room",
+              "str": "باتصال قوي بينه وبين غرفة التكتونية ",
               "strWidth": 711.4375
             },
             {
@@ -1069,7 +1069,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "at Ramanas Park.",
+              "str": "في حديقة راماناس.",
               "strWidth": 219.96875
             }
           ]
@@ -1141,7 +1141,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح مليء بالطاقة الغامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -1149,7 +1149,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Stratospheric",
+              "str": "باتصال قوي بينه وبين غرفة الستراتوسفير",
               "strWidth": 685.90625
             },
             {
@@ -1157,7 +1157,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Room at Ramanas Park.",
+              "str": "في حديقة راماناس.",
               "strWidth": 303.29688
             }
           ]
@@ -1229,7 +1229,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح مليء بالطاقة الغامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -1237,7 +1237,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Genome Room",
+              "str": "باتصال قوي بينه وبين غرفة الجينوم",
               "strWidth": 710.7656
             },
             {
@@ -1245,7 +1245,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "at Ramanas Park.",
+              "str": "في حديقة راماناس.",
               "strWidth": 219.96875
             }
           ]
@@ -1317,7 +1317,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A slate overflowing with enigmatic energy. You can feel",
+              "str": "لوح مليء بالطاقة الغامضة. يمكنك أن تشعر",
               "strWidth": 720.8906
             },
             {
@@ -1325,7 +1325,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a strong connection between it and the Distortion Room",
+              "str": "باتصال قوي بينه وبين غرفة التشوه",
               "strWidth": 728.53125
             },
             {
@@ -1333,7 +1333,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "at Ramanas Park.",
+              "str": "في حديقة راماناس.",
               "strWidth": 219.96875
             }
           ]
@@ -1369,7 +1369,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A glowing orb to be held by Giratina. It boosts the",
+              "str": "كرة متوهجة تحملها جيراتينا. تعزز",
               "strWidth": 656.875
             },
             {
@@ -1377,7 +1377,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "power of Dragon- and Ghost-type moves when it",
+              "str": "قوة الحركات من نوع التنين والشبح",
               "strWidth": 635.3125
             },
             {
@@ -1385,7 +1385,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "is held.",
+              "str": "عند حملها.",
               "strWidth": 92.3125
             }
           ]

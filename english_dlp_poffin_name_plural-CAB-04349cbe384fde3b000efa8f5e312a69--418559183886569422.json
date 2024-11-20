@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy Poffins",
+              "str": "حلويات حارة",
               "strWidth": 164.98438
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy-Dry Poffins",
+              "str": "حلويات حارة - جافة",
               "strWidth": 222.32812
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy-Sweet Poffins",
+              "str": "حلويات حارة - حلوة",
               "strWidth": 253.4375
             }
           ]
@@ -189,7 +189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy-Bitter Poffins",
+              "str": "حلويات حارة - مرة",
               "strWidth": 246.82812
             }
           ]
@@ -225,7 +225,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy-Sour Poffins",
+              "str": "حلويات حارة - حامضة",
               "strWidth": 234.03125
             }
           ]
@@ -261,7 +261,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry-Spicy Poffins",
+              "str": "حلويات جافة - حارة",
               "strWidth": 222.32812
             }
           ]
@@ -297,7 +297,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry Poffins",
+              "str": "حلويات جافة",
               "strWidth": 142.48438
             }
           ]
@@ -333,7 +333,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry-Sweet Poffins",
+              "str": "حلويات جافة - حلوة",
               "strWidth": 230.9375
             }
           ]
@@ -369,7 +369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry-Bitter Poffins",
+              "str": "حلويات جافة - مرة",
               "strWidth": 224.32812
             }
           ]
@@ -405,7 +405,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry-Sour Poffins",
+              "str": "حلويات جافة - حامضة",
               "strWidth": 211.53125
             }
           ]
@@ -441,7 +441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet-Spicy Poffins",
+              "str": "حلويات حلوة - حارة",
               "strWidth": 253.4375
             }
           ]
@@ -477,7 +477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet-Dry Poffins",
+              "str": "حلويات حلوة - جافة",
               "strWidth": 230.9375
             }
           ]
@@ -513,7 +513,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet Poffins",
+              "str": "حلويات حلوة",
               "strWidth": 173.59375
             }
           ]
@@ -549,7 +549,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet-Bitter Poffins",
+              "str": "حلويات حلوة - مرة",
               "strWidth": 255.4375
             }
           ]
@@ -585,7 +585,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet-Sour Poffins",
+              "str": "حلويات حلوة - حامضة",
               "strWidth": 242.64062
             }
           ]
@@ -621,7 +621,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter-Spicy Poffins",
+              "str": "حلويات مرة - حارة",
               "strWidth": 246.82812
             }
           ]
@@ -657,7 +657,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter-Dry Poffins",
+              "str": "حلويات مرة - جافة",
               "strWidth": 224.32812
             }
           ]
@@ -693,7 +693,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter-Sweet Poffins",
+              "str": "حلويات مرة - حلوة",
               "strWidth": 255.4375
             }
           ]
@@ -729,7 +729,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter Poffins",
+              "str": "حلويات مرة",
               "strWidth": 166.98438
             }
           ]
@@ -765,7 +765,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter-Sour Poffins",
+              "str": "حلويات مرة - حامضة",
               "strWidth": 236.03125
             }
           ]
@@ -801,7 +801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour-Spicy Poffins",
+              "str": "حلويات حامضة - حارة",
               "strWidth": 234.03125
             }
           ]
@@ -837,7 +837,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour-Dry Poffins",
+              "str": "حلويات حامضة - جافة",
               "strWidth": 211.53125
             }
           ]
@@ -873,7 +873,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour-Sweet Poffins",
+              "str": "حلويات حامضة - حلوة",
               "strWidth": 242.64062
             }
           ]
@@ -909,7 +909,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour-Bitter Poffins",
+              "str": "حلويات حامضة - مرة",
               "strWidth": 236.03125
             }
           ]
@@ -945,7 +945,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour Poffins",
+              "str": "حلويات حامضة",
               "strWidth": 154.1875
             }
           ]
@@ -981,7 +981,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rich Poffins",
+              "str": "حلويات ممتلئة",
               "strWidth": 151.10938
             }
           ]
@@ -1017,7 +1017,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Overripe Poffins",
+              "str": "حلويات مطبوخة بشكل مبالغ",
               "strWidth": 210.92188
             }
           ]
@@ -1053,7 +1053,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Foul Poffins",
+              "str": "حلويات غير مطبوخة",
               "strWidth": 153.01562
             }
           ]
@@ -1089,7 +1089,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mild Poffins",
+              "str": "حلويات معتدلة",
               "strWidth": 155.0
             }
           ]
@@ -1125,7 +1125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Super Mild Poffins",
+              "str": "حلويات مطبوخة بشكل جيد",
               "strWidth": 237.57812
             }
           ]

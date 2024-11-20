@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Nursery",
+              "str": "حضانة البوكيمون",
               "strWidth": 226.71875
             }
           ]
@@ -207,7 +207,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Obtained Pokémon",
+              "str": "البوكيمون المكتسب",
               "strWidth": 251.76562
             }
           ]
@@ -495,7 +495,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Digital Watch",
+              "str": "ساعة رقمية",
               "strWidth": 178.82812
             }
           ]
@@ -531,7 +531,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Calculator",
+              "str": "آلة حاسبة",
               "strWidth": 132.79688
             }
           ]
@@ -567,7 +567,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Memo Pad",
+              "str": "دفتر الملاحظات",
               "strWidth": 139.35938
             }
           ]
@@ -603,7 +603,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pedometer",
+              "str": "عداد الخطوات",
               "strWidth": 141.04688
             }
           ]
@@ -639,7 +639,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon List",
+              "str": "قائمة البوكيمون",
               "strWidth": 172.48438
             }
           ]
@@ -675,7 +675,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Friendship Checker",
+              "str": "مقياس الصداقة",
               "strWidth": 249.0625
             }
           ]
@@ -711,7 +711,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dowsing Machine",
+              "str": "جهاز الكشف",
               "strWidth": 228.60938
             }
           ]
@@ -747,7 +747,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Egg Monitor",
+              "str": "مراقب البيض",
               "strWidth": 160.07812
             }
           ]
@@ -783,7 +783,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon History",
+              "str": "تاريخ البوكيمونات",
               "strWidth": 220.71875
             }
           ]
@@ -819,7 +819,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Counter",
+              "str": "عداد",
               "strWidth": 104.234375
             }
           ]
@@ -855,7 +855,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Analog Watch",
+              "str": "ساعة عقارب",
               "strWidth": 184.3125
             }
           ]
@@ -891,7 +891,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Marking Map",
+              "str": "خريطة العلامات",
               "strWidth": 172.32812
             }
           ]
@@ -927,7 +927,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coin Toss",
+              "str": "رمي القطعة النقدية",
               "strWidth": 126.578125
             }
           ]
@@ -963,7 +963,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Calendar",
+              "str": "التقويم",
               "strWidth": 117.109375
             }
           ]
@@ -999,7 +999,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dot Artist",
+              "str": "فنان النقاط",
               "strWidth": 126.984375
             }
           ]
@@ -1035,7 +1035,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spinner",
+              "str": "الدوار",
               "strWidth": 97.09375
             }
           ]
@@ -1071,7 +1071,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Chain Counter",
+              "str": "عداد السلسلة",
               "strWidth": 187.21875
             }
           ]
@@ -1107,7 +1107,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Kitchen Timer",
+              "str": "مؤقت الطبخ",
               "strWidth": 179.53125
             }
           ]
@@ -1143,7 +1143,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Color Changer",
+              "str": "مغير الالوان",
               "strWidth": 189.1875
             }
           ]
@@ -1179,7 +1179,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hidden Moves",
+              "str": "حركات خفية",
               "strWidth": 189.10938
             }
           ]
