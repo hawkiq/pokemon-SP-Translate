@@ -593,7 +593,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It is said that this Berry grew lumps to help",
+              "str": "يُقال إن هذا التوت نما بتضاريس لتساعد",
               "strWidth": 550.25
             },
             {
@@ -601,7 +601,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon grip it, allowing propagation",
+              "str": "البوكيمون على الإمساك به، مما يتيح انتشاره",
               "strWidth": 497.23438
             },
             {
@@ -609,7 +609,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "farther afield.",
+              "str": "لمسافات أبعد.",
               "strWidth": 176.25
             }
           ]
@@ -645,7 +645,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry progressively curves as it grows.",
+              "str": "يتقوس هذا التوت تدريجيًا مع نموه.",
               "strWidth": 547.0
             },
             {
@@ -653,7 +653,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The curvier the Berry, the sweeter it tastes.",
+              "str": "وكلما زاد تقوسه، أصبح مذاقه أحلى.",
               "strWidth": 553.75
             }
           ]
@@ -689,7 +689,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry turns bitter toward the stem.",
+              "str": "يصبح هذا التوت أكثر مرارة كلما اقترب من ساقه.",
               "strWidth": 502.78125
             },
             {
@@ -697,7 +697,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The dainty flower it grows from doesn’t absorb",
+              "str": "والزهرة الرقيقة التي ينمو منها لا تمتص الكثير",
               "strWidth": 605.4844
             },
             {
@@ -705,7 +705,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "much sunlight.",
+              "str": "من ضوء الشمس.",
               "strWidth": 184.28125
             }
           ]
@@ -741,7 +741,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is very big and sour. The juiciness of",
+              "str": "هذا التوت كبير جدًا وحامض. وعصارة لبّه",
               "strWidth": 603.3125
             },
             {
@@ -749,7 +749,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the pulp accentuates the sourness.",
+              "str": "تزيد من شدة حموضته",
               "strWidth": 445.32812
             }
           ]
@@ -785,7 +785,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A small hint of spiciness lingers in the red",
+              "str": "هنالك القليل من الحموضة في الحبيبات الحمراء",
               "strWidth": 534.8281
             },
             {
@@ -793,7 +793,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "granules surrounding this Berry. Their centers",
+              "str": "التي تحيط بهذا التوت. أما مراكزها",
               "strWidth": 580.5469
             },
             {
@@ -801,7 +801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "have a dry taste.",
+              "str": "فذات مذاق جاف.",
               "strWidth": 214.32812
             }
           ]
@@ -837,7 +837,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Though this small, delicately skinned Berry is blue",
+              "str": "على الرغم من أن هذا التوت صغير وذو قشرة رقيقة باللون الأزرق،",
               "strWidth": 643.65625
             },
             {
@@ -845,7 +845,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "in color, it dyes the mouth black when eaten.",
+              "str": "إلا أنه يلون الفم باللون الأسود عند تناوله.",
               "strWidth": 583.3594
             }
           ]
@@ -881,7 +881,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter, but with a trace of sweetness, the Nanab",
+              "str": "مرّ الطعم مع لمسة من الحلاوة،",
               "strWidth": 615.2656
             },
             {
@@ -889,7 +889,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Berry was the seventh to be discovered in",
+              "str": "كان توت الناناب السابع الذي يتم اكتشافه",
               "strWidth": 538.7031
             },
             {
@@ -897,7 +897,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the world.",
+              "str": "في العالم.",
               "strWidth": 129.85938
             }
           ]
@@ -933,7 +933,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The potent mix of bitter and sour in this Berry",
+              "str": "المزيج القوي من المرارة والحموضة في هذا التوت ",
               "strWidth": 592.03125
             },
             {
@@ -941,7 +941,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "seems to promote digestion. The flower is white",
+              "str": "يبدو أنه يعزز عملية الهضم.",
               "strWidth": 619.3594
             },
             {
@@ -949,7 +949,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and beautiful.",
+              "str": "واضافة الى ان زهرته بيضاء وجميلة",
               "strWidth": 179.60938
             }
           ]
@@ -985,7 +985,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It is said that when the sour skin is peeled, this",
+              "str": "يُقال إنه عندما يتم تقشير قشرته الحامضة،",
               "strWidth": 601.8281
             },
             {
@@ -993,7 +993,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "spicy Berry can be crushed to make medicine.",
+              "str": "يمكن سحق هذا التوت الحار لصنع الدواء",
               "strWidth": 590.5469
             }
           ]
@@ -1029,7 +1029,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "When this sweetly spicy Berry’s thick skin is",
+              "str": "عند تقشير قشرة ثمرة التوت الحار السميكة",
               "strWidth": 559.34375
             },
             {
@@ -1037,7 +1037,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "peeled, many pieces of the fruit spill out.",
+              "str": "تتناثر العديد من القطع.",
               "strWidth": 533.78125
             }
           ]
@@ -1073,7 +1073,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry can be eaten as is or boiled to obtain",
+              "str": "يمكن تناول هذا التوت كما هو أو غليه",
               "strWidth": 622.3594
             },
             {
@@ -1081,7 +1081,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "an extract that adds a dash of flavor to food.",
+              "str": "للحصول على مستخلص يضيف نكهة مميزة للطعام.",
               "strWidth": 582.7969
             }
           ]
@@ -1117,7 +1117,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Even in places of constant rain and high humidity,",
+              "str": "حتى في الأماكن التي تتعرض للأمطار المستمرة والرطوبة العالية، ",
               "strWidth": 642.7656
             },
             {
@@ -1125,7 +1125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "this Berry’s plant grows healthy and strong.",
+              "str": "ينمو نبات هذا التوت بصحة وقوة.",
               "strWidth": 555.2031
             }
           ]
@@ -1161,7 +1161,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This somewhat-rare Berry projects an image of",
+              "str": "يُعتبر هذا التوت نادرًا إلى حد ما، ويعكس صورة من الفخامة،",
               "strWidth": 599.15625
             },
             {
@@ -1169,7 +1169,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "luxury, so it is favored as a gift item.",
+              "str": "لذا يُفضّل كهدية.",
               "strWidth": 470.26562
             }
           ]
@@ -1205,7 +1205,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "One bite of this very tender Berry fills the mouth",
+              "str": "قضمَة واحدة من هذا التوت الطري جدًا تملأ الفم ",
               "strWidth": 629.2031
             },
             {
@@ -1213,7 +1213,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with its sweet and tangy flavor.",
+              "str": "بنكهته الحلوة والحامضة.",
               "strWidth": 400.17188
             }
           ]
@@ -1249,7 +1249,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is large and spicy. When eaten during",
+              "str": "هذا التوت كبير وحار. وعند تناوله",
               "strWidth": 623.46875
             },
             {
@@ -1257,7 +1257,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the cold season, it warms the body from inside.",
+              "str": "خلال الفصول الباردة , يدفئ الجسم من الداخل.",
               "strWidth": 610.0781
             }
           ]
@@ -1293,7 +1293,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Its dryness is quite strong. As a result, its true",
+              "str": "جفافه قوي جدًا. نتيجة لذلك،",
               "strWidth": 584.28125
             },
             {
@@ -1301,7 +1301,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "deliciousness can’t be appreciated by just eating",
+              "str": "لا يمكن تقدير لذته الحقيقية من خلال تناول",
               "strWidth": 630.34375
             },
             {
@@ -1309,7 +1309,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "one or two.",
+              "str": "قطعة أو اثنتين فقط.",
               "strWidth": 147.78125
             }
           ]
@@ -1345,7 +1345,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The grown-up flavor and dreamy sweetness of",
+              "str": "نكهة هذا التوت الناضجة وحلاوته ",
               "strWidth": 595.125
             },
             {
@@ -1353,7 +1353,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "this Berry make it a favorite of",
+              "str": "تجعله مفضلًا لدى ",
               "strWidth": 392.0
             },
             {
@@ -1361,7 +1361,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon everywhere.",
+              "str": "جميع البوكيمون.",
               "strWidth": 283.28125
             }
           ]
@@ -1397,7 +1397,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Even though this Berry is bitter, it should be",
+              "str": "على الرغم من مرارة هذا التوت،",
               "strWidth": 566.9844
             },
             {
@@ -1405,7 +1405,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "eaten peel and all. The hair on the peel cleans",
+              "str": "يجب تناوله مع القشرة بالكامل. فالشعيرات الموجودة على القشرة",
               "strWidth": 603.0
             },
             {
@@ -1413,7 +1413,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the stomach from the inside.",
+              "str": "تنظف المعدة من الداخل.",
               "strWidth": 366.90625
             }
           ]
@@ -1449,7 +1449,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is quite sour overall, with the sourness",
+              "str": "هذا التوت حامض بشكل عام، مع تركيز الحموضة",
               "strWidth": 627.3594
             },
             {
@@ -1457,7 +1457,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "especially concentrated at the pointed end.",
+              "str": "بشكل خاص في الطرف المدبب.",
               "strWidth": 565.90625
             }
           ]
@@ -1493,7 +1493,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "So spicy is the Spelon Berry that, Fire type or",
+              "str": "توت سبيلون حار جدًا لدرجة أن البوكيمون، سواء كانوا من نوع النار أم لا، ",
               "strWidth": 585.875
             },
             {
@@ -1501,7 +1501,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "not, Pokémon will try to breathe fire after eating",
+              "str": "سيحاولون نفث النار بعد تناول",
               "strWidth": 629.1094
             },
             {
@@ -1509,7 +1509,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a single one.",
+              "str": "قطعة واحدة فقط.",
               "strWidth": 163.89062
             }
           ]
@@ -1545,7 +1545,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry drifted from a faraway sea. It is now",
+              "str": "جرف هذا التوت من مكان بعيد",
               "strWidth": 599.34375
             },
             {
@@ -1553,7 +1553,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "cultivated in the Sinnoh region.",
+              "str": "ويتم الان زراعته في منطقة سينوه",
               "strWidth": 404.125
             }
           ]
@@ -1589,7 +1589,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A bounty of nature that is exceedingly sweet.",
+              "str": "كنز من الطبيعة يتميز بحلاوته الشديدة",
               "strWidth": 586.3125
             },
             {
@@ -1597,7 +1597,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Berry is huge, with some discovered that",
+              "str": "هذه التوت ضخم، وقد تم اكتشاف بعضها",
               "strWidth": 579.4531
             },
             {
@@ -1605,7 +1605,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "exceed 20 inches.",
+              "str": "يتجاوز طوله 20 بوصة",
               "strWidth": 235.03125
             }
           ]
@@ -1641,7 +1641,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is tremendously bitter. Just one bite is",
+              "str": "هذه التوتة مرّة للغاية. قضمة واحدة تكفي",
               "strWidth": 627.8906
             },
             {
@@ -1649,7 +1649,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "enough to instantly stop hiccups.",
+              "str": "لإيقاف الحازوقة على الفور.",
               "strWidth": 425.07812
             }
           ]
@@ -1685,7 +1685,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This glossy and colorful Berry has a",
+              "str": "هذه التوتة اللامعة والملونة ",
               "strWidth": 454.03125
             },
             {
@@ -1693,7 +1693,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "mouthwateringly delicious appearance.",
+              "str": "لها مظهر لذيذ للغاية",
               "strWidth": 504.60938
             },
             {
@@ -1701,7 +1701,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "However, it is awfully sour.",
+              "str": "ومع ذلك، فهي حامضة جداً",
               "strWidth": 347.15625
             }
           ]
@@ -1737,7 +1737,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is said to have grown plentiful in the",
+              "str": "يقال ان هذا التوت قد نما بشكل واسع",
               "strWidth": 606.3281
             },
             {
@@ -1745,7 +1745,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "tropics of the past. It boasts an intensely",
+              "str": "في المناطق الإستوائية في الماضي ويمتاز",
               "strWidth": 524.9375
             },
             {
@@ -1753,7 +1753,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "hot spiciness.",
+              "str": "بطعمه اللاذع الحار",
               "strWidth": 171.875
             }
           ]
@@ -1789,7 +1789,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry’s flesh is dotted with countless tiny",
+              "str": "قشرة هذا التوت مغطاة بعدد لا يحصى من الفقاعات الصغيرة",
               "strWidth": 587.1094
             },
             {
@@ -1797,7 +1797,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "bubbles of air that keep it afloat in water.",
+              "str": "التي تبقيها عائمة في الماء",
               "strWidth": 541.2969
             }
           ]
@@ -1833,7 +1833,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Energy from lightning strikes is drawn into the",
+              "str": "تتجمع الطاقة من صواعق البرق في النبات،",
               "strWidth": 589.625
             },
             {
@@ -1841,7 +1841,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "plant, making the Berries grow big and rich.",
+              "str": "مما يجعل التوت ينمو بشكل كبير وغني",
               "strWidth": 563.6875
             }
           ]
@@ -1877,7 +1877,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry has a disagreeable “green” flavor",
+              "str": "هذا التوت له نكهة ورائحة غير مرغوبة،",
               "strWidth": 567.4531
             },
             {
@@ -1885,7 +1885,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and scent typical of vegetables. It is rich in",
+              "str": "وله نكهة مشابهة للخضروات",
               "strWidth": 553.34375
             },
             {
@@ -1893,7 +1893,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "health-promoting fiber.",
+              "str": "هو غني بالألياف التي تعزز الصحة",
               "strWidth": 301.64062
             }
           ]
@@ -1929,7 +1929,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry has a refreshing flavor that strikes a",
+              "str": "يتميز هذا التوت بنكهة منعشة تضرب توازنًا جيدًا",
               "strWidth": 594.46875
             },
             {
@@ -1937,7 +1937,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "good balance of dryness and sourness. It tastes",
+              "str": "بين الجفاف والحموضة.",
               "strWidth": 609.7969
             },
             {
@@ -1945,7 +1945,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "better chilled.",
+              "str": "طعمه أفضل عندما يكون باردًا.",
               "strWidth": 181.46875
             }
           ]
@@ -1981,7 +1981,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry contains a substance that generates",
+              "str": "حتوي هذا التوت على مادة تولد الحرارة.",
               "strWidth": 596.71875
             },
             {
@@ -1989,7 +1989,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "heat. It can even heat up a chilly heart.",
+              "str": "يمكنها حتى تدفئة قلب بارد.",
               "strWidth": 505.57812
             }
           ]
@@ -2025,7 +2025,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is a brilliant green on the outside.",
+              "str": "هذا التوت أخضر لامع من الخارج.",
               "strWidth": 571.9531
             },
             {
@@ -2033,7 +2033,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Inside, it is packed with a dry-flavored,",
+              "str": "أما من الداخل، فهو مليء بلب جاف المذاق",
               "strWidth": 505.21875
             },
             {
@@ -2041,7 +2041,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "black-colored flesh.",
+              "str": "ذو لون أسود.",
               "strWidth": 256.4375
             }
           ]
@@ -2077,7 +2077,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The sweetness-laden pulp has just the hint of a",
+              "str": "اللب المحمّل بالسكر يحتوي على لمسة خفيفة",
               "strWidth": 606.3906
             },
             {
@@ -2085,7 +2085,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "hard-edged and fragrant bite to it.",
+              "str": "من الطعم القاسي والعطر المميز.",
               "strWidth": 448.34375
             }
           ]
@@ -2121,7 +2121,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is said to be a new kind that is a cross",
+              "str": "قال إن هذا التوت هو نوع جديد ناتج عن تهجين",
               "strWidth": 625.2344
             },
             {
@@ -2129,7 +2129,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "of two Berries brought together by winds from",
+              "str": "نوعيتين من التوت تم جمعهما بواسطة الرياح",
               "strWidth": 597.1094
             },
             {
@@ -2137,7 +2137,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "far away.",
+              "str": "القادمة من أماكن بعيدة.",
               "strWidth": 116.078125
             }
           ]
@@ -2173,7 +2173,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is said to sense human emotions for",
+              "str": "قال إن هذا التوت يستطيع استشعار مشاعر البشر، ",
               "strWidth": 595.8281
             },
             {
@@ -2181,7 +2181,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the way it swells roundly when a",
+              "str": "حيث ينتفخ بشكل دائري",
               "strWidth": 414.78125
             },
             {
@@ -2189,7 +2189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "person approaches.",
+              "str": "عندما يقترب شخص منه.",
               "strWidth": 252.625
             }
           ]
@@ -2225,7 +2225,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The flower grows at the tip of this Berry.",
+              "str": "تنمو الزهرة على قمة هذا التوت، ",
               "strWidth": 520.90625
             },
             {
@@ -2233,7 +2233,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It attracts Bug Pokémon by letting its stringy",
+              "str": "إطلاق بتلاتها الخيطية المتدلية",
               "strWidth": 572.7344
             },
             {
