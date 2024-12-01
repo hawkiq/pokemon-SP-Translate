@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Rotom are you choosing?",
+              "str": "أي روتوم ستختار؟",
               "strWidth": 417.98438
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "An Egg can’t enter a motor.",
+              "str": "لا يمكن لبيضة أن تدخل في محرك.",
               "strWidth": 358.14062
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That Pokémon can’t enter a motor.",
+              "str": "لا يمكن لبوكيمون أن يدخل في محرك.",
               "strWidth": 451.9375
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Rotom would you like to return to its",
+              "str": "أي روتوم تود إعادته إلى ",
               "strWidth": 566.3906
             },
             {
@@ -161,7 +161,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "original form?",
+              "str": "شكله الأصلي؟",
               "strWidth": 179.3125
             }
           ]
@@ -197,7 +197,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? Rotom appears as if it wants to revert",
+              "str": "أوه؟ يبدو أن الروتوم يرغب في العودة إلى ",
               "strWidth": 547.4219
             },
             {
@@ -205,7 +205,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to its original form.",
+              "str": "شكله الأصلي.",
               "strWidth": 246.46875
             },
             {
@@ -213,7 +213,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to recall it from the motor?",
+              "str": "هل ترغب في استرجاعه من المحرك؟",
               "strWidth": 556.4844
             }
           ]
@@ -249,7 +249,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Recall",
+              "str": "استرجاع",
               "strWidth": 78.40625
             }
           ]
@@ -285,7 +285,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم",
               "strWidth": 46.8125
             }
           ]
@@ -321,7 +321,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "كلا",
               "strWidth": 38.78125
             }
           ]
@@ -357,7 +357,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That Rotom hasn’t entered a motor.",
+              "str": "لم يدخل هذا الروتوم إلى المحرك.",
               "strWidth": 463.35938
             }
           ]
@@ -393,7 +393,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There was an appliance here—the one with the",
+              "str": "كان هنا جهاز - الجهاز ذو",
               "strWidth": 606.1875
             },
             {
@@ -401,7 +401,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "oddly shaped motor.",
+              "str": "المحرك الغريب الشكل.",
               "strWidth": 268.75
             }
           ]
@@ -437,7 +437,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a microwave oven. It has an odd-shaped",
+              "str": "إنه فرن ميكروويف. يحتوي على",
               "strWidth": 569.2344
             },
             {
@@ -445,7 +445,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "motor on it.",
+              "str": "محرك غريب الشكل",
               "strWidth": 152.375
             }
           ]
@@ -481,7 +481,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a microwave oven. It has an odd-shaped",
+              "str": "إنه فرن ميكروويف. يحتوي على محرك",
               "strWidth": 569.2344
             },
             {
@@ -489,7 +489,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "motor on it.",
+              "str": "غريب الشكل.",
               "strWidth": 152.375
             },
             {
@@ -497,7 +497,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? Rotom appears as if it wants to go into",
+              "str": "أوه؟ يبدو أن روتوم يرغب في الدخول إلى المحرك.",
               "strWidth": 564.4531
             },
             {
@@ -505,7 +505,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the motor.",
+              "str": "هل ستسمح ",
               "strWidth": 134.90625
             },
             {
@@ -513,7 +513,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Will you allow Rotom to enter the motor?",
+              "str": " لروتوم بالدخول إلى المحرك؟",
               "strWidth": 539.375
             }
           ]
@@ -549,7 +549,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom reluctantly gave up on entering the",
+              "str": "تراجع روتوم على مضض عن الدخول",
               "strWidth": 548.0781
             },
             {
@@ -557,7 +557,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "microwave oven’s motor...",
+              "str": "إلى محرك فرن الميكروويف...",
               "strWidth": 337.17188
             }
           ]
@@ -593,7 +593,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Microwave oven” has been added to the",
+              "str": "تمت إضافة \"فرن ميكروويف\"",
               "strWidth": 539.4531
             },
             {
@@ -601,7 +601,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom Catalog!",
+              "str": "إلى كتالوج روتوم!",
               "strWidth": 202.65625
             }
           ]
@@ -637,7 +637,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a refrigerator. It has an odd-shaped motor",
+              "str": "إنها ثلاجة. تحتوي على محرك",
               "strWidth": 593.5625
             },
             {
@@ -645,7 +645,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on it.",
+              "str": "غريب الشكل.",
               "strWidth": 66.96875
             }
           ]
@@ -681,7 +681,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a refrigerator. It has an odd-shaped motor",
+              "str": "إنها ثلاجة. تحتوي على",
               "strWidth": 593.5625
             },
             {
@@ -689,7 +689,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on it.",
+              "str": " محرك غريب الشكل.",
               "strWidth": 66.96875
             },
             {
@@ -697,7 +697,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? Rotom appears as if it wants to go into",
+              "str": "أوه؟ يبدو أن روتوم يرغب",
               "strWidth": 564.4531
             },
             {
@@ -705,7 +705,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the motor.",
+              "str": "في الدخول إلى المحرك.",
               "strWidth": 134.90625
             },
             {
@@ -713,7 +713,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Will you allow Rotom to enter the motor?",
+              "str": "هل ستسمح لروتوم بالدخول إلى المحرك؟",
               "strWidth": 539.375
             }
           ]
@@ -749,7 +749,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom reluctantly gave up on entering the",
+              "str": "راجع روتوم على مضض عن الدخول",
               "strWidth": 548.0781
             },
             {
@@ -757,7 +757,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "refrigerator’s motor...",
+              "str": "إلى محرك الثلاجة...",
               "strWidth": 276.09375
             }
           ]
@@ -793,7 +793,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Refrigerator” has been added to the",
+              "str": "تمت إضافة ”ثلاجة” إلى ",
               "strWidth": 483.07812
             },
             {
@@ -801,7 +801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom Catalog!",
+              "str": "كتالوج روتوم!",
               "strWidth": 202.65625
             }
           ]
@@ -837,7 +837,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a washing machine. It has an odd-shaped",
+              "str": "إنها غسالة. تحتوي على",
               "strWidth": 578.4844
             },
             {
@@ -845,7 +845,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "motor on it.",
+              "str": "محرك غريب الشكل.",
               "strWidth": 152.375
             }
           ]
@@ -881,7 +881,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a washing machine. It has an odd-shaped",
+              "str": "إنها غسالة. تحتوي على",
               "strWidth": 578.4844
             },
             {
@@ -889,7 +889,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "motor on it.",
+              "str": "محرك غريب الشكل.",
               "strWidth": 152.375
             },
             {
@@ -897,7 +897,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? Rotom appears as if it wants to go into",
+              "str": "أوه؟ يبدو أن روتوم يرغب في",
               "strWidth": 564.4531
             },
             {
@@ -905,7 +905,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the motor.",
+              "str": " الدخول إلى المحرك.",
               "strWidth": 134.90625
             },
             {
@@ -913,7 +913,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Will you allow Rotom to enter the motor?",
+              "str": "هل ستسمح لروتوم بالدخول إلى المحرك؟",
               "strWidth": 539.375
             }
           ]
@@ -949,7 +949,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom reluctantly gave up on entering the",
+              "str": "تراجع روتوم على مضض عن ",
               "strWidth": 548.0781
             },
             {
@@ -957,7 +957,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "washing machine’s motor...",
+              "str": "الدخول إلى محرك الغسالة...",
               "strWidth": 346.42188
             }
           ]
@@ -993,7 +993,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Washing machine” has been added to the",
+              "str": "تمت إضافة ”غسالة”",
               "strWidth": 554.2656
             },
             {
@@ -1001,7 +1001,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom Catalog!",
+              "str": " إلى كتالوج روتوم!",
               "strWidth": 202.65625
             }
           ]
@@ -1037,7 +1037,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a rotary fan. It has an odd-shaped motor",
+              "str": "إنها مروحة دوارة. تحتوي على",
               "strWidth": 572.4375
             },
             {
@@ -1045,7 +1045,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on it.",
+              "str": "محرك غريب الشكل.",
               "strWidth": 66.96875
             }
           ]
@@ -1081,7 +1081,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a rotary fan. It has an odd-shaped motor",
+              "str": "إنها مروحة دوارة. تحتوي على",
               "strWidth": 572.4375
             },
             {
@@ -1089,7 +1089,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on it.",
+              "str": "محرك غريب الشكل.",
               "strWidth": 66.96875
             },
             {
@@ -1097,7 +1097,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? Rotom appears as if it wants to go into",
+              "str": "أوه؟ يبدو أن روتوم يرغب",
               "strWidth": 564.4531
             },
             {
@@ -1105,7 +1105,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the motor.",
+              "str": "في الدخول إلى المحرك.",
               "strWidth": 134.90625
             },
             {
@@ -1113,7 +1113,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Will you allow Rotom to enter the motor?",
+              "str": "هل ستسمح لروتوم بالدخول إلى المحرك؟",
               "strWidth": 539.375
             }
           ]
@@ -1149,7 +1149,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom reluctantly gave up on entering the rotary",
+              "str": "تراجع روتوم على مضض عن الدخول ",
               "strWidth": 632.9375
             },
             {
@@ -1157,7 +1157,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "fan’s motor...",
+              "str": " إلى محرك المروحة الدوارة...",
               "strWidth": 170.10938
             }
           ]
@@ -1193,7 +1193,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Rotary fan” has been added to the",
+              "str": "تمت إضافة \"مروحة دوارة\" ",
               "strWidth": 461.95312
             },
             {
@@ -1201,7 +1201,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom Catalog!",
+              "str": "إلى كتالوج روتوم!",
               "strWidth": 202.65625
             }
           ]
@@ -1237,7 +1237,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a lawn mower. It has an odd-shaped motor",
+              "str": "إنها جزازة عشب. تحتوي على",
               "strWidth": 599.3906
             },
             {
@@ -1245,7 +1245,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on it.",
+              "str": "محرك غريب الشكل.",
               "strWidth": 66.96875
             }
           ]
@@ -1281,7 +1281,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s a lawn mower. It has an odd-shaped motor",
+              "str": "إنها جزازة عشب. تحتوي على ",
               "strWidth": 599.3906
             },
             {
@@ -1289,7 +1289,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "on it.",
+              "str": "محرك غريب الشكل.",
               "strWidth": 66.96875
             },
             {
@@ -1297,7 +1297,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? Rotom appears as if it wants to go into",
+              "str": "أوه؟ يبدو أن روتوم يرغب في",
               "strWidth": 564.4531
             },
             {
@@ -1305,7 +1305,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the motor.",
+              "str": " الدخول إلى المحرك.",
               "strWidth": 134.90625
             },
             {
@@ -1313,7 +1313,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Will you allow Rotom to enter the motor?",
+              "str": "هل ستسمح لروتوم بالدخول إلى المحرك؟",
               "strWidth": 539.375
             }
           ]
@@ -1349,7 +1349,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom reluctantly gave up on entering the lawn",
+              "str": "تراجع روتوم على مضض عن الدخول",
               "strWidth": 615.21875
             },
             {
@@ -1357,7 +1357,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "mower’s motor...",
+              "str": " إلى محرك جزازة العشب...",
               "strWidth": 214.78125
             }
           ]
@@ -1393,7 +1393,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Lawn mower” has been added to the",
+              "str": "تمت إضافة ”جزازة عشب”",
               "strWidth": 488.125
             },
             {
@@ -1401,7 +1401,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom Catalog!",
+              "str": " إلى كتالوج روتوم!",
               "strWidth": 202.65625
             }
           ]
@@ -1437,7 +1437,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There is a mysterious notebook here. Its age is",
+              "str": "يوجد هنا دفتر ملاحظات غامض. ",
               "strWidth": 600.96875
             },
             {
@@ -1445,7 +1445,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "impossible to tell.",
+              "str": "من المستحيل تحديد عمره.",
               "strWidth": 230.40625
             },
             {
@@ -1453,7 +1453,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“It was by pure chance that I obtained",
+              "str": "كان من قبيل الصدفة البحتة أن حصلت",
               "strWidth": 494.75
             },
             {
@@ -1461,7 +1461,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "information about the Pokémon Rotom.",
+              "str": "على معلومات عن البوكيمون روتوم.",
               "strWidth": 512.0625
             },
             {
@@ -1469,7 +1469,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Remarkably, Rotom is able to merge with",
+              "str": "الشيء المدهش أن روتوم يمكنه الاندماج",
               "strWidth": 545.5469
             },
             {
@@ -1477,7 +1477,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "special motors.",
+              "str": "مع محركات خاصة.",
               "strWidth": 194.20312
             },
             {
@@ -1485,7 +1485,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Rotom can thereby enter various home",
+              "str": "وبذلك، يستطيع روتوم الدخول إلى",
               "strWidth": 514.2969
             },
             {
@@ -1493,7 +1493,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "appliances and change its form.",
+              "str": "أجهزة منزلية مختلفة وتغيير شكله.",
               "strWidth": 409.28125
             },
             {
@@ -1501,7 +1501,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I have confirmed that Rotom changes its types",
+              "str": "لقد تأكدت من أن روتوم يغير نوعه",
               "strWidth": 610.8125
             },
             {
@@ -1509,7 +1509,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and the moves it can learn by reflecting the",
+              "str": "والحركات التي يمكنه تعلمها بناءً على",
               "strWidth": 563.0625
             },
             {
@@ -1517,7 +1517,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "characteristics of any home appliance it enters.",
+              "str": "خصائص الجهاز الذي يدخله.",
               "strWidth": 607.5625
             },
             {
@@ -1525,7 +1525,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“This Pokémon requires exhaustive observation",
+              "str": "يتطلب هذا البوكيمون ملاحظات",
               "strWidth": 609.875
             },
             {
@@ -1533,7 +1533,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and analysis.",
+              "str": "وتحليلات شاملة.",
               "strWidth": 163.70312
             },
             {
@@ -1541,7 +1541,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“To ensure I get all the credit, my Rotom",
+              "str": "لضمان حصولي على كل الفضل، يجب أن",
               "strWidth": 529.1406
             },
             {
@@ -1549,7 +1549,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "research must be kept secret.",
+              "str": "يظل بحثي عن روتوم سرًا.",
               "strWidth": 378.45312
             },
             {
@@ -1557,7 +1557,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“They will come to recognize me as the",
+              "str": "سيتعرفون عليّ كعبقري",
               "strWidth": 508.96875
             },
             {
@@ -1565,7 +1565,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "scientific genius Char...”",
+              "str": "علمي، شاركت..",
               "strWidth": 310.92188
             },
             {
@@ -1573,7 +1573,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The rest of the notebook is blank.",
+              "str": "بقية اوراق الدفتر فارغة.",
               "strWidth": 439.28125
             }
           ]
@@ -1609,7 +1609,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ah, imagine finding you here!",
+              "str": "آه، تخيل أن أجدك هنا!",
               "strWidth": 381.34375
             },
             {
@@ -1617,7 +1617,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You must be eager to fill your Pokédex to be",
+              "str": "ابد أنك متحمس لملئ البوكيدكس الخاص بك",
               "strWidth": 585.53125
             },
             {
@@ -1625,7 +1625,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "searching even here.",
+              "str": "لتبحث حتى هنا.",
               "strWidth": 265.35938
             },
             {
@@ -1633,7 +1633,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What am I doing?",
+              "str": "ما الذي أفعله ؟",
               "strWidth": 230.26562
             },
             {
@@ -1641,7 +1641,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I visit a professor I know in Eterna every so often.",
+              "str": "أزور أستاذًا أعرفه في إترنا بين الحين والآخر.",
               "strWidth": 637.375
             },
             {
@@ -1649,7 +1649,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "He tells me intriguing rumors of rare Pokémon",
+              "str": "يخبرني بإشاعات مثيرة عن ظهور بوكيمونات",
               "strWidth": 595.5625
             },
             {
@@ -1657,7 +1657,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "sightings and such.",
+              "str": "نادرة وما شابه ذلك.",
               "strWidth": 241.85938
             }
           ]
@@ -1693,7 +1693,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A Pokémon that slips into electric appliances,",
+              "str": "بوكيمون يدخل إلى الأجهزة الكهربائية، ",
               "strWidth": 590.125
             },
             {
@@ -1701,7 +1701,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you say...",
+              "str": "كما تقول...",
               "strWidth": 120.6875
             },
             {
@@ -1709,7 +1709,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm... That is somewhat off from what I’ve",
+              "str": "همم... هذا ما سمعته.",
               "strWidth": 561.125
             },
             {
@@ -1717,7 +1717,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "heard about it.",
+              "str": "منذ زمن بعيد،",
               "strWidth": 192.01562
             },
             {
@@ -1725,7 +1725,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm... This is what I’ve heard.",
+              "str": "كان هناك بوكيمون اندمج",
               "strWidth": 395.17188
             },
             {
@@ -1733,7 +1733,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Long ago, there was a Pokémon that merged with",
+              "str": "مع روبوت لعبة.",
               "strWidth": 641.34375
             },
             {
@@ -1741,7 +1741,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a toy robot.",
+              "str": "هل ينبغي اعتبار",
               "strWidth": 153.39062
             },
             {
@@ -1749,7 +1749,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Should that Pokémon be recognized as a new",
+              "str": "هذا البوكيمون نوعًا جديدًا أم لا؟",
               "strWidth": 589.25
             },
             {
@@ -1757,7 +1757,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "species or not?",
+              "str": "كانت المناقشات حول",
               "strWidth": 195.1875
             },
             {
@@ -1765,7 +1765,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Debates over the issue were about to start when",
+              "str": "الموضوع على وشك البدء",
               "strWidth": 625.6094
             },
             {
@@ -1773,7 +1773,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "they were rendered moot.",
+              "str": "عندما أصبح الأمر غير ذي صلة.",
               "strWidth": 335.73438
             },
             {
@@ -1781,7 +1781,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The very topic of discussion—the Pokémon-",
+              "str": "الموضوع ذاته",
               "strWidth": 566.4219
             },
             {
@@ -1789,7 +1789,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "infused robot—disappeared...",
+              "str": "- الروبوت المدمج بالبوكيمون - اختفى...",
               "strWidth": 382.92188
             }
           ]
@@ -1825,7 +1825,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s an old notebook. There’s no telling how old",
+              "str": "إنه دفتر ملاحظات قديم. من الصعب تحديد",
               "strWidth": 617.375
             },
             {
@@ -1833,7 +1833,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "it is.",
+              "str": "مدى قدمه.",
               "strWidth": 53.359375
             },
             {
@@ -1841,7 +1841,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to read it?",
+              "str": "هل ترغب في قراءته؟",
               "strWidth": 340.60938
             }
           ]
@@ -1877,7 +1877,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Our encounter was a sudden one.",
+              "str": "كان لقاؤنا مفاجئًا.",
               "strWidth": 447.23438
             },
             {
@@ -1885,7 +1885,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“It was when I found my toy robot—one that I",
+              "str": "كان ذلك عندما وجدت روبوت لعبتي",
               "strWidth": 590.4219
             },
             {
@@ -1893,7 +1893,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "had earlier misplaced.",
+              "str": "الذي كنت قد أضعته سابقًا.",
               "strWidth": 284.71875
             },
             {
@@ -1901,7 +1901,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“At that instant, a Pokémon startlingly emerged",
+              "str": "في تلك اللحظة، ظهر بوكيمون بشكل مفاجئ",
               "strWidth": 615.2969
             },
             {
@@ -1909,7 +1909,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "from the lawn mower’s motor!",
+              "str": "من محرك جزازة العشب!",
               "strWidth": 383.70312
             },
             {
@@ -1917,7 +1917,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Clutching my robot, I stared, transfixed by the",
+              "str": "ممسكًا بروبوتي، وقفت متجمداً",
               "strWidth": 610.875
             },
             {
@@ -1925,7 +1925,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "peculiar Pokémon.”",
+              "str": "متأملاً البوكيمون الغريب",
               "strWidth": 252.375
             },
             {
@@ -1933,7 +1933,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل ترغب في متابعة القراءة؟",
               "strWidth": 426.32812
             }
           ]
@@ -1969,7 +1969,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“The Pokémon hovered in the air, held aloft by a",
+              "str": "البوكيمون كان يطفو في الهواء، محمولاً ",
               "strWidth": 634.8594
             },
             {
@@ -1977,7 +1977,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "power unseen.",
+              "str": "بقوة غير مرئية",
               "strWidth": 186.60938
             },
             {
@@ -1985,7 +1985,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“As if curious and unafraid of my presence, it",
+              "str": "كما لو كان فضوليًا وغير خائف من وجودي،",
               "strWidth": 583.0469
             },
             {
@@ -1993,7 +1993,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "floated toward me.",
+              "str": "اقترب مني طافيًا",
               "strWidth": 246.48438
             },
             {
@@ -2001,7 +2001,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Crackling sounds accompanied it, as if from",
+              "str": "رافقه أصوات طقطقة، كما لو ",
               "strWidth": 576.84375
             },
             {
@@ -2009,7 +2009,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "static electricity in the air.",
+              "str": "كانت ناتجة عن كهرباء ساكنة في الهواء",
               "strWidth": 335.375
             },
             {
@@ -2017,7 +2017,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Remarkably, it seemed the Pokémon was the",
+              "str": "من المذهل، بدا أن هذا البوكيمون",
               "strWidth": 591.2344
             },
             {
@@ -2025,7 +2025,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "source of this power!",
+              "str": "هو مصدر هذه القوة!",
               "strWidth": 268.625
             },
             {
@@ -2033,7 +2033,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“In alarm, I flinched, certain that my face would",
+              "str": "في خوف، ارتعشت، متأكدًا أن وجهي",
               "strWidth": 615.4531
             },
             {
@@ -2041,7 +2041,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "be subjected to a shock.",
+              "str": "سيتعرض لصعقة",
               "strWidth": 316.21875
             },
             {
@@ -2049,7 +2049,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Much to my surprise, the Pokémon seemed to",
+              "str": "لدهشتي الكبرى، بدا أن البوكيمون",
               "strWidth": 604.59375
             },
             {
@@ -2057,7 +2057,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "favor me with a smile.”",
+              "str": "يبتسم لي بود.",
               "strWidth": 294.20312
             },
             {
@@ -2065,7 +2065,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل ترغب في متابعة القراءة؟",
               "strWidth": 426.32812
             }
           ]
@@ -2101,7 +2101,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Finally, I came to realize that the Pokémon only",
+              "str": "أخيرًا، أدركت أن البوكيمون",
               "strWidth": 631.78125
             },
             {
@@ -2109,7 +2109,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "wished to be friends.",
+              "str": "يرغب فقط في أن يكون صديقًا.",
               "strWidth": 269.48438
             },
             {
@@ -2117,7 +2117,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I have decided to name this most wondrous",
+              "str": "قررت أن أسمي هذا البوكيمون ",
               "strWidth": 575.0781
             },
             {
@@ -2125,7 +2125,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon ‘Rotom.’",
+              "str": "العجيب ‘روتوم‘.",
               "strWidth": 238.60938
             },
             {
@@ -2133,7 +2133,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Simple though it may be, Rotom emerged to me",
+              "str": "على الرغم من بساطة الأمر، ظهر روتوم لي",
               "strWidth": 635.75
             },
             {
@@ -2141,7 +2141,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "from the motor of a lawn mower.",
+              "str": "من محرك جزازة العشب.",
               "strWidth": 423.5625
             },
             {
@@ -2149,7 +2149,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“‘Motor’ and ‘Rotom’... Surely the link",
+              "str": "‘محرك‘ و‘روتوم‘... من المؤكد",
               "strWidth": 494.46875
             },
             {
@@ -2157,7 +2157,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "is obvious?”",
+              "str": " أن العلاقة واضحة؟",
               "strWidth": 155.64062
             },
             {
@@ -2165,7 +2165,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل ترغب في متابعة القراءة؟",
               "strWidth": 426.32812
             }
           ]
@@ -2201,7 +2201,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Rotom is a Pokémon that is simply sensational.",
+              "str": "روتوم بوكيمون استثنائي بكل بساطة.",
               "strWidth": 615.125
             },
             {
@@ -2209,7 +2209,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“The fact that it can turn invisible is simply",
+              "str": "حقيقة أنه يمكن أن يصبح غير مرئي ",
               "strWidth": 549.8281
             },
             {
@@ -2217,7 +2217,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the beginning.",
+              "str": "هي فقط البداية.",
               "strWidth": 185.71875
             },
             {
@@ -2225,7 +2225,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“What makes Rotom unique is its ability to enter",
+              "str": "ما يجعل روتوم فريدًا هو قدرته",
               "strWidth": 627.2656
             },
             {
@@ -2233,7 +2233,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and operate machinery!”",
+              "str": "على الدخول إلى الآلات وتشغيلها !",
               "strWidth": 317.875
             },
             {
@@ -2241,7 +2241,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This is about halfway through. Would you like to",
+              "str": "لقد وصلت إلى منتصف القصة.",
               "strWidth": 628.1719
             },
             {
@@ -2249,7 +2249,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "keep reading?",
+              "str": "هل ترغب في المتابعة؟",
               "strWidth": 184.71875
             }
           ]
@@ -2285,7 +2285,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Rotom and I became fast friends. We were",
+              "str": "أصبحنا انا و روتوم أصدقاء بسرعة.",
               "strWidth": 564.0625
             },
             {
@@ -2293,7 +2293,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "perpetual companions.",
+              "str": "كنا رفقاء دائمين",
               "strWidth": 295.1875
             },
             {
@@ -2301,7 +2301,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“The electricity from its body forbade",
+              "str": "الكهرباء من جسمه منعتنا",
               "strWidth": 488.9375
             },
             {
@@ -2309,7 +2309,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "contact, however.",
+              "str": "من اللمس، مع ذلك.",
               "strWidth": 229.65625
             },
             {
@@ -2317,7 +2317,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“We could not touch, let alone hug or hold",
+              "str": "لم نستطع لمس بعضنا، ناهيك عن العناق أو إمساك الأيدي",
               "strWidth": 560.21875
             },
             {
@@ -2325,7 +2325,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "hands, but we cared not.",
+              "str": "لكننا لم نهتم.",
               "strWidth": 320.26562
             },
             {
@@ -2333,7 +2333,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“For we were bonded on a much deeper,",
+              "str": "لأننا كنا مرتبطين على مستوى أعمق،",
               "strWidth": 531.1875
             },
             {
@@ -2341,7 +2341,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "incorporeal level.”",
+              "str": "غير مادي.”",
               "strWidth": 238.25
             },
             {
@@ -2349,7 +2349,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل لديك الرغبة في متابعة القراءة؟",
               "strWidth": 426.32812
             }
           ]
@@ -2385,7 +2385,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“A feeling of mischief got the better of me",
+              "str": "“تغلب علي شعور بالمزاح",
               "strWidth": 552.5625
             },
             {
@@ -2393,7 +2393,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "one day.",
+              "str": "في أحد الأيام.",
               "strWidth": 112.234375
             },
             {
@@ -2401,7 +2401,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Seeing Rotom hovering, I decided to startle it.",
+              "str": "“عندما رأيت روتوم يطفو، قررت إخافته..",
               "strWidth": 612.65625
             },
             {
@@ -2409,7 +2409,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Normally I would not.",
+              "str": "عادة، لم أكن لأفعل ذلك.",
               "strWidth": 279.09375
             },
             {
@@ -2417,7 +2417,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Perhaps frightened, Rotom discharged power",
+              "str": "“ربما كان خائفًا، أطلق روتوم طاقة",
               "strWidth": 596.6094
             },
             {
@@ -2425,7 +2425,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "beyond its usual range.",
+              "str": "تفوق نطاقه المعتاد.",
               "strWidth": 299.14062
             },
             {
@@ -2433,7 +2433,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I fell, stunned, into the arms",
+              "str": "“سقطت، مذهولًا، ",
               "strWidth": 376.45312
             },
             {
@@ -2441,7 +2441,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "of unconsciousness...”",
+              "str": "في أحضان اللاوعي.....”",
               "strWidth": 282.09375
             },
             {
@@ -2449,7 +2449,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل تود متابعة القراءة؟",
               "strWidth": 426.32812
             }
           ]
@@ -2485,7 +2485,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“When I came to, to my horror I realized that",
+              "str": "“عندما استعدت وعيي، أدركت برعب",
               "strWidth": 584.3125
             },
             {
@@ -2493,7 +2493,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rotom had disappeared.",
+              "str": "أن روتوم قد اختفى.",
               "strWidth": 318.48438
             },
             {
@@ -2501,7 +2501,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I searched high and low for my friend in dismay",
+              "str": "“بحثت عنه في كل مكان ",
               "strWidth": 624.0625
             },
             {
@@ -2509,7 +2509,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and desperation.",
+              "str": "بحزن ويأس.",
               "strWidth": 218.0625
             },
             {
@@ -2517,7 +2517,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“‘Don’t chastise yourself.’",
+              "str": "“‘لا تلُم نفسك.’",
               "strWidth": 332.9375
             },
             {
@@ -2525,7 +2525,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“‘The fault is mine. No harm done.’",
+              "str": "“‘الخطأ خطأي. لم يحدث ضرر.’",
               "strWidth": 454.6875
             },
             {
@@ -2533,7 +2533,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“‘Let us play as we always have.’",
+              "str": "“‘لنلعب كما كنا دائمًا.’",
               "strWidth": 421.0
             },
             {
@@ -2541,7 +2541,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Though my words poured out, my friend could",
+              "str": "“رغم أن كلماتي انهمرت",
               "strWidth": 612.65625
             },
             {
@@ -2549,7 +2549,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "not be found to hear them...”",
+              "str": " لم أجد صديقي ليسمعها...”",
               "strWidth": 379.48438
             },
             {
@@ -2557,7 +2557,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل ترغب في متابعة قراءة القصة؟",
               "strWidth": 426.32812
             }
           ]
@@ -2593,7 +2593,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“My search for Rotom carried me far from home.",
+              "str": "“بحثي عن روتوم قادني بعيدًا عن المنزل.",
               "strWidth": 627.46875
             },
             {
@@ -2601,7 +2601,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“It was in the town’s rubbish heap that I again",
+              "str": "“كان ذلك في كومة قمامة البلدة حيث وجدت",
               "strWidth": 591.71875
             },
             {
@@ -2609,7 +2609,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "found my old toy robot.",
+              "str": "روبوت لعبتي القديم مرة أخرى.",
               "strWidth": 310.10938
             },
             {
@@ -2617,7 +2617,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Curiously, our eyes met, then the robot waved a",
+              "str": "“بغرابة، التقت أعيننا، ثم لوح الروبوت",
               "strWidth": 636.28125
             },
             {
@@ -2625,7 +2625,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "hand as if in greeting.",
+              "str": "بيده كما لو كان يحييني.",
               "strWidth": 280.90625
             },
             {
@@ -2633,7 +2633,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I knew then that I had found my lost friend.",
+              "str": "“علمت حينها أنني وجدت صديقي المفقود.",
               "strWidth": 573.0469
             },
             {
@@ -2641,7 +2641,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I ran to it and hugged Rotom tight, talking on",
+              "str": "“ركضت إليه وعانقت روتوم بشدة،",
               "strWidth": 602.84375
             },
             {
@@ -2649,7 +2649,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and on.”",
+              "str": "متحدثًا بلا توقف.”",
               "strWidth": 110.5
             },
             {
@@ -2657,7 +2657,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep reading?",
+              "str": "هل مازلت ترغب في متابعة القراءة؟",
               "strWidth": 426.32812
             }
           ]
@@ -2693,7 +2693,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“The robot’s eyes lit up happily as I held it.",
+              "str": "“أضاءت عينا الروبوت بسعادة بينما احتضنته.",
               "strWidth": 559.96875
             },
             {
@@ -2701,7 +2701,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“I’m certain that within it, Rotom was emitting",
+              "str": "“أنا متأكد أنه بداخله، كان روتوم يطلق",
               "strWidth": 592.5625
             },
             {
@@ -2709,7 +2709,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "lots of electricity.",
+              "str": "الكثير من الكهرباء",
               "strWidth": 225.64062
             },
             {
@@ -2717,7 +2717,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Somehow, I felt I could understand Rotom’s",
+              "str": "“بطريقة ما، شعرت أنني أستطيع فهم أفكار روتوم",
               "strWidth": 578.65625
             },
             {
@@ -2725,7 +2725,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "thoughts better than before.",
+              "str": "بشكل أفضل من ذي قبل.",
               "strWidth": 366.8125
             },
             {
@@ -2733,7 +2733,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "“Also, I realized that we would remain friends",
+              "str": "“كما أدركت أننا سنظل أصدقاء",
               "strWidth": 588.6875
             },
             {
@@ -2741,7 +2741,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "throughout our lives...”",
+              "str": "طوال حياتنا...”",
               "strWidth": 296.0
             },
             {
@@ -2749,7 +2749,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The notebook ends with this page.",
+              "str": "ينتهي الدفتر بهذه الصفحة.",
               "strWidth": 447.90625
             }
           ]
@@ -2798,7 +2798,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You used the ",
+              "str": "لقد استخدمت الـ",
               "strWidth": 180.01562
             },
             {
@@ -2850,7 +2850,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s the entrance to a secret room!",
+              "str": "إنها مدخل إلى غرفة سرية!",
               "strWidth": 438.01562
             }
           ]
@@ -2886,7 +2886,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a Rotom.",
+              "str": "يرجى اختيار روتوم.",
               "strWidth": 291.96875
             }
           ]
@@ -2922,7 +2922,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eligible",
+              "str": "مؤهل",
               "strWidth": 96.03125
             }
           ]
@@ -2958,7 +2958,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ineligible",
+              "str": "غير مؤهل",
               "strWidth": 120.125
             }
           ]
@@ -3063,7 +3063,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " entered the motor.",
+              "str": "دخل المحرك.",
               "strWidth": 252.71875
             },
             {
@@ -3079,7 +3079,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " is trying to",
+              "str": " يحاول",
               "strWidth": 145.79688
             },
             {
@@ -3087,7 +3087,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "learn ",
+              "str": "تعلم ",
               "strWidth": 72.953125
             },
             {
@@ -3111,7 +3111,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "But ",
+              "str": "لكن ",
               "strWidth": 51.609375
             },
             {
@@ -3127,7 +3127,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " can’t learn more than",
+              "str": " لا يستطيع تعلم أكثر من",
               "strWidth": 284.67188
             },
             {
@@ -3135,7 +3135,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "four moves.",
+              "str": "أربع حركات.",
               "strWidth": 150.17188
             },
             {
@@ -3143,7 +3143,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like it to forget a move to make room",
+              "str": "هل ترغب في أن ينسى حركة لتوفير مكان",
               "strWidth": 637.9844
             },
             {
@@ -3151,7 +3151,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "for ",
+              "str": " لـ ",
               "strWidth": 45.25
             },
             {
@@ -3216,7 +3216,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to give up on having this",
+              "str": "هل ترغب في التراجع عن تعليم",
               "strWidth": 524.78125
             },
             {
@@ -3224,7 +3224,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon learn ",
+              "str": " هذا البوكيمون",
               "strWidth": 201.29688
             },
             {
@@ -3321,7 +3321,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " did not",
+              "str": " لم",
               "strWidth": 102.296875
             },
             {
@@ -3329,7 +3329,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "learn ",
+              "str": "يتعلم ",
               "strWidth": 72.953125
             },
             {
@@ -3361,7 +3361,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " emerged from the motor.",
+              "str": " خرج من المحرك.",
               "strWidth": 333.96875
             }
           ]
@@ -3410,7 +3410,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Is it OK to forget the",
+              "str": "هل أنت موافق لنسيان",
               "strWidth": 271.9375
             },
             {
@@ -3418,7 +3418,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "move ",
+              "str": "هذه الحركة ",
               "strWidth": 78.59375
             },
             {
@@ -3470,7 +3470,7 @@
               "eventID": 2,
               "tagIndex": -1,
               "tagValue": 0.19999999,
-              "str": "One...",
+              "str": "واحد...",
               "strWidth": -1.0
             },
             {
@@ -3478,7 +3478,7 @@
               "eventID": 2,
               "tagIndex": -1,
               "tagValue": 0.19999999,
-              "str": "two...",
+              "str": "إثنان...",
               "strWidth": -1.0
             },
             {
@@ -3486,7 +3486,7 @@
               "eventID": 2,
               "tagIndex": -1,
               "tagValue": 0.19999999,
-              "str": "and...",
+              "str": "و...",
               "strWidth": -1.0
             },
             {
@@ -3502,7 +3502,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "ta-da!",
+              "str": "تا-داا !",
               "strWidth": 76.390625
             }
           ]
@@ -3571,7 +3571,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " forgot ",
+              "str": " تم نسيان ",
               "strWidth": 97.3125
             },
             {
@@ -3595,7 +3595,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "And...",
+              "str": "و...",
               "strWidth": 76.703125
             }
           ]
@@ -3664,7 +3664,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " learned",
+              "str": " تم تعلم",
               "strWidth": 106.203125
             },
             {
@@ -3680,7 +3680,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " instead!",
+              "str": " بدلاً من ذلك!",
               "strWidth": 109.234375
             }
           ]
@@ -3737,7 +3737,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " got inside the motor!",
+              "str": " دخل إلى المحرك!!",
               "strWidth": 279.23438
             }
           ]
@@ -3794,7 +3794,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " came out of the motor!",
+              "str": " خرج من المحرك!",
               "strWidth": 306.59375
             }
           ]
@@ -3843,7 +3843,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Anyway, this Rotom...",
+              "str": "على أي حال، هذا روتوم...",
               "strWidth": 278.90625
             },
             {
@@ -3851,7 +3851,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What an interesting Pokémon.",
+              "str": "يا له من بوكيمون مثير للاهتمام.",
               "strWidth": 389.79688
             },
             {
@@ -3859,7 +3859,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "So, you say it enters an appliance and essentially",
+              "str": "لذا، تقول إنه يدخل جهازًا ",
               "strWidth": 633.9531
             },
             {
@@ -3867,7 +3867,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "merges with the device.",
+              "str": "ويتحد مع الجهاز بشكل أساسي.",
               "strWidth": 305.4375
             },
             {
@@ -3875,7 +3875,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It may also learn new moves in the process.",
+              "str": "قد يتعلم أيضًا حركات جديدة في هذه العملية",
               "strWidth": 558.7344
             },
             {
@@ -3883,7 +3883,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "In a way, I suppose it could be thought of as a",
+              "str": "بطريقة ما، يمكن اعتباره",
               "strWidth": 599.4219
             },
             {
@@ -3891,7 +3891,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "mechanical Pokémon.",
+              "str": "بوكيموناً ميكانيكيًا.",
               "strWidth": 279.98438
             },
             {
@@ -3899,7 +3899,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hmm! Though it is utterly unique, it is undeniably",
+              "str": "همم! على الرغم من كونه فريدًا تمامًا، ",
               "strWidth": 637.03125
             },
             {
@@ -3907,7 +3907,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a species of Pokémon.",
+              "str": "فهو بلا شك نوع من البوكيمون",
               "strWidth": 289.59375
             },
             {
@@ -3915,7 +3915,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fine, fine, so be it!",
+              "str": "حسنًا، حسنًا، ليكن!",
               "strWidth": 243.39062
             },
             {
@@ -3923,7 +3923,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No matter how old one gets, there will always be",
+              "str": "لا يهم كم يتقدم العمر، دائمًا سيكون هناك",
               "strWidth": 634.0781
             },
             {
@@ -3931,7 +3931,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "new Pokémon discoveries!",
+              "str": "اكتشافات جديدة للبوكيمونات!",
               "strWidth": 337.95312
             },
             {
@@ -3939,7 +3939,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Take care, ",
+              "str": "اعتنِ بنفسك،",
               "strWidth": 144.25
             },
             {
