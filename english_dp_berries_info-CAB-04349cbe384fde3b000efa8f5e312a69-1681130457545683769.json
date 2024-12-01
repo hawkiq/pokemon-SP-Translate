@@ -2233,7 +2233,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "إطلاق بتلاتها الخيطية المتدلية",
+              "str": "تقوم بجذب بوكيمونات الحشرات وذلك",
               "strWidth": 572.7344
             },
             {
@@ -2241,7 +2241,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "petals stream out.",
+              "str": "بإطلاق بتلاتها الخيطية المتدلية",
               "strWidth": 231.09375
             }
           ]
@@ -2277,7 +2277,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It is often used for pickles because of its very dry",
+              "str": "غالبًا ما يُستخدم للمخللات بسبب نكهته الجافة جدًا.",
               "strWidth": 635.625
             },
             {
@@ -2285,7 +2285,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "flavor. It can also be eaten raw for its",
+              "str": "كما يمكن تناوله نيئًا",
               "strWidth": 482.625
             },
             {
@@ -2293,7 +2293,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "provocative taste.",
+              "str": "لنكهته المثيرة.",
               "strWidth": 231.70312
             }
           ]
@@ -2329,7 +2329,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Considered to have a special power from the",
+              "str": "يعتبر هذا التوت ذو قوة خاصة",
               "strWidth": 582.5
             },
             {
@@ -2337,7 +2337,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "olden days, this Berry is sometimes dried and",
+              "str": "منذ العصور القديمة، واحياناً يجفف و",
               "strWidth": 583.78125
             },
             {
@@ -2345,7 +2345,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "used as a good luck charm.",
+              "str": "يستخدم كتعويذة لجلب الحظ.",
               "strWidth": 350.82812
             }
           ]
@@ -2381,7 +2381,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If a large enough volume of this Berry is boiled",
+              "str": "إذا تم غلي كمية كافية من هذا التوت،",
               "strWidth": 606.53125
             },
             {
@@ -2389,7 +2389,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "down, its bitterness fades away. It makes a",
+              "str": "تتلاشى مرارته. ويصبح مناسب ",
               "strWidth": 550.25
             },
             {
@@ -2397,7 +2397,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "good jam.",
+              "str": "لصنع المربى.",
               "strWidth": 129.70312
             }
           ]
@@ -2433,7 +2433,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tiny hooks grow on the surface of this Berry.",
+              "str": "تنمو خطافات صغيرة على سطح هذا التوت",
               "strWidth": 575.7031
             },
             {
@@ -2441,7 +2441,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It latches on to Pokémon so it can be carried",
+              "str": "تتعلق على البوكيمون لتُحمل ",
               "strWidth": 580.03125
             },
             {
@@ -2449,7 +2449,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to far-off places.",
+              "str": "إلى أماكن بعيدة.",
               "strWidth": 216.82812
             }
           ]
@@ -2485,7 +2485,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is very tough with a strong flavor.",
+              "str": "هذا التوت شديد الصلابة وذو نكهة قوية.",
               "strWidth": 566.0469
             },
             {
@@ -2493,7 +2493,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It was used to make medicine by people in",
+              "str": "كان الناس في الماضي يستخدمونه",
               "strWidth": 553.65625
             },
             {
@@ -2501,7 +2501,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the past.",
+              "str": "لصنع الأدوية.",
               "strWidth": 112.28125
             }
           ]
@@ -2537,7 +2537,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry can be cored out and dried to make a",
+              "str": "يمكن تفريغ هذا التوت وتجفيفه",
               "strWidth": 627.6094
             },
             {
@@ -2545,7 +2545,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "whistle. Blowing through its hole makes an",
+              "str": "لصنع صفارة. عند النفخ من خلال ثقبها",
               "strWidth": 546.3125
             },
             {
@@ -2553,7 +2553,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "indescribable sound.",
+              "str": "تصدر صوتًا لا يمكن وصفه.",
               "strWidth": 266.40625
             }
           ]
@@ -2589,7 +2589,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is surrounded by mystery. It is rumored",
+              "str": "هذا التوت محاط بالغموض.",
               "strWidth": 636.3125
             },
             {
@@ -2597,7 +2597,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to be imbued with the power of the sea.",
+              "str": "يُشاع أنه مشبع بقوة البحر.",
               "strWidth": 519.8906
             }
           ]
@@ -2633,7 +2633,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is surrounded by mystery. It is rumored",
+              "str": "هذا التوت محاط بالغموض.",
               "strWidth": 636.3125
             },
             {
@@ -2641,7 +2641,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to be imbued with the power of the land.",
+              "str": "يُشاع أنه مشبع بقوة الأرض.",
               "strWidth": 533.0469
             }
           ]
@@ -2677,7 +2677,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is surrounded by mystery. It is rumored",
+              "str": "هذا التوت محاط بالغموض.",
               "strWidth": 636.3125
             },
             {
@@ -2685,7 +2685,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to be imbued with the power of the sky.",
+              "str": "يُشاع أنه مشبع بقوة السماء.",
               "strWidth": 517.8125
             }
           ]
@@ -2721,7 +2721,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is surrounded by mystery. It is rumored",
+              "str": "هذا التوت محاط بالغموض.",
               "strWidth": 636.3125
             },
             {
@@ -2729,7 +2729,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to be imbued with the power of all living things.",
+              "str": "يُشاع أنه مشبع بقوة جميع الكائنات الحية.",
               "strWidth": 620.40625
             }
           ]
@@ -2765,7 +2765,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This is a very, very mystifying Berry. There is no",
+              "str": "هذا التوت غامض جدًا جدًا.",
               "strWidth": 612.09375
             },
             {
@@ -2773,7 +2773,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "telling how it can be used, or what may happen",
+              "str": "لا يمكن التنبؤ بكيفية استخدامه،",
               "strWidth": 613.28125
             },
             {
@@ -2781,7 +2781,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "if it is used.",
+              "str": "أو ما قد يحدث إذا تم استخدامه.",
               "strWidth": 148.42188
             }
           ]
@@ -2817,7 +2817,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This is said to be a legendary Berry. Holding it",
+              "str": "يقال إن هذا التوت هو توت أسطوري.",
               "strWidth": 600.65625
             },
             {
@@ -2825,7 +2825,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "supposedly brings great joy.",
+              "str": "يُزعم أن حمله يجلب فرحًا عظيمًا.",
               "strWidth": 363.40625
             }
           ]
@@ -2861,7 +2861,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry is considered a mirage. It was said to",
+              "str": "يُعتبر هذا التوت سرابًا. قيل إنه",
               "strWidth": 612.5469
             },
             {
@@ -2869,7 +2869,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "be so strong that it had to be abandoned at the",
+              "str": "كان قويًا لدرجة أنه كان يجب التخلي عنه",
               "strWidth": 619.5781
             },
             {
@@ -2877,7 +2877,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "world’s edge.",
+              "str": "في أقصى أطراف العالم.",
               "strWidth": 174.01562
             }
           ]
@@ -2913,7 +2913,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A completely enigmatic Berry. It apparently has",
+              "str": "توت غامض تمامًا. يُقال إنه يمتلك",
               "strWidth": 614.3281
             },
             {
@@ -2921,7 +2921,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the power of the stars that fill the night sky.",
+              "str": " قوة النجوم التي تملأ سماء الليل.",
               "strWidth": 565.1406
             }
           ]
@@ -2957,7 +2957,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Berry has a very dry flavor. It has the effect",
+              "str": "هذا التوت يمتاز بطعم جاف جدًا. لديه تأثير",
               "strWidth": 618.125
             },
             {
@@ -2965,7 +2965,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "of making other food eaten at the same time",
+              "str": "يجعل الطعام الاخر الذي يؤكل معه",
               "strWidth": 579.90625
             },
             {
@@ -2973,7 +2973,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "taste sweet.",
+              "str": "حلو المذاق",
               "strWidth": 152.76562
             }
           ]
@@ -3009,7 +3009,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The flesh underneath the Custap Berry’s tough",
+              "str": "اللب تحت قشرة توت الكاستاب الصلبة",
               "strWidth": 601.2344
             },
             {
@@ -3017,7 +3017,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "skin is sweet and creamy soft.",
+              "str": "حلوة وطرية كالكريمة.",
               "strWidth": 381.82812
             }
           ]
@@ -3053,7 +3053,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The cluster of drupelets that make up this Berry",
+              "str": "العنقود من الحبيبات الصغيرة الذي يشكل هذا التوت",
               "strWidth": 614.8281
             },
             {
@@ -3061,7 +3061,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "pop rhythmically if the Berry is handled roughly.",
+              "str": "يصدر فرقعات بشكل إيقاعي إذا تم التعامل معه بخشونة.",
               "strWidth": 621.15625
             }
           ]
@@ -3097,7 +3097,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "In days of old, people worked the top-shaped",
+              "str": "في الأيام القديمة، كان الناس يفصلون الأجزاء العلوية",
               "strWidth": 597.3125
             },
             {
@@ -3105,7 +3105,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "pieces of this Berry free and used them as toys.",
+              "str": "التي تشبه القمع من هذا التوت ويستخدمونها كلُعب.",
               "strWidth": 610.9375
             }
           ]
@@ -3141,7 +3141,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The slight bitterness that cuts through the rich",
+              "str": "المرارة الخفيفة التي تتخلل الحلاوة الغنية ",
               "strWidth": 593.4844
             },
             {
@@ -3149,7 +3149,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "sweetness makes this Berry a perfect ingredient",
+              "str": "تجعل هذا التوت مكونًا مثاليًا ",
               "strWidth": 611.34375
             },
             {
@@ -3157,7 +3157,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "for adding an accent.",
+              "str": "لإضافة لمسة مميزة.",
               "strWidth": 275.40625
             }
           ]
