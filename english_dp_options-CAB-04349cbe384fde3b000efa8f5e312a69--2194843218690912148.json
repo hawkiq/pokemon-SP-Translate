@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Poisoned",
+              "str": "مسموم",
               "strWidth": 118.546875
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Paralyzed",
+              "str": "مشلول",
               "strWidth": 124.96875
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Asleep",
+              "str": "نائم",
               "strWidth": 88.609375
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Burned",
+              "str": "محروق",
               "strWidth": 91.375
             }
           ]
@@ -189,7 +189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Frozen",
+              "str": "متجمد",
               "strWidth": 87.546875
             }
           ]
@@ -225,7 +225,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "خروج",
               "strWidth": 57.625
             }
           ]
@@ -261,7 +261,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Single Battle",
+              "str": "معركة فردية",
               "strWidth": 163.70312
             }
           ]
@@ -297,7 +297,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Double Battle",
+              "str": "معركة زوجية",
               "strWidth": 180.96875
             }
           ]
@@ -333,7 +333,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mix Battle",
+              "str": "معركة مختلطة",
               "strWidth": 133.1875
             }
           ]
@@ -369,7 +369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Multi Battle",
+              "str": "معركة متعددة ",
               "strWidth": 152.125
             }
           ]
@@ -405,7 +405,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me more",
+              "str": "أخبرني المزيد ",
               "strWidth": 170.1875
             }
           ]
@@ -441,7 +441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج ",
               "strWidth": 57.625
             }
           ]
@@ -477,7 +477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Back",
+              "str": "العودة ",
               "strWidth": 61.375
             }
           ]
@@ -513,7 +513,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Join group",
+              "str": "انضم إلى المجموعة",
               "strWidth": 137.48438
             }
           ]
@@ -549,7 +549,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Become leader",
+              "str": "كن القائد",
               "strWidth": 193.70312
             }
           ]
@@ -585,7 +585,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Current floor",
+              "str": "الطابق الحالي",
               "strWidth": 166.92188
             }
           ]
@@ -678,7 +678,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness",
+              "str": "الروعة ",
               "strWidth": 116.921875
             }
           ]
@@ -714,7 +714,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beauty",
+              "str": "الجمال ",
               "strWidth": 88.578125
             }
           ]
@@ -750,7 +750,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cuteness",
+              "str": "الجاذبية ",
               "strWidth": 116.421875
             }
           ]
@@ -786,7 +786,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Toughness",
+              "str": "الصلابة ",
               "strWidth": 136.20312
             }
           ]
@@ -822,7 +822,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cleverness",
+              "str": "الذكاء ",
               "strWidth": 138.28125
             }
           ]
@@ -858,7 +858,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trade",
+              "str": "تبادل",
               "strWidth": 75.328125
             }
           ]
@@ -894,7 +894,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج ",
               "strWidth": 57.625
             }
           ]
@@ -930,7 +930,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Storage System",
+              "str": "نظام التخزين",
               "strWidth": 198.51562
             }
           ]
@@ -966,7 +966,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hall of Fame",
+              "str": "قاعة المشاهير",
               "strWidth": 167.28125
             }
           ]
@@ -1002,7 +1002,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Turn off",
+              "str": "إيقاف التشغيل ",
               "strWidth": 103.296875
             }
           ]
@@ -1038,7 +1038,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Standard Battle",
+              "str": "معركة قياسية",
               "strWidth": 201.01562
             }
           ]
@@ -1074,7 +1074,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll buy 10 for 1,000",
+              "str": "سأشتري 10 مقابل 1,000",
               "strWidth": 281.10938
             }
           ]
@@ -1110,7 +1110,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Confirm",
+              "str": "تأكيد ",
               "strWidth": 102.734375
             }
           ]
@@ -1146,7 +1146,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Check rules",
+              "str": "تحقق من القواعد ",
               "strWidth": 149.73438
             }
           ]
@@ -1182,7 +1182,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -1218,7 +1218,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا",
               "strWidth": 38.78125
             }
           ]
@@ -1254,7 +1254,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -1290,7 +1290,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج ",
               "strWidth": 57.625
             }
           ]
@@ -1326,7 +1326,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fire",
+              "str": "النار ",
               "strWidth": 49.390625
             }
           ]
@@ -1362,7 +1362,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Water",
+              "str": "الماء",
               "strWidth": 79.609375
             }
           ]
@@ -1398,7 +1398,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Grass",
+              "str": "العشب",
               "strWidth": 71.3125
             }
           ]
@@ -1434,7 +1434,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Card",
+              "str": "البطاقة",
               "strWidth": 62.484375
             }
           ]
@@ -1470,7 +1470,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Battle",
+              "str": "المعركة",
               "strWidth": 76.453125
             }
           ]
@@ -1702,7 +1702,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Plant a Berry",
+              "str": "ازرع شجرة توت",
               "strWidth": 164.59375
             }
           ]
@@ -1738,7 +1738,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Draw",
+              "str": "سحب",
               "strWidth": 66.875
             }
           ]
@@ -1810,7 +1810,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Someone’s PC",
+              "str": "كمبيوتر شخص ما",
               "strWidth": 185.54688
             }
           ]
@@ -1846,7 +1846,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bebe’s PC",
+              "str": "كمبيوتر بيبي",
               "strWidth": 132.04688
             }
           ]
@@ -1882,7 +1882,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Your PC",
+              "str": "كمبيوترك الخاص",
               "strWidth": 106.921875
             }
           ]
@@ -1918,7 +1918,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hall of Fame",
+              "str": "قاعة المشاهير",
               "strWidth": 167.28125
             }
           ]
@@ -1954,7 +1954,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oak’s PC",
+              "str": "كمبيوتر أوك",
               "strWidth": 120.046875
             }
           ]
@@ -1990,7 +1990,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rowan’s PC",
+              "str": "كمبيوتر روان",
               "strWidth": 151.01562
             }
           ]
@@ -2026,7 +2026,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Switch off",
+              "str": "إيقاف التشغيل",
               "strWidth": 127.8125
             }
           ]
@@ -2314,7 +2314,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lookout",
+              "str": "نقطة مراقبة",
               "strWidth": 106.875
             }
           ]
@@ -2350,7 +2350,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "خروج",
               "strWidth": 57.625
             }
           ]
@@ -2612,7 +2612,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "خروج",
               "strWidth": 57.625
             }
           ]
@@ -2648,7 +2648,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "How do I register a friend?",
+              "str": "كيف أقوم بتسجيل صديق؟ ",
               "strWidth": 347.40625
             }
           ]
@@ -2684,7 +2684,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Understood!",
+              "str": "فهمت! ",
               "strWidth": 160.25
             }
           ]
@@ -2720,7 +2720,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me again",
+              "str": "أخبرني مرة أخرى",
               "strWidth": 174.65625
             }
           ]
@@ -2756,7 +2756,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Old Amber",
+              "str": "العنبر القديم ",
               "strWidth": 143.84375
             }
           ]
@@ -2792,7 +2792,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Helix Fossil",
+              "str": "أحفورة هيليكس",
               "strWidth": 148.25
             }
           ]
@@ -2828,7 +2828,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dome Fossil",
+              "str": "أحفورة دوم",
               "strWidth": 158.35938
             }
           ]
@@ -2864,7 +2864,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Root Fossil",
+              "str": "أحفورة الجذر ",
               "strWidth": 142.39062
             }
           ]
@@ -2900,7 +2900,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Claw Fossil",
+              "str": "أحفورة المخلب ",
               "strWidth": 143.54688
             }
           ]
@@ -2936,7 +2936,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Armor Fossil",
+              "str": "أحفورة الدرع",
               "strWidth": 159.71875
             }
           ]
@@ -2972,7 +2972,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Skull Fossil",
+              "str": "أحفورة الجمجمة",
               "strWidth": 141.8125
             }
           ]
@@ -3008,7 +3008,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Right",
+              "str": "اليمين ",
               "strWidth": 67.046875
             }
           ]
@@ -3044,7 +3044,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Left",
+              "str": "اليسار ",
               "strWidth": 50.75
             }
           ]
@@ -3080,7 +3080,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Area 1",
+              "str": "المنطقة 1",
               "strWidth": 83.70313
             }
           ]
@@ -3116,7 +3116,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Area 2",
+              "str": "المنطقة 2",
               "strWidth": 87.703125
             }
           ]
@@ -3152,7 +3152,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Area 3",
+              "str": "المنطقة 3",
               "strWidth": 87.703125
             }
           ]
@@ -3188,7 +3188,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Area 4",
+              "str": "المنطقة 4",
               "strWidth": 87.703125
             }
           ]
@@ -3224,7 +3224,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Area 5",
+              "str": "المنطقة 5",
               "strWidth": 87.703125
             }
           ]
@@ -3260,7 +3260,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Area 6",
+              "str": "المنطقة 6",
               "strWidth": 87.703125
             }
           ]
@@ -3296,7 +3296,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "خروج",
               "strWidth": 57.625
             }
           ]
@@ -3332,7 +3332,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Red Shard",
+              "str": "الشظية الحمراء",
               "strWidth": 132.8125
             }
           ]
@@ -3368,7 +3368,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Blue Shard",
+              "str": "الشظية الزرقاء",
               "strWidth": 138.57812
             }
           ]
@@ -3404,7 +3404,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yellow Shard",
+              "str": "الشظية الصفراء",
               "strWidth": 169.76562
             }
           ]
@@ -3440,7 +3440,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Green Shard",
+              "str": "الشظية الخضراء ",
               "strWidth": 162.4375
             }
           ]
@@ -3476,7 +3476,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Red Shard",
+              "str": "الشظية الحمراء",
               "strWidth": 132.8125
             }
           ]
@@ -3512,7 +3512,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Blue Shard",
+              "str": "الشظية الزرقاء",
               "strWidth": 138.57812
             }
           ]
@@ -3548,7 +3548,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yellow Shard",
+              "str": "الشظية الصفراء",
               "strWidth": 169.76562
             }
           ]
@@ -3584,7 +3584,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Green Shard",
+              "str": "الشظية الخضراء ",
               "strWidth": 162.4375
             }
           ]
@@ -3620,7 +3620,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Iron Island",
+              "str": "جزيرة الحديد",
               "strWidth": 135.29688
             }
           ]
@@ -3656,7 +3656,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fullmoon Island",
+              "str": "جزيرة القمر الكامل",
               "strWidth": 204.42188
             }
           ]
@@ -3692,7 +3692,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Newmoon Island",
+              "str": "جزيرة القمر الجديد",
               "strWidth": 214.53125
             }
           ]
@@ -3728,7 +3728,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fight Area",
+              "str": "منطقة القتال",
               "strWidth": 135.29688
             }
           ]
@@ -3764,7 +3764,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowpoint City",
+              "str": "مدينة سنوبوينت",
               "strWidth": 196.59375
             }
           ]
@@ -3800,7 +3800,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -3836,7 +3836,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fresh Water ",
+              "str": "مياه نقية",
               "strWidth": 165.82812
             },
             {
@@ -3888,7 +3888,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Soda Pop ",
+              "str": "صودا بوب",
               "strWidth": 133.21875
             },
             {
@@ -3940,7 +3940,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lemonade ",
+              "str": "ليموناضة ",
               "strWidth": 143.60938
             },
             {
@@ -3992,7 +3992,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No, thanks",
+              "str": "لا، شكرًا ",
               "strWidth": 139.10938
             }
           ]
@@ -4028,7 +4028,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -4064,7 +4064,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Nothing, thanks",
+              "str": "لا شيء، شكرًا",
               "strWidth": 204.10938
             }
           ]
@@ -4100,7 +4100,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What’s recommended?",
+              "str": "ما هو الموصى به؟ ",
               "strWidth": 297.29688
             }
           ]
@@ -4136,7 +4136,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Digital Watch",
+              "str": "ساعة رقمية ",
               "strWidth": 178.82812
             }
           ]
@@ -4172,7 +4172,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Calculator",
+              "str": "آلة حاسبة",
               "strWidth": 132.79688
             }
           ]
@@ -4208,7 +4208,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Memo Pad",
+              "str": "لوحة الملاحظات",
               "strWidth": 139.35938
             }
           ]
@@ -4244,7 +4244,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Analog Watch",
+              "str": "ساعة عقارب",
               "strWidth": 184.3125
             }
           ]
@@ -4280,7 +4280,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dot Artist",
+              "str": "فن النقاط",
               "strWidth": 126.984375
             }
           ]
@@ -4316,7 +4316,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon List",
+              "str": "قائمة البوكيمونات",
               "strWidth": 172.48438
             }
           ]
@@ -4352,7 +4352,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Friendship Checker",
+              "str": "مؤشر الصداقة ",
               "strWidth": 249.0625
             }
           ]
@@ -4388,7 +4388,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dowsing Machine",
+              "str": "آلة الكشف ",
               "strWidth": 228.60938
             }
           ]
@@ -4424,7 +4424,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Counter",
+              "str": "عداد ",
               "strWidth": 104.234375
             }
           ]
@@ -4460,7 +4460,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pedometer",
+              "str": "عداد الخطوات",
               "strWidth": 141.04688
             }
           ]
@@ -4496,7 +4496,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Egg Monitor",
+              "str": "مراقب البيض",
               "strWidth": 160.07812
             }
           ]
@@ -4532,7 +4532,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spinner",
+              "str": "الدوار ",
               "strWidth": 97.09375
             }
           ]
@@ -4568,7 +4568,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coin Toss",
+              "str": "إلقاء العملة",
               "strWidth": 126.578125
             }
           ]
@@ -4604,7 +4604,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Kitchen Timer",
+              "str": "مؤقت المطبخ",
               "strWidth": 179.53125
             }
           ]
@@ -4640,7 +4640,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Marking Map",
+              "str": "خريطة العلامات",
               "strWidth": 172.32812
             }
           ]
@@ -4676,7 +4676,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Color Changer",
+              "str": "مغير الألوان",
               "strWidth": 189.1875
             }
           ]
@@ -4712,7 +4712,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Calendar",
+              "str": "التقويم ",
               "strWidth": 117.109375
             }
           ]
@@ -4748,7 +4748,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Chain Counter",
+              "str": "عداد السلسلة",
               "strWidth": 187.21875
             }
           ]
@@ -4784,7 +4784,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon History",
+              "str": "تاريخ البوكيمون",
               "strWidth": 220.71875
             }
           ]
@@ -4820,7 +4820,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hidden Moves",
+              "str": "الحركات الخفية",
               "strWidth": 189.10938
             }
           ]
@@ -4856,7 +4856,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -4892,7 +4892,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Story 1",
+              "str": "القصة 1",
               "strWidth": 89.34376
             }
           ]
@@ -4928,7 +4928,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Story 2",
+              "str": "القصة 2",
               "strWidth": 93.34375
             }
           ]
@@ -4964,7 +4964,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Story 3",
+              "str": "القصة 3",
               "strWidth": 93.34375
             }
           ]
@@ -5000,7 +5000,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -5036,7 +5036,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dusk Ball",
+              "str": "كرة الغسق ",
               "strWidth": 120.859375
             }
           ]
@@ -5072,7 +5072,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Heal Ball",
+              "str": "كرة العلاج",
               "strWidth": 117.90625
             }
           ]
@@ -5108,7 +5108,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quick Ball",
+              "str": "كرة السرعة",
               "strWidth": 133.1875
             }
           ]
@@ -5144,7 +5144,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -5180,7 +5180,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The creation of space",
+              "str": "خلق الفضاء",
               "strWidth": 280.85938
             }
           ]
@@ -5216,7 +5216,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mythical Pokémon",
+              "str": "البوكيمونات الأسطورية",
               "strWidth": 238.96875
             }
           ]
@@ -5252,7 +5252,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Red Chain",
+              "str": "السلسلة الحمراء",
               "strWidth": 191.20312
             }
           ]
@@ -5288,7 +5288,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج",
               "strWidth": 57.625
             }
           ]
@@ -5324,7 +5324,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Safari Balls",
+              "str": "كرات السفاري",
               "strWidth": 141.4375
             }
           ]
@@ -5360,7 +5360,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Park Balls",
+              "str": "كرات الحديقة",
               "strWidth": 124.40625
             }
           ]
@@ -5409,7 +5409,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stock: ",
+              "str": "المخزون : ",
               "strWidth": 90.203125
             },
             {
@@ -5453,7 +5453,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Forest",
+              "str": "الغابة ",
               "strWidth": 80.5
             }
           ]
@@ -5489,7 +5489,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "City",
+              "str": "المدينة ",
               "strWidth": 52.28125
             }
           ]
@@ -5525,7 +5525,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Desert",
+              "str": "الصحراء ",
               "strWidth": 85.265625
             }
           ]
@@ -5561,7 +5561,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Savanna",
+              "str": "السافانا ",
               "strWidth": 106.578125
             }
           ]
@@ -5597,7 +5597,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Crag",
+              "str": "الصخرة ",
               "strWidth": 61.390625
             }
           ]
@@ -5633,7 +5633,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Volcano",
+              "str": "البركان ",
               "strWidth": 106.921875
             }
           ]
@@ -5669,7 +5669,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snow",
+              "str": "الثلج ",
               "strWidth": 68.0
             }
           ]
@@ -5705,7 +5705,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cave",
+              "str": "الكهف ",
               "strWidth": 65.59375
             }
           ]
@@ -5741,7 +5741,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beach",
+              "str": "الشاطئ ",
               "strWidth": 78.109375
             }
           ]
@@ -5777,7 +5777,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Seafloor",
+              "str": "قاع البحر",
               "strWidth": 108.234375
             }
           ]
@@ -5813,7 +5813,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "River",
+              "str": "النهر ",
               "strWidth": 64.9375
             }
           ]
@@ -5849,7 +5849,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sky",
+              "str": "السماء ",
               "strWidth": 44.640625
             }
           ]
@@ -5885,7 +5885,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Center",
+              "str": "مركز البوكيمون",
               "strWidth": 215.8125
             }
           ]
@@ -5921,7 +5921,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Machine",
+              "str": "الآلة ",
               "strWidth": 109.96875
             }
           ]
@@ -5957,7 +5957,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Checks",
+              "str": "التحقق ",
               "strWidth": 92.078125
             }
           ]
@@ -5993,7 +5993,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Simple",
+              "str": "بسيط",
               "strWidth": 86.78125
             }
           ]
@@ -6029,7 +6029,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Space",
+              "str": "فضاء",
               "strWidth": 77.921875
             }
           ]
@@ -6065,7 +6065,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Backyard",
+              "str": "الفناء الخلفي",
               "strWidth": 117.984375
             }
           ]
@@ -6101,7 +6101,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Nostalgic",
+              "str": "الحنين ",
               "strWidth": 121.171875
             }
           ]
@@ -6137,7 +6137,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Torchic",
+              "str": "تورشيك ",
               "strWidth": 95.03125
             }
           ]
@@ -6173,7 +6173,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trio",
+              "str": "الثلاثي ",
               "strWidth": 51.546875
             }
           ]
@@ -6209,7 +6209,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pikapika",
+              "str": "بيكابيكا ",
               "strWidth": 108.96875
             }
           ]
@@ -6245,7 +6245,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Legend",
+              "str": "الأسطورة ",
               "strWidth": 95.953125
             }
           ]
@@ -6281,7 +6281,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Team Galactic",
+              "str": "فريق المجرة",
               "strWidth": 187.04688
             }
           ]
@@ -6317,7 +6317,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "EVERYONE HAPPY WI-FI CONNECTION",
+              "str": "الجميع سعيد باتصال الواي فاي",
               "strWidth": 538.84375
             }
           ]
@@ -6353,7 +6353,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t use this until you obtain a new Badge.",
+              "str": "لا يمكنك استخدام هذا حتى تحصل على شارة جديدة.",
               "strWidth": 624.875
             }
           ]
@@ -6389,7 +6389,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’re already surfing.",
+              "str": "أنت بالفعل تبحر.",
               "strWidth": 293.3125
             }
           ]
@@ -6438,7 +6438,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t use this because you’re traveling",
+              "str": "لا يمكنك استخدام هذا لأنك تسافر ",
               "strWidth": 554.90625
             },
             {
@@ -6446,7 +6446,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with ",
+              "str": "مع ",
               "strWidth": 61.71875
             },
             {
@@ -6498,7 +6498,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Pokémon do you want to use it on?",
+              "str": "أي بوكيمون تريد استخدامه؟",
               "strWidth": 547.8125
             }
           ]
@@ -6534,7 +6534,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t use that here.",
+              "str": "لا يمكنك استخدام هذا هنا.",
               "strWidth": 309.5625
             }
           ]
@@ -6570,7 +6570,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This Pokémon does not have enough HP.",
+              "str": "هذا البوكيمون لا يمتلك نقاط صحة كافية. ",
               "strWidth": 531.40625
             }
           ]
@@ -6606,7 +6606,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t use that on this Pokémon.",
+              "str": "لا يمكنك استخدام ذلك على هذا البوكيمون.",
               "strWidth": 466.89062
             }
           ]
@@ -6655,7 +6655,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Do you want your Pokémon to remember",
+              "str": "هل تريد أن يتذكر بوكيمونك",
               "strWidth": 532.6875
             },
             {
@@ -6663,7 +6663,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the move ",
+              "str": "الحركة",
               "strWidth": 128.85938
             },
             {
@@ -6728,7 +6728,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trainer ",
+              "str": "المدرب ",
               "strWidth": 99.5625
             },
             {
@@ -6772,7 +6772,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This document certifies that you have completed",
+              "str": "هذه الوثيقة تشهد أنك قد حققت ",
               "strWidth": 631.3594
             },
             {
@@ -6780,7 +6780,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the great achievement of meeting all the",
+              "str": " الإنجاز العظيم بلقاء كل البوكيمونات",
               "strWidth": 527.0
             },
             {
@@ -6788,7 +6788,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon in Sinnoh.",
+              "str": "في سينو.",
               "strWidth": 255.0625
             }
           ]
@@ -6824,7 +6824,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This document certifies that you have successfully",
+              "str": "هذه الوثيقة تشهد أنك قد أكملت ",
               "strWidth": 642.5156
             },
             {
@@ -6832,7 +6832,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "completed your National Pokédex.",
+              "str": " البوكيدكس الوطني بنجاح.",
               "strWidth": 451.14062
             }
           ]
@@ -6904,7 +6904,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Distortion (Platinum)",
+              "str": "التشوه (بلاتينيوم)",
               "strWidth": 270.76562
             }
           ]
@@ -6940,7 +6940,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trio (Platinum)",
+              "str": "الثلاثي (بلاتينيوم)",
               "strWidth": 193.82812
             }
           ]
@@ -6976,7 +6976,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest (Platinum)",
+              "str": "المسابقة (بلاتينيوم)",
               "strWidth": 242.84375
             }
           ]
@@ -7012,7 +7012,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pikapika (Platinum)",
+              "str": "بيكابيكا (بلاتينيوم)",
               "strWidth": 251.25
             }
           ]
@@ -7048,7 +7048,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Nostalgic (Platinum)",
+              "str": "الحنين (بلاتينيوم)",
               "strWidth": 263.45312
             }
           ]
@@ -7084,7 +7084,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Legend (Platinum)",
+              "str": "الأسطورة (بلاتينيوم)",
               "strWidth": 238.23438
             }
           ]
@@ -7120,7 +7120,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Croagunk (Platinum)",
+              "str": "كروغنك (بلاتينيوم)",
               "strWidth": 266.79688
             }
           ]
@@ -7156,7 +7156,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Team Galactic (Platinum)",
+              "str": "فريق المجرة (بلاتينيوم)",
               "strWidth": 329.32812
             }
           ]
@@ -7205,7 +7205,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hall of Fame No. ",
+              "str": " قاعة المشاهير رقم ",
               "strWidth": 231.3125
             },
             {
@@ -7354,7 +7354,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Original Trainer",
+              "str": "المدرب الأصلي ",
               "strWidth": 203.67188
             }
           ]
@@ -9496,7 +9496,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Quit",
+              "str": " الخروج",
               "strWidth": 66.296875
             }
           ]
@@ -9532,7 +9532,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Switch",
+              "str": " التبديل ",
               "strWidth": 91.125
             }
           ]
@@ -9568,7 +9568,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Illumination",
+              "str": "الإضاءة ",
               "strWidth": 151.125
             }
           ]
@@ -9604,7 +9604,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Electrode",
+              "str": "إلكترود ",
               "strWidth": 123.65625
             }
           ]
@@ -9640,7 +9640,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Brilliant",
+              "str": "رائع ",
               "strWidth": 98.671875
             }
           ]
@@ -9676,7 +9676,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Shining",
+              "str": "مشرق ",
               "strWidth": 93.59375
             }
           ]
@@ -9712,7 +9712,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No, thanks",
+              "str": "لا، شكرًا",
               "strWidth": 139.10938
             }
           ]
@@ -9748,7 +9748,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll buy one for 500",
+              "str": "سأشتري واحدة مقابل 500",
               "strWidth": 275.03125
             }
           ]
@@ -9784,7 +9784,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll buy 10 for 5,000",
+              "str": "سأشتري 10 مقابل 5,000",
               "strWidth": 285.10938
             }
           ]
@@ -9820,7 +9820,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll buy another one",
+              "str": "سأشتري واحدة أخرى",
               "strWidth": 253.98438
             }
           ]
@@ -9856,7 +9856,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll buy a different one",
+              "str": "سأشتري نوعًا مختلفًا",
               "strWidth": 290.3125
             }
           ]
@@ -9892,7 +9892,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’ll buy one for 100",
+              "str": "سأشتري واحدة مقابل 100 ",
               "strWidth": 271.03125
             }
           ]
@@ -9928,7 +9928,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "YOUR MONEY",
+              "str": "نقودك ",
               "strWidth": 198.53125
             }
           ]
@@ -10276,7 +10276,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cheri Berry ",
+              "str": "توت الشيري",
               "strWidth": 153.375
             },
             {
@@ -10328,7 +10328,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Chesto Berry ",
+              "str": "توت تشيستو",
               "strWidth": 174.82812
             },
             {
@@ -10380,7 +10380,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pecha Berry ",
+              "str": "توت بيتشا",
               "strWidth": 161.39062
             },
             {
@@ -10432,7 +10432,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rawst Berry ",
+              "str": "توت روست ",
               "strWidth": 158.60938
             },
             {
@@ -10484,7 +10484,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Aspear Berry ",
+              "str": "توت أسبر ",
               "strWidth": 174.125
             },
             {
@@ -10536,7 +10536,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gotta catch ’em all!",
+              "str": "اجمعهم جميعًا!",
               "strWidth": 256.35938
             }
           ]
@@ -10572,7 +10572,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sinnoh News Net",
+              "str": "شبكة أخبار سينو ",
               "strWidth": 220.85938
             }
           ]
@@ -10608,7 +10608,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Happy-Happy Egg Club",
+              "str": "نادي البيض السعيد",
               "strWidth": 310.0
             }
           ]
@@ -10644,7 +10644,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rate That Name Change",
+              "str": "قيّم تغيير الاسم ",
               "strWidth": 317.46875
             }
           ]
@@ -10680,7 +10680,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Underground Treasures Corner",
+              "str": "ركن كنوز تحت الأرض",
               "strWidth": 399.15625
             }
           ]
@@ -10716,7 +10716,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sticker Club Show",
+              "str": "عرض نادي الملصقات",
               "strWidth": 233.70312
             }
           ]
@@ -10752,7 +10752,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Street Corner Personality Checkup",
+              "str": "تحليل الشخصية في زاوية الشارع",
               "strWidth": 446.07812
             }
           ]
@@ -10788,7 +10788,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Three Cheers for Poffin Corner",
+              "str": "ثلاث هتافات لركن الحلويات",
               "strWidth": 398.92188
             }
           ]
@@ -10824,7 +10824,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Amity Square Watch",
+              "str": "ساعة ساحة أميتي",
               "strWidth": 264.96875
             }
           ]
@@ -10860,7 +10860,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A Show for Us",
+              "str": "عرض لنا",
               "strWidth": 183.57812
             }
           ]
@@ -10896,7 +10896,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rare Item Expert Panel",
+              "str": "لجنة خبراء العناصر النادرة ",
               "strWidth": 295.82812
             }
           ]
@@ -10932,7 +10932,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Greater’s Digest",
+              "str": "ملخص المتميزين",
               "strWidth": 269.71875
             }
           ]
@@ -10968,7 +10968,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Streetside Fashion Snap",
+              "str": "لقطات أزياء الشارع",
               "strWidth": 309.32812
             }
           ]
@@ -11004,7 +11004,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rack ’Em Up Records",
+              "str": "أرقام قياسية مبهجة",
               "strWidth": 276.84375
             }
           ]
@@ -11040,7 +11040,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Love That Group Corner",
+              "str": "زاوية حب المجموعة ",
               "strWidth": 317.46875
             }
           ]
@@ -11076,7 +11076,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Planting & Watering Show for Berry Gardeners",
+              "str": "برنامج الزراعة والسقي لمزارعي التوت",
               "strWidth": 601.0156
             }
           ]
@@ -11112,7 +11112,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Matchup Channel",
+              "str": "قناة المواجهات",
               "strWidth": 228.39062
             }
           ]
@@ -11148,7 +11148,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Research Corner",
+              "str": "ركن أبحاث البوكيمونات",
               "strWidth": 340.84375
             }
           ]
@@ -11184,7 +11184,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Pokétch Watch",
+              "str": "ساعة بوكيتش",
               "strWidth": 253.32812
             }
           ]
@@ -11220,7 +11220,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Palmer",
+              "str": "بالمر ",
               "strWidth": 87.703125
             }
           ]
@@ -11256,7 +11256,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cheryl",
+              "str": "شيريل ",
               "strWidth": 83.609375
             }
           ]
@@ -11292,7 +11292,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mira",
+              "str": "ميرا ",
               "strWidth": 58.546875
             }
           ]
@@ -11328,7 +11328,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Riley",
+              "str": "ريلي ",
               "strWidth": 63.359375
             }
           ]
@@ -11364,7 +11364,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Marley",
+              "str": "مارلي ",
               "strWidth": 89.0625
             }
           ]
@@ -11400,7 +11400,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Buck",
+              "str": "باك ",
               "strWidth": 61.65625
             }
           ]
@@ -11436,7 +11436,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Decide",
+              "str": "قرر ",
               "strWidth": 92.890625
             }
           ]
@@ -11472,7 +11472,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Don’t decide",
+              "str": "لا تقرر ",
               "strWidth": 170.45312
             }
           ]
@@ -11508,7 +11508,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Play again",
+              "str": "العب مرة أخرى",
               "strWidth": 132.375
             }
           ]
@@ -11544,7 +11544,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Red",
+              "str": "الأحمر ",
               "strWidth": 50.875
             }
           ]
@@ -11580,7 +11580,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Green",
+              "str": "الأخضر ",
               "strWidth": 80.5
             }
           ]
@@ -11616,7 +11616,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Blue",
+              "str": "الأزرق ",
               "strWidth": 56.640625
             }
           ]
@@ -11652,7 +11652,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yellow",
+              "str": "الأصفر ",
               "strWidth": 87.828125
             }
           ]
@@ -11897,7 +11897,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We hereby certify that this Trainer has shown",
+              "str": "نشهد هنا أن هذا المدرب أظهر",
               "strWidth": 584.125
             },
             {
@@ -11905,7 +11905,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "unwavering friendship and unbreakable bonds",
+              "str": "صداقة ثابتة وروابط غير قابلة للكسر",
               "strWidth": 595.21875
             },
             {
@@ -11913,7 +11913,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with ",
+              "str": "مع ",
               "strWidth": 61.71875
             },
             {
@@ -11965,7 +11965,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Next",
+              "str": "التالي ",
               "strWidth": 62.109375
             }
           ]
