@@ -107,7 +107,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lv. ",
+              "str": "المستوى. ",
               "strWidth": 45.625
             },
             {
@@ -439,7 +439,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " ID: ",
+              "str": " المعرف: ",
               "strWidth": 57.953125
             },
             {
@@ -455,7 +455,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Time: ",
+              "str": " الوقت: ",
               "strWidth": 90.875
             },
             {
