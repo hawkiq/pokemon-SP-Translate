@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mystery Zone",
+              "str": "منطقة الغموض ",
               "strWidth": 177.46875
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "GWS",
+              "str": "محطة العجائب العالمية",
               "strWidth": 67.421875
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Jubilife City",
+              "str": "مدينة جوبيلايف",
               "strWidth": 155.15625
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Canalave City",
+              "str": "مدينة كانالاف",
               "strWidth": 180.5
             }
           ]
@@ -189,7 +189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh City",
+              "str": "مدينة أوربيرغ",
               "strWidth": 185.21875
             }
           ]
@@ -225,7 +225,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eterna City",
+              "str": "مدينة إترنا",
               "strWidth": 143.34375
             }
           ]
@@ -261,7 +261,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hearthome City",
+              "str": "مدينة هارثوم",
               "strWidth": 205.35938
             }
           ]
@@ -297,7 +297,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pastoria City",
+              "str": "مدينة باستوريا",
               "strWidth": 163.8125
             }
           ]
@@ -333,7 +333,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Veilstone City",
+              "str": "مدينة فيلستون",
               "strWidth": 182.57812
             }
           ]
@@ -369,7 +369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sunyshore City",
+              "str": "مدينة سانيشور",
               "strWidth": 191.8125
             }
           ]
@@ -405,7 +405,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowpoint City",
+              "str": "مدينة سنوبوينت",
               "strWidth": 196.59375
             }
           ]
@@ -441,7 +441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon League",
+              "str": "دوري البوكيمونات",
               "strWidth": 222.3125
             }
           ]
@@ -477,7 +477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fight Area",
+              "str": "منطقة القتال",
               "strWidth": 135.29688
             }
           ]
@@ -513,7 +513,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh Mine",
+              "str": "منجم أوربيرغ",
               "strWidth": 198.07812
             }
           ]
@@ -549,7 +549,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Valley Windworks",
+              "str": "وادي أعمال الرياح",
               "strWidth": 231.9375
             }
           ]
@@ -585,7 +585,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eterna Forest",
+              "str": "غابة إترنا",
               "strWidth": 171.5625
             }
           ]
@@ -621,7 +621,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fuego Ironworks",
+              "str": "مصانع فيوغو الحديدية",
               "strWidth": 213.45312
             }
           ]
@@ -657,7 +657,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hall of Origin",
+              "str": "قاعة الأصل",
               "strWidth": 178.17188
             }
           ]
@@ -693,7 +693,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spear Pillar",
+              "str": "عمود الرمح ",
               "strWidth": 146.70312
             }
           ]
@@ -729,7 +729,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mount Coronet",
+              "str": "جبل كورونيت",
               "strWidth": 198.82812
             }
           ]
@@ -765,7 +765,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great Marsh",
+              "str": "المستنقع الكبير",
               "strWidth": 161.0
             }
           ]
@@ -801,7 +801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Solaceon Ruins",
+              "str": "أطلال سولاسيون",
               "strWidth": 194.92188
             }
           ]
@@ -837,7 +837,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Victory Road",
+              "str": "طريق النصر",
               "strWidth": 168.82812
             }
           ]
@@ -873,7 +873,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas Park",
+              "str": "حديقة راماناس",
               "strWidth": 178.04688
             }
           ]
@@ -909,7 +909,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Amity Square",
+              "str": "ساحة أميتي",
               "strWidth": 172.78125
             }
           ]
@@ -945,7 +945,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ravaged Path",
+              "str": "طريق الدمار ",
               "strWidth": 177.60938
             }
           ]
@@ -981,7 +981,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Floaroma Meadow",
+              "str": "مرج فلوراما ",
               "strWidth": 241.39062
             }
           ]
@@ -1017,7 +1017,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh Gate",
+              "str": "بوابة أوربيرغ",
               "strWidth": 197.57812
             }
           ]
@@ -1053,7 +1053,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fullmoon Island",
+              "str": "جزيرة القمر الكامل",
               "strWidth": 204.42188
             }
           ]
@@ -1089,7 +1089,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stark Mountain",
+              "str": "جبل ستارك",
               "strWidth": 196.76562
             }
           ]
@@ -1125,7 +1125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Turnback Cave",
+              "str": "كهف العودة",
               "strWidth": 193.51562
             }
           ]
@@ -1161,7 +1161,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sendoff Spring",
+              "str": "نبع الرحيل",
               "strWidth": 191.375
             }
           ]
@@ -1197,7 +1197,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Flower Paradise",
+              "str": "جنة الأزهار ",
               "strWidth": 204.10938
             }
           ]
@@ -1233,7 +1233,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowpoint Temple",
+              "str": "معبد سنوبوينت",
               "strWidth": 241.125
             }
           ]
@@ -1269,7 +1269,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Wayward Cave",
+              "str": "كهف المتاهة",
               "strWidth": 194.625
             }
           ]
@@ -1305,7 +1305,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ruin Maniac Cave",
+              "str": "كهف المغامر",
               "strWidth": 233.04688
             }
           ]
@@ -1341,7 +1341,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Maniac Tunnel",
+              "str": "نفق المغامر",
               "strWidth": 190.0
             }
           ]
@@ -1377,7 +1377,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trophy Garden",
+              "str": "حديقة التذكارات",
               "strWidth": 196.92188
             }
           ]
@@ -1413,7 +1413,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Iron Island",
+              "str": "جزيرة الحديد",
               "strWidth": 135.29688
             }
           ]
@@ -1449,7 +1449,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Old Chateau",
+              "str": "القصر القديم ",
               "strWidth": 166.14062
             }
           ]
@@ -1485,7 +1485,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Galactic HQ",
+              "str": "مقر فريق المجرة",
               "strWidth": 162.34375
             }
           ]
@@ -1521,7 +1521,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Verity Cavern",
+              "str": "كهف فيريتي",
               "strWidth": 177.15625
             }
           ]
@@ -1557,7 +1557,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lake Verity",
+              "str": "بحيرة فيريتي",
               "strWidth": 147.375
             }
           ]
@@ -1593,7 +1593,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Valor Cavern",
+              "str": "كهف فالور",
               "strWidth": 169.39062
             }
           ]
@@ -1629,7 +1629,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lake Valor",
+              "str": "بحيرة فالور ",
               "strWidth": 139.60938
             }
           ]
@@ -1665,7 +1665,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Acuity Cavern",
+              "str": "كهف أكيوتي",
               "strWidth": 181.1875
             }
           ]
@@ -1701,7 +1701,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lake Acuity",
+              "str": "بحيرة أكيوتي",
               "strWidth": 151.40625
             }
           ]
@@ -1737,7 +1737,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Newmoon Island",
+              "str": "جزيرة القمر الجديد",
               "strWidth": 214.53125
             }
           ]
@@ -1773,7 +1773,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Battle Park",
+              "str": "منتزه المعارك",
               "strWidth": 141.17188
             }
           ]
@@ -1809,7 +1809,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Verity Lakefront",
+              "str": "شاطئ بحيرة فيريتي",
               "strWidth": 209.57812
             }
           ]
@@ -1845,7 +1845,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Valor Lakefront",
+              "str": "شاطئ بحيرة فالور",
               "strWidth": 201.8125
             }
           ]
@@ -1881,7 +1881,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Acuity Lakefront",
+              "str": "شاطئ بحيرة أكيوتي",
               "strWidth": 213.60938
             }
           ]
@@ -1917,7 +1917,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spring Path",
+              "str": "طريق الربيع",
               "strWidth": 147.60938
             }
           ]
@@ -1953,7 +1953,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 201",
+              "str": "الطريق 201",
               "strWidth": 135.0
             }
           ]
@@ -1989,7 +1989,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 202",
+              "str": "الطريق 202",
               "strWidth": 139.0
             }
           ]
@@ -2025,7 +2025,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 203",
+              "str": "الطريق 203",
               "strWidth": 139.0
             }
           ]
@@ -2061,7 +2061,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 204",
+              "str": "الطريق 204",
               "strWidth": 139.0
             }
           ]
@@ -2097,7 +2097,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 205",
+              "str": "الطريق 205",
               "strWidth": 139.0
             }
           ]
@@ -2133,7 +2133,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 206",
+              "str": "الطريق 206",
               "strWidth": 139.0
             }
           ]
@@ -2169,7 +2169,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 207",
+              "str": "الطريق 207",
               "strWidth": 139.0
             }
           ]
@@ -2205,7 +2205,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 208",
+              "str": "الطريق 208",
               "strWidth": 139.0
             }
           ]
@@ -2241,7 +2241,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 209",
+              "str": "الطريق 209",
               "strWidth": 139.0
             }
           ]
@@ -2277,7 +2277,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 210",
+              "str": "الطريق 210",
               "strWidth": 135.0
             }
           ]
@@ -2313,7 +2313,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 211",
+              "str": "الطريق 211",
               "strWidth": 131.00002
             }
           ]
@@ -2349,7 +2349,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 212",
+              "str": "الطريق 212",
               "strWidth": 135.0
             }
           ]
@@ -2385,7 +2385,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 213",
+              "str": "الطريق 213",
               "strWidth": 135.0
             }
           ]
@@ -2421,7 +2421,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 214",
+              "str": "الطريق 214",
               "strWidth": 135.0
             }
           ]
@@ -2457,7 +2457,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 215",
+              "str": "الطريق 215",
               "strWidth": 135.0
             }
           ]
@@ -2493,7 +2493,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 216",
+              "str": "الطريق 216",
               "strWidth": 135.0
             }
           ]
@@ -2529,7 +2529,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 217",
+              "str": "الطريق 217",
               "strWidth": 135.0
             }
           ]
@@ -2565,7 +2565,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 218",
+              "str": "الطريق 218",
               "strWidth": 135.0
             }
           ]
@@ -2601,7 +2601,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 219",
+              "str": "الطريق 219",
               "strWidth": 135.0
             }
           ]
@@ -2637,7 +2637,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 221",
+              "str": "الطريق 221",
               "strWidth": 135.0
             }
           ]
@@ -2673,7 +2673,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 222",
+              "str": "الطريق 222",
               "strWidth": 139.0
             }
           ]
@@ -2709,7 +2709,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 224",
+              "str": "الطريق 224",
               "strWidth": 139.0
             }
           ]
@@ -2745,7 +2745,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 225",
+              "str": "الطريق 225",
               "strWidth": 139.0
             }
           ]
@@ -2781,7 +2781,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 227",
+              "str": "الطريق 227",
               "strWidth": 139.0
             }
           ]
@@ -2817,7 +2817,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 228",
+              "str": "الطريق 228",
               "strWidth": 139.0
             }
           ]
@@ -2853,7 +2853,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 229",
+              "str": "الطريق 229",
               "strWidth": 139.0
             }
           ]
@@ -2889,7 +2889,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Twinleaf Town",
+              "str": "بلدة توينليف",
               "strWidth": 187.28125
             }
           ]
@@ -2925,7 +2925,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sandgem Town",
+              "str": "بلدة سانجيم",
               "strWidth": 196.82812
             }
           ]
@@ -2961,7 +2961,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Floaroma Town",
+              "str": "بلدة فلوراما ",
               "strWidth": 199.5625
             }
           ]
@@ -2997,7 +2997,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Solaceon Town",
+              "str": "بلدة سولاسيون ",
               "strWidth": 196.6875
             }
           ]
@@ -3033,7 +3033,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Celestic Town",
+              "str": "بلدة سيليستيك ",
               "strWidth": 181.4375
             }
           ]
@@ -3069,7 +3069,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Survival Area",
+              "str": "منطقة البقاء ",
               "strWidth": 169.25
             }
           ]
@@ -3105,7 +3105,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Resort Area",
+              "str": "منطقة المنتجع ",
               "strWidth": 151.6875
             }
           ]
@@ -3141,7 +3141,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 220",
+              "str": "الطريق 220",
               "strWidth": 139.0
             }
           ]
@@ -3177,7 +3177,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 223",
+              "str": "الطريق 223",
               "strWidth": 139.0
             }
           ]
@@ -3213,7 +3213,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 226",
+              "str": "الطريق 226",
               "strWidth": 139.0
             }
           ]
@@ -3249,7 +3249,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 230",
+              "str": "الطريق 230",
               "strWidth": 139.0
             }
           ]
@@ -3285,7 +3285,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Seabreak Path",
+              "str": "طريق سيبريك",
               "strWidth": 185.57812
             }
           ]
@@ -3321,7 +3321,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Grand Underground",
+              "str": "الأرض الكبرى تحت الأرض",
               "strWidth": 261.07812
             }
           ]
@@ -3357,7 +3357,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Western Zone",
+              "str": "المنطقة الغربية",
               "strWidth": 182.92188
             }
           ]
@@ -3393,7 +3393,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eastern Zone",
+              "str": "المنطقة الشرقية",
               "strWidth": 169.45312
             }
           ]
@@ -3429,7 +3429,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Southwestern Zone",
+              "str": "المنطقة الجنوبية الغربية",
               "strWidth": 247.90625
             }
           ]
@@ -3465,7 +3465,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Central Zone",
+              "str": "المنطقة الوسطى",
               "strWidth": 170.125
             }
           ]
@@ -3501,7 +3501,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Northwestern Zone",
+              "str": "المنطقة الشمالية الغربية ",
               "strWidth": 248.15625
             }
           ]
@@ -3537,7 +3537,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Southeastern Zone",
+              "str": "المنطقة الجنوبية الشرقية",
               "strWidth": 243.39062
             }
           ]
@@ -3573,7 +3573,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Northeastern Zone",
+              "str": "المنطقة الشمالية الشرقية",
               "strWidth": 243.64062
             }
           ]
@@ -3609,7 +3609,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Landmark",
+              "str": "معلم مميز",
               "strWidth": 125.609375
             }
           ]
@@ -3645,7 +3645,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Plain Cave",
+              "str": "كهف السهل",
               "strWidth": 136.8125
             }
           ]
@@ -3681,7 +3681,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spacious Cave",
+              "str": "كهف الفضاء الواسع",
               "strWidth": 188.07812
             }
           ]
@@ -3717,7 +3717,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tall-Grass Cave",
+              "str": "كهف العشب الطويل",
               "strWidth": 204.76562
             }
           ]
@@ -3753,7 +3753,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Grassland Cave",
+              "str": "كهف المروج",
               "strWidth": 201.51562
             }
           ]
@@ -3789,7 +3789,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Watery Cave",
+              "str": "كهف الماء",
               "strWidth": 168.25
             }
           ]
@@ -3825,7 +3825,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fountainspring Cave",
+              "str": "كهف ينبوع المياه",
               "strWidth": 265.0625
             }
           ]
@@ -3861,7 +3861,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dusty Cave",
+              "str": "كهف الغبار",
               "strWidth": 147.89062
             }
           ]
@@ -3897,7 +3897,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rocky Cave",
+              "str": "كهف الصخور ",
               "strWidth": 152.1875
             }
           ]
@@ -3933,7 +3933,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fiery Cave",
+              "str": "كهف النار",
               "strWidth": 138.03125
             }
           ]
@@ -3969,7 +3969,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Volcanic Cave",
+              "str": "كهف البركان",
               "strWidth": 185.59375
             }
           ]
@@ -4005,7 +4005,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Muddy Cave",
+              "str": "كهف الطين",
               "strWidth": 164.76562
             }
           ]
@@ -4041,7 +4041,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Swampy Cave",
+              "str": "كهف المستنقعات",
               "strWidth": 179.17188
             }
           ]
@@ -4077,7 +4077,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Twinkly Cave",
+              "str": "الكهف المتلألئ",
               "strWidth": 171.35938
             }
           ]
@@ -4113,7 +4113,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dazzling Cave",
+              "str": "كهف الإبهار",
               "strWidth": 184.89062
             }
           ]
@@ -4149,7 +4149,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowdrift Cave",
+              "str": "كهف الانجراف الثلجي",
               "strWidth": 196.625
             }
           ]
@@ -4185,7 +4185,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Whiteout Cave",
+              "str": "كهف البياض التام",
               "strWidth": 194.89062
             }
           ]
@@ -4221,7 +4221,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Frosty Cave",
+              "str": "كهف الصقيع",
               "strWidth": 153.17188
             }
           ]
@@ -4257,7 +4257,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Icy Cave",
+              "str": "كهف الجليد",
               "strWidth": 110.984375
             }
           ]
@@ -4293,7 +4293,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Riverbank Cave",
+              "str": "كهف ضفة النهر",
               "strWidth": 202.14062
             }
           ]
@@ -4329,7 +4329,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sandsear Cave",
+              "str": "كهف الرمال الحارة",
               "strWidth": 190.3125
             }
           ]
@@ -4365,7 +4365,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Still-Water Cavern",
+              "str": "كهف المياه الراكدة",
               "strWidth": 238.98438
             }
           ]
@@ -4401,7 +4401,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sunlit Cavern",
+              "str": "كهف ضوء الشمس",
               "strWidth": 171.54688
             }
           ]
@@ -4437,7 +4437,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Big Bluff Cavern",
+              "str": "كهف المنحدرات الكبيرة",
               "strWidth": 209.48438
             }
           ]
@@ -4473,7 +4473,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stargleam Cavern",
+              "str": "كهف النجوم اللامعة ",
               "strWidth": 227.90625
             }
           ]
@@ -4509,7 +4509,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Glacial Cavern",
+              "str": "كهف الجليد الأزلي",
               "strWidth": 190.54688
             }
           ]
@@ -4545,7 +4545,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bogsunk Cavern",
+              "str": "كهف الوحل العميق",
               "strWidth": 207.64062
             }
           ]
@@ -4581,7 +4581,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Typhlo Cavern",
+              "str": "كهف الرماد البركاني",
               "strWidth": 188.76562
             }
           ]
@@ -4617,7 +4617,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Entrance",
+              "str": "المدخل ",
               "strWidth": 111.921875
             }
           ]
@@ -4653,7 +4653,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Kanto Room",
+              "str": "غرفة كانتو",
               "strWidth": 160.45312
             }
           ]
@@ -4689,7 +4689,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Johto Room",
+              "str": "غرفة جوتو",
               "strWidth": 155.90625
             }
           ]
@@ -4725,7 +4725,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Soul Room",
+              "str": "غرفة الروح",
               "strWidth": 139.29688
             }
           ]
@@ -4761,7 +4761,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rainbow Room",
+              "str": "غرفة قوس قزح",
               "strWidth": 193.65625
             }
           ]
@@ -4797,7 +4797,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Squall Room",
+              "str": "غرفة العاصفة",
               "strWidth": 162.5
             }
           ]
@@ -4833,7 +4833,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oceanic Room",
+              "str": "غرفة المحيط",
               "strWidth": 190.07812
             }
           ]
@@ -4869,7 +4869,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tectonic Room",
+              "str": "الغرفة التكتونية",
               "strWidth": 194.71875
             }
           ]
@@ -4905,7 +4905,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stratospheric Room",
+              "str": "غرفة طبقات الجو",
               "strWidth": 252.51562
             }
           ]
@@ -4941,7 +4941,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Genome Room",
+              "str": "غرفة الجينوم",
               "strWidth": 194.04688
             }
           ]
@@ -4977,7 +4977,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Discovery Room",
+              "str": "غرفة الاكتشاف",
               "strWidth": 209.75
             }
           ]
@@ -5013,7 +5013,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Distortion Room",
+              "str": "غرفة التشوه",
               "strWidth": 211.8125
             }
           ]
@@ -5049,7 +5049,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pure Space",
+              "str": "الفضاء النقي",
               "strWidth": 144.07812
             }
           ]
@@ -5085,7 +5085,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Strange Space",
+              "str": "الفضاء الغريب",
               "strWidth": 184.78125
             }
           ]
@@ -5121,7 +5121,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Secret Base",
+              "str": "القاعدة السرية",
               "strWidth": 149.8125
             }
           ]

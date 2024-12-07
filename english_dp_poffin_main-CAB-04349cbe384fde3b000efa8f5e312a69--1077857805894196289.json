@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Berry Tag",
+              "str": "علامة التوت",
               "strWidth": 124.25
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy",
+              "str": "حار ",
               "strWidth": 68.640625
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry",
+              "str": "جاف ",
               "strWidth": 46.140625
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet",
+              "str": "حلو ",
               "strWidth": 77.25
             }
           ]
@@ -189,7 +189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter",
+              "str": "مر ",
               "strWidth": 70.640625
             }
           ]
@@ -225,7 +225,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour",
+              "str": "حامض ",
               "strWidth": 57.84375
             }
           ]
@@ -261,7 +261,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No.",
+              "str": "رقم .",
               "strWidth": 46.6875
             }
           ]
@@ -346,7 +346,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Size",
+              "str": "الحجم ",
               "strWidth": 52.0625
             }
           ]
@@ -467,7 +467,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Firmness",
+              "str": "الصلابة ",
               "strWidth": 110.71875
             }
           ]
@@ -503,7 +503,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Very soft",
+              "str": "ناعم جدًا ",
               "strWidth": 117.15625
             }
           ]
@@ -539,7 +539,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Soft",
+              "str": "ناعم ",
               "strWidth": 52.421875
             }
           ]
@@ -575,7 +575,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hard",
+              "str": "صلب ",
               "strWidth": 64.25
             }
           ]
@@ -611,7 +611,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Very hard",
+              "str": "صلب جدًا",
               "strWidth": 126.484375
             }
           ]
@@ -647,7 +647,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Super hard",
+              "str": "صلب للغاية",
               "strWidth": 140.39062
             }
           ]
@@ -683,7 +683,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s soft, earthy soil.",
+              "str": "إنها تربة ناعمة وخصبة",
               "strWidth": 255.0
             }
           ]
@@ -719,7 +719,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Plant Berry",
+              "str": "زرع شجرة توت",
               "strWidth": 140.625
             }
           ]
@@ -755,7 +755,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "الخروج ",
               "strWidth": 57.625
             }
           ]
@@ -791,7 +791,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to plant a Berry?",
+              "str": "هل ترغب في زرع شجرة توت؟",
               "strWidth": 421.64062
             }
           ]
@@ -827,7 +827,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -863,7 +863,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا ",
               "strWidth": 38.78125
             }
           ]
@@ -912,7 +912,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "تم زرع ",
               "strWidth": 57.34375
             },
             {
@@ -928,7 +928,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " was planted in the",
+              "str": " في التربة",
               "strWidth": 245.29688
             },
             {
@@ -936,7 +936,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "soft, earthy soil.",
+              "str": " الناعمة والخصبة",
               "strWidth": 207.54688
             }
           ]
@@ -985,7 +985,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "تم زرع ",
               "strWidth": 57.34375
             },
             {
@@ -1001,7 +1001,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " was planted here.",
+              "str": " في هذه البقعة.",
               "strWidth": 236.92188
             }
           ]
@@ -1050,7 +1050,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "إن النبتة ",
               "strWidth": 57.34375
             },
             {
@@ -1066,7 +1066,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant has sprouted.",
+              "str": " بدأت تنبت..",
               "strWidth": 256.71875
             }
           ]
@@ -1115,7 +1115,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This ",
+              "str": "هذه ",
               "strWidth": 60.5
             },
             {
@@ -1131,7 +1131,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant is",
+              "str": " النبتة",
               "strWidth": 102.421875
             },
             {
@@ -1139,7 +1139,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "growing bigger.",
+              "str": "تنمو بشكل أكبر.",
               "strWidth": 201.625
             }
           ]
@@ -1188,7 +1188,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This ",
+              "str": "ان هذه النبتة ",
               "strWidth": 60.5
             },
             {
@@ -1204,7 +1204,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant is in bloom!",
+              "str": " قد أزهرت!",
               "strWidth": 232.28125
             }
           ]
@@ -1240,7 +1240,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to sprinkle some water?",
+              "str": "هل ترغب في رش بعض الماء؟ ",
               "strWidth": 511.73438
             }
           ]
@@ -1276,7 +1276,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -1312,7 +1312,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا ",
               "strWidth": 38.78125
             }
           ]
@@ -1348,7 +1348,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There! All happy!",
+              "str": "ها نحن! الكل سعيد!",
               "strWidth": 221.60938
             }
           ]
@@ -1439,7 +1439,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There ",
+              "str": "هلم ",
               "strWidth": 82.96875
             },
             {
@@ -1495,7 +1495,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to pick ",
+              "str": "هل ترغب في قطف ",
               "strWidth": 303.90625
             },
             {
@@ -1547,7 +1547,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -1583,7 +1583,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا ",
               "strWidth": 38.78125
             }
           ]
@@ -1632,7 +1632,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You left the ",
+              "str": "لقد تركت ",
               "strWidth": 163.23438
             },
             {
@@ -1648,7 +1648,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant as is.",
+              "str": " النبتة كما هي.",
               "strWidth": 145.8125
             }
           ]
@@ -1709,7 +1709,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You picked the ",
+              "str": "لقد قطفت الـ ",
               "strWidth": 206.54688
             },
             {
@@ -1790,7 +1790,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Your Bag is full.",
+              "str": "حقيبتك ممتلئة.",
               "strWidth": 204.46875
             },
             {
@@ -1798,7 +1798,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "ان نبتة ",
               "strWidth": 57.34375
             },
             {
@@ -1814,7 +1814,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " couldn’t be taken.",
+              "str": " لا يمكن أخذها.",
               "strWidth": 245.04688
             }
           ]
@@ -1875,7 +1875,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You put the ",
+              "str": "لقد وضعت ",
               "strWidth": 162.54688
             },
             {
@@ -1891,7 +1891,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " in your",
+              "str": " في",
               "strWidth": 97.296875
             },
             {
@@ -1899,7 +1899,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bag’s ",
+              "str": "جيب ",
               "strWidth": 77.8125
             },
             {
@@ -1915,7 +1915,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " pocket.",
+              "str": " حقيبتك.",
               "strWidth": 105.765625
             },
             {
@@ -1923,7 +1923,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The soil returned to its soft and earthy state.",
+              "str": "عادت التربة إلى حالتها الناعمة والخصبة. ",
               "strWidth": 576.5625
             }
           ]
@@ -1959,7 +1959,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s soft, earthy soil.",
+              "str": "انها تربة ناعمة وخصبة. ",
               "strWidth": 255.0
             }
           ]
@@ -2008,7 +2008,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "إن نبتة ",
               "strWidth": 57.34375
             },
             {
@@ -2024,7 +2024,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " was planted here.",
+              "str": " تم زرعها هنا.",
               "strWidth": 236.92188
             }
           ]
@@ -2073,7 +2073,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "إان ",
               "strWidth": 57.34375
             },
             {
@@ -2089,7 +2089,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant has sprouted.",
+              "str": " بدأت تنبت.",
               "strWidth": 256.71875
             }
           ]
@@ -2138,7 +2138,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "ان ",
               "strWidth": 57.34375
             },
             {
@@ -2154,7 +2154,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant is",
+              "str": " بدأت",
               "strWidth": 102.421875
             },
             {
@@ -2162,7 +2162,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "growing bigger.",
+              "str": "تكبر وتكبر.",
               "strWidth": 201.625
             }
           ]
@@ -2211,7 +2211,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This ",
+              "str": "ان ",
               "strWidth": 60.5
             },
             {
@@ -2227,7 +2227,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " plant is in bloom!",
+              "str": " بدأت تزهر!",
               "strWidth": 232.28125
             }
           ]
@@ -2263,7 +2263,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a Poffin.",
+              "str": "رجاءاً اختر حلوى.",
               "strWidth": 283.42188
             }
           ]
@@ -2348,7 +2348,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Toggle",
+              "str": "التبديل ",
               "strWidth": 90.40625
             }
           ]
@@ -2384,7 +2384,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Confirm",
+              "str": " تأكيد ",
               "strWidth": 111.40625
             }
           ]
@@ -2420,7 +2420,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Empty",
+              "str": "فارغ ",
               "strWidth": 80.234375
             }
           ]
@@ -2477,7 +2477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " happily ate the Poffin!",
+              "str": " تناول الحلوى بسعادة!",
               "strWidth": 296.15625
             }
           ]
@@ -2534,7 +2534,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " disdainfully ate the Poffin...",
+              "str": " تناول الحلوى بإزدراء...",
               "strWidth": 364.92188
             }
           ]
@@ -2591,7 +2591,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " ate the Poffin.",
+              "str": " تناول الحلوى.",
               "strWidth": 192.98438
             }
           ]
@@ -2627,7 +2627,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness was enhanced!",
+              "str": "تم تعزيز الروعة! ",
               "strWidth": 313.35938
             }
           ]
@@ -2663,7 +2663,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Toughness was enhanced!",
+              "str": "تم تعزيز الصلابة!",
               "strWidth": 332.64062
             }
           ]
@@ -2699,7 +2699,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beauty was enhanced!",
+              "str": "تم تعزيز الجمال!",
               "strWidth": 285.01562
             }
           ]
@@ -2735,7 +2735,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cuteness was enhanced!",
+              "str": "تم تعزيز الجاذبية! ",
               "strWidth": 312.85938
             }
           ]
@@ -2771,7 +2771,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cleverness was enhanced!",
+              "str": "تم تعزيز الذكاء!",
               "strWidth": 334.71875
             }
           ]
@@ -2807,7 +2807,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Nothing changed!",
+              "str": "لم يتغير شيء! ",
               "strWidth": 229.5625
             }
           ]
@@ -2843,7 +2843,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It won’t eat any more...",
+              "str": "لن يأكل أكثر من هذا...",
               "strWidth": 300.32812
             }
           ]
@@ -3369,7 +3369,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hello! Here you may cook Berries and turn them",
+              "str": "مرحبًا! هنا يمكنك طهي التوت ",
               "strWidth": 624.5469
             },
             {
@@ -3377,7 +3377,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "into Poffins.",
+              "str": "وتحويله إلى حلويات.",
               "strWidth": 154.64062
             }
           ]
@@ -3413,7 +3413,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK, all your other Pokémon can go on ahead to",
+              "str": "حسنًا، يمكن لكل البوكيمونات الأخرى",
               "strWidth": 623.5469
             },
             {
@@ -3421,7 +3421,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the square and play!",
+              "str": "الذهاب للعب في الساحة!",
               "strWidth": 263.03125
             }
           ]
@@ -3457,7 +3457,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There isn’t a Berry to cook!",
+              "str": "لا يوجد توت للطهي!",
               "strWidth": 351.04688
             }
           ]
@@ -3493,7 +3493,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Poffin Case is full.",
+              "str": "علبة الحلويات ممتلئة. ",
               "strWidth": 290.48438
             }
           ]
@@ -3529,7 +3529,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sorry, you must have a Poffin Case if you want to",
+              "str": "عذرًا، يجب أن تمتلك علبة حلويات إذا",
               "strWidth": 636.6406
             },
             {
@@ -3537,7 +3537,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "cook some Berries.",
+              "str": "كنت تريد طهي بعض التوت.",
               "strWidth": 243.375
             }
           ]
@@ -3573,7 +3573,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’d like to cook",
+              "str": "أرغب في الطهي.",
               "strWidth": 196.96875
             }
           ]
@@ -3609,7 +3609,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me about cooking",
+              "str": "أخبرني عن الطهي.",
               "strWidth": 291.14062
             }
           ]
@@ -3645,7 +3645,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No, thanks",
+              "str": "لا، شكرًا. ",
               "strWidth": 139.10938
             }
           ]
@@ -3681,7 +3681,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK! Let’s get cooking! Please choose the Berry",
+              "str": "حسنًا! لنبدأ الطهي! يرجى اختيار التوت",
               "strWidth": 607.3594
             },
             {
@@ -3689,7 +3689,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you want to cook from your Bag.",
+              "str": "الذي تريد طهيه من حقيبتك.",
               "strWidth": 422.92188
             }
           ]
@@ -3725,7 +3725,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please visit again whenever you get the urge",
+              "str": "يرجى زيارة المكان مرة أخرى",
               "strWidth": 575.25
             },
             {
@@ -3733,7 +3733,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to cook!",
+              "str": "كلما رغبت في الطهي!",
               "strWidth": 106.21875
             }
           ]
@@ -3831,7 +3831,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "ID ",
+              "str": "المعرف ",
               "strWidth": 39.171875
             },
             {
@@ -3875,7 +3875,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Poffin Case",
+              "str": "علبة الحلويات",
               "strWidth": 147.85938
             }
           ]
@@ -3911,7 +3911,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Give",
+              "str": "إعطاء ",
               "strWidth": 60.984375
             }
           ]
@@ -3947,7 +3947,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trash",
+              "str": "إلقاء في المهملات",
               "strWidth": 69.171875
             }
           ]
@@ -3983,7 +3983,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Back",
+              "str": "العودة ",
               "strWidth": 61.375
             }
           ]
@@ -4019,7 +4019,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Smoothness",
+              "str": "النعومة ",
               "strWidth": 152.6875
             }
           ]
@@ -4068,7 +4068,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lv. ",
+              "str": "المستوى . ",
               "strWidth": 45.625
             },
             {
@@ -4112,7 +4112,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Close",
+              "str": " إغلاق ",
               "strWidth": 81.34375
             }
           ]
@@ -4161,7 +4161,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to discard this",
+              "str": "هل ترغب في التخلص من ",
               "strWidth": 387.625
             },
             {
@@ -4226,7 +4226,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "لقد تخلصت من ",
               "strWidth": 57.34375
             },
             {
@@ -4242,7 +4242,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " was",
+              "str": " بنجاح",
               "strWidth": 55.296875
             },
             {
@@ -4250,7 +4250,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "thrown out.",
+              "str": "ولا يمكن استعادتها.",
               "strWidth": 147.1875
             }
           ]
@@ -4286,7 +4286,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -4322,7 +4322,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا ",
               "strWidth": 38.78125
             }
           ]
@@ -4358,7 +4358,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spicy",
+              "str": "حار ",
               "strWidth": 68.640625
             }
           ]
@@ -4394,7 +4394,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dry",
+              "str": "جاف ",
               "strWidth": 46.140625
             }
           ]
@@ -4430,7 +4430,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sweet",
+              "str": "حلو ",
               "strWidth": 77.25
             }
           ]
@@ -4466,7 +4466,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Bitter",
+              "str": "مر ",
               "strWidth": 70.640625
             }
           ]
@@ -4502,7 +4502,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sour",
+              "str": "حامض ",
               "strWidth": 57.84375
             }
           ]
@@ -4538,7 +4538,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "All",
+              "str": "الكل ",
               "strWidth": 35.6875
             }
           ]
@@ -4574,7 +4574,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eating a spicy Poffin raises coolness.",
+              "str": "تناول الحلوى الحارة يعزز الروعة.",
               "strWidth": 470.17188
             }
           ]
@@ -4610,7 +4610,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eating a dry Poffin raises beauty.",
+              "str": "تناول الحلوى الجافة يعزز الجمال.",
               "strWidth": 424.67188
             }
           ]
@@ -4646,7 +4646,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eating a sweet Poffin raises cuteness.",
+              "str": "تناول الحلوى الحلوة يعزز الجاذبية.",
               "strWidth": 478.28125
             }
           ]
@@ -4682,7 +4682,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eating a bitter Poffin raises cleverness.",
+              "str": "تناول الحلوى المرة يعزز الذكاء. ",
               "strWidth": 497.40625
             }
           ]
@@ -4718,7 +4718,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eating a sour Poffin raises toughness.",
+              "str": "تناول الحلوى الحامضة يعزز الصلابة.",
               "strWidth": 477.875
             }
           ]
@@ -4788,7 +4788,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The ",
+              "str": "ان ",
               "strWidth": 57.34375
             },
             {
@@ -4804,7 +4804,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " went in!",
+              "str": " دخلت!",
               "strWidth": 109.203125
             }
           ]
@@ -4889,7 +4889,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’ll burn! Stir it!",
+              "str": "سوف تحترق! قلبها!",
               "strWidth": 201.85938
             }
           ]
@@ -4925,7 +4925,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Too fast! Overflow!",
+              "str": "هيا أسرع! انسكبت! ",
               "strWidth": 248.54688
             }
           ]
@@ -4961,7 +4961,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’ll burn! Hurry!",
+              "str": "سوف تحترق! أسرع! ",
               "strWidth": 204.04688
             }
           ]
@@ -4997,7 +4997,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Slow down a little!",
+              "str": "تمهل قليلًا!",
               "strWidth": 237.84375
             }
           ]
@@ -5033,7 +5033,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quick! Quick!",
+              "str": "بسرعة! بسرعة!",
               "strWidth": 175.89062
             }
           ]
@@ -5069,7 +5069,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That’s it!",
+              "str": "هذا هو المطلوب!",
               "strWidth": 111.984375
             }
           ]
@@ -5105,7 +5105,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Summary",
+              "str": "الملخص ",
               "strWidth": 115.796875
             }
           ]
@@ -5141,7 +5141,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Time",
+              "str": "الوقت ",
               "strWidth": 63.421875
             }
           ]
@@ -5282,7 +5282,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Overflowed",
+              "str": "انسكب الخليط",
               "strWidth": 151.85938
             }
           ]
@@ -5398,7 +5398,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Burned",
+              "str": "احترق الخليط ",
               "strWidth": 91.375
             }
           ]
@@ -5514,7 +5514,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Poffins made:",
+              "str": "تم إعداد الحلويات:",
               "strWidth": 177.71875
             }
           ]
@@ -5595,7 +5595,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Lv. ",
+              "str": " المستوى. ",
               "strWidth": 54.296875
             },
             {
@@ -5668,7 +5668,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You put away the ",
+              "str": "تم وضع ",
               "strWidth": 236.0
             },
             {
@@ -5684,7 +5684,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " in the",
+              "str": " في داخل",
               "strWidth": 82.125
             },
             {
@@ -5692,7 +5692,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Poffin Case.",
+              "str": "علبة الحلويات.",
               "strWidth": 155.76562
             }
           ]
@@ -5728,7 +5728,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to keep cooking Poffins?",
+              "str": "هل ترغب في مواصلة الطهي؟",
               "strWidth": 527.5469
             }
           ]
@@ -5764,7 +5764,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please choose the Berry you want to cook from",
+              "str": "يرجى اختيار التوت الذي",
               "strWidth": 609.5
             },
             {
@@ -5772,7 +5772,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "your Bag.",
+              "str": "تريد طهيه من حقيبتك. ",
               "strWidth": 122.140625
             }
           ]
@@ -5808,7 +5808,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Poffin Case is full.",
+              "str": "علبة الحلويات ممتلئة.",
               "strWidth": 290.48438
             }
           ]
@@ -5844,7 +5844,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There isn’t a Berry to cook.",
+              "str": "لا يوجد توت للطهي.",
               "strWidth": 351.6875
             }
           ]
@@ -5901,7 +5901,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Throw the Berry into the pot and get stirring!",
+              "str": "ارم التوت في القدر وابدأ التقليب! ",
               "strWidth": 579.1875
             },
             {
@@ -5909,7 +5909,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Watch for an arrow to show you which direction",
+              "str": "راقب السهم لمعرفة الاتجاه",
               "strWidth": 617.6875
             },
             {
@@ -5917,7 +5917,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to stir.",
+              "str": "الذي يجب أن تقلب فيه.",
               "strWidth": 82.609375
             },
             {
@@ -5925,7 +5925,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Be quick! If you stir too slowly, you’ll burn the",
+              "str": "كن سريعًا! إذا قلبت ببطء شديد، سيحترق الخليط.",
               "strWidth": 594.6875
             },
             {
@@ -5933,7 +5933,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "batter. But not too quick! If you stir too fast,",
+              "str": "ولكن ليس بسرعة كبيرة! إذا قلبت بسرعة ",
               "strWidth": 574.7031
             },
             {
@@ -5941,7 +5941,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the batter will overflow.",
+              "str": "كبيرة، سيفيض الخليط. ",
               "strWidth": 308.14062
             },
             {
@@ -5949,7 +5949,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you do well, you’ll cook up a delicious Poffin!",
+              "str": "إذا فعلت ذلك بشكل جيد، ستعد حلوى لذيذة!",
               "strWidth": 618.5
             },
             {
@@ -5957,7 +5957,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "By the way, you can also make Poffins at",
+              "str": "بالمناسبة، يمكنك أيضًا إعداد الحلويات",
               "strWidth": 526.46875
             },
             {
@@ -5965,7 +5965,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Amity Square!",
+              "str": "في ساحة أميتي! ",
               "strWidth": 180.04688
             }
           ]
@@ -6001,7 +6001,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Pokémon would you like to take a stroll",
+              "str": "أي بوكيمون ترغب في",
               "strWidth": 603.8594
             },
             {
@@ -6009,7 +6009,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "together with?",
+              "str": "التنزه معه؟",
               "strWidth": 186.79688
             }
           ]
@@ -6045,7 +6045,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK, your other Pokémon can go on ahead to the",
+              "str": "حسنًا، يمكن للبوكيمونات الأخرى الذهاب",
               "strWidth": 634.28125
             },
             {
@@ -6053,7 +6053,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "square and play!",
+              "str": " إلى الساحة واللعب! ",
               "strWidth": 212.76562
             }
           ]
@@ -6089,7 +6089,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’ll be waiting for you in the square.",
+              "str": " سينتظرك في الساحة.",
               "strWidth": 470.5625
             },
             {
@@ -6097,7 +6097,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Have a great time!",
+              "str": "استمتع بوقتك!",
               "strWidth": 239.4375
             }
           ]
@@ -6154,7 +6154,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can’t take that Pokémon on a stroll with you.",
+              "str": "لا يمكنك أخذ هذا البوكيمون للتنزه معك.",
               "strWidth": 640.6094
             }
           ]
@@ -6190,7 +6190,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to return the selected Berry to",
+              "str": "هل ترغب في إعادة التوت المختار",
               "strWidth": 597.03125
             },
             {
@@ -6198,7 +6198,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "your Bag?",
+              "str": " إلى حقيبتك؟",
               "strWidth": 128.70312
             }
           ]
@@ -6234,7 +6234,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to start cooking with this",
+              "str": "هل ترغب في بدء الطهي",
               "strWidth": 524.4375
             },
             {
@@ -6242,7 +6242,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Berry selection?",
+              "str": "باستخدام هذا التوت؟",
               "strWidth": 205.6875
             }
           ]
@@ -6278,7 +6278,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Throw the Berry into the pot and get stirring!",
+              "str": "ارمِ التوت في القدر وابدأ بالتقليب!",
               "strWidth": 579.1875
             },
             {
@@ -6286,7 +6286,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Watch for an arrow to show you which direction",
+              "str": " راقب السهم لمعرفة الاتجاه",
               "strWidth": 617.6875
             },
             {
@@ -6294,7 +6294,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to stir.",
+              "str": "الذي يجب أن تقلب فيه. ",
               "strWidth": 82.609375
             },
             {
@@ -6302,7 +6302,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Be quick! If you stir too slowly, you’ll burn the",
+              "str": "كن سريعًا! إذا قلبت ببطء شديد، سيحترق الخليط.",
               "strWidth": 594.6875
             },
             {
@@ -6310,7 +6310,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "batter. But not too quick! If you stir too fast,",
+              "str": "ولكن ليس بسرعة كبيرة! إذا قلبت بسرعة ",
               "strWidth": 574.7031
             },
             {
@@ -6318,7 +6318,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the batter will overflow.",
+              "str": "كبيرة، سيفيض الخليط. ",
               "strWidth": 308.14062
             },
             {
@@ -6326,7 +6326,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you do well, you’ll cook up a delicious Poffin!",
+              "str": "إذا فعلت ذلك بشكل جيد، ستعد حلوى لذيذة! ",
               "strWidth": 618.5
             }
           ]
@@ -6411,7 +6411,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ready",
+              "str": "جاهز ",
               "strWidth": 80.546875
             }
           ]
@@ -6447,7 +6447,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Put back Berries",
+              "str": " إرجاع التوت",
               "strWidth": 216.92188
             }
           ]
@@ -6483,7 +6483,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "They’ll be waiting for you in the square.",
+              "str": "سوف ينتظرونك في الساحة. ",
               "strWidth": 515.1719
             },
             {
@@ -6491,7 +6491,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Have a great time!",
+              "str": "استمتع بوقتك!",
               "strWidth": 239.4375
             }
           ]
