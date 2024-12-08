@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mystery Zone",
+              "str": "منطقة الغموض",
               "strWidth": 177.46875
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "GWS",
+              "str": "محطة العجائب العالمية",
               "strWidth": 67.421875
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Jubilife City",
+              "str": "مدينة جوبيلايف",
               "strWidth": 155.15625
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokétch Company",
+              "str": "شركة بوكيتش",
               "strWidth": 235.09375
             }
           ]
@@ -189,7 +189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trainers’ School",
+              "str": "مدرسة المدربين",
               "strWidth": 206.98438
             }
           ]
@@ -225,7 +225,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Jubilife TV",
+              "str": "تلفزيون جوبيلايف",
               "strWidth": 140.0
             }
           ]
@@ -261,7 +261,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Canalave City",
+              "str": "مدينة كانالاف",
               "strWidth": 180.5
             }
           ]
@@ -297,7 +297,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mining Museum",
+              "str": "متحف التعدين",
               "strWidth": 204.5625
             }
           ]
@@ -333,7 +333,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh City",
+              "str": "مدينة أوربيرغ",
               "strWidth": 185.21875
             }
           ]
@@ -369,7 +369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cycle Shop",
+              "str": "متجر الدراجات",
               "strWidth": 146.4375
             }
           ]
@@ -405,7 +405,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eterna City",
+              "str": "مدينة إترنا",
               "strWidth": 143.34375
             }
           ]
@@ -441,7 +441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Foreign Building",
+              "str": "المبنى الأجنبي",
               "strWidth": 211.92188
             }
           ]
@@ -477,7 +477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Hall",
+              "str": "قاعة المسابقات",
               "strWidth": 162.10938
             }
           ]
@@ -513,7 +513,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Poffin House",
+              "str": "بيت الحلوى",
               "strWidth": 167.0625
             }
           ]
@@ -549,7 +549,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hearthome City",
+              "str": "مدينة هارثوم ",
               "strWidth": 205.35938
             }
           ]
@@ -585,7 +585,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pastoria City",
+              "str": "مدينة باستوريا ",
               "strWidth": 163.8125
             }
           ]
@@ -621,7 +621,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Veilstone Store",
+              "str": "متجر فيلستون الكبير",
               "strWidth": 198.57812
             }
           ]
@@ -657,7 +657,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Veilstone City",
+              "str": "مدينة فيلستون",
               "strWidth": 182.57812
             }
           ]
@@ -693,7 +693,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Canalave Library",
+              "str": "مكتبة كانالاف",
               "strWidth": 217.03125
             }
           ]
@@ -729,7 +729,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sunyshore Market",
+              "str": "سوق سانيشور ",
               "strWidth": 231.29688
             }
           ]
@@ -765,7 +765,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sunyshore City",
+              "str": "مدينة سانيشور ",
               "strWidth": 191.8125
             }
           ]
@@ -801,7 +801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Vista Lighthouse",
+              "str": "منارة فيستا",
               "strWidth": 213.32812
             }
           ]
@@ -837,7 +837,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowpoint City",
+              "str": "مدينة سنوبوينت",
               "strWidth": 196.59375
             }
           ]
@@ -873,7 +873,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon League",
+              "str": "دوري البوكيمونات",
               "strWidth": 222.3125
             }
           ]
@@ -909,7 +909,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fight Area",
+              "str": "منطقة القتال",
               "strWidth": 135.29688
             }
           ]
@@ -945,7 +945,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh Mine",
+              "str": "منجم أوربيرغ ",
               "strWidth": 198.07812
             }
           ]
@@ -981,7 +981,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Valley Windworks",
+              "str": "وادي أعمال الرياح",
               "strWidth": 231.9375
             }
           ]
@@ -1017,7 +1017,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eterna Forest",
+              "str": "غابة إترنا",
               "strWidth": 171.5625
             }
           ]
@@ -1053,7 +1053,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fuego Ironworks",
+              "str": "مصانع فيوغو الحديدية",
               "strWidth": 213.45312
             }
           ]
@@ -1089,7 +1089,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hall of Origin",
+              "str": "قاعة الأصل",
               "strWidth": 178.17188
             }
           ]
@@ -1125,7 +1125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spear Pillar",
+              "str": "عمود الرمح",
               "strWidth": 146.70312
             }
           ]
@@ -1161,7 +1161,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mount Coronet",
+              "str": "جبل كورونيت",
               "strWidth": 198.82812
             }
           ]
@@ -1197,7 +1197,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great Marsh",
+              "str": "المستنقع الكبير",
               "strWidth": 161.0
             }
           ]
@@ -1233,7 +1233,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Solaceon Ruins",
+              "str": "أطلال سولاسيون",
               "strWidth": 194.92188
             }
           ]
@@ -1269,7 +1269,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Victory Road",
+              "str": "طريق النصر",
               "strWidth": 168.82812
             }
           ]
@@ -1305,7 +1305,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ramanas Park",
+              "str": "حديقة راماناس",
               "strWidth": 178.04688
             }
           ]
@@ -1341,7 +1341,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Amity Square",
+              "str": "ساحة أميتي",
               "strWidth": 172.78125
             }
           ]
@@ -1377,7 +1377,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ravaged Path",
+              "str": "طريق الدمار",
               "strWidth": 177.60938
             }
           ]
@@ -1413,7 +1413,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Floaroma Meadow",
+              "str": "مرج فلوراما",
               "strWidth": 241.39062
             }
           ]
@@ -1449,7 +1449,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh Gate",
+              "str": "بوابة أوربيرغ ",
               "strWidth": 197.57812
             }
           ]
@@ -1485,7 +1485,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Fullmoon Island",
+              "str": "جزيرة القمر الكامل ",
               "strWidth": 204.42188
             }
           ]
@@ -1521,7 +1521,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stark Mountain",
+              "str": "جبل ستارك",
               "strWidth": 196.76562
             }
           ]
@@ -1557,7 +1557,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Turnback Cave",
+              "str": "كهف العودة",
               "strWidth": 193.51562
             }
           ]
@@ -1593,7 +1593,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sendoff Spring",
+              "str": "نبع الرحيل",
               "strWidth": 191.375
             }
           ]
@@ -1629,7 +1629,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Flower Paradise",
+              "str": "جنة الأزهار",
               "strWidth": 204.10938
             }
           ]
@@ -1665,7 +1665,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowpoint Temple",
+              "str": "معبد سنوبوينت",
               "strWidth": 241.125
             }
           ]
@@ -1701,7 +1701,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Wayward Cave",
+              "str": "كهف المتاهة",
               "strWidth": 194.625
             }
           ]
@@ -1737,7 +1737,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ruin Maniac Cave",
+              "str": "كهف المغامر",
               "strWidth": 233.04688
             }
           ]
@@ -1773,7 +1773,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Maniac Tunnel",
+              "str": "نفق المغامر",
               "strWidth": 190.0
             }
           ]
@@ -1809,7 +1809,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Trophy Garden",
+              "str": "حديقة التذكارات",
               "strWidth": 196.92188
             }
           ]
@@ -1845,7 +1845,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Iron Island",
+              "str": "جزيرة الحديد ",
               "strWidth": 135.29688
             }
           ]
@@ -1881,7 +1881,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Old Chateau",
+              "str": "القصر القديم ",
               "strWidth": 166.14062
             }
           ]
@@ -1917,7 +1917,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Galactic HQ",
+              "str": "مقر فريق المجرة",
               "strWidth": 162.34375
             }
           ]
@@ -1953,7 +1953,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Verity Cavern",
+              "str": "كهف فيريتي",
               "strWidth": 177.15625
             }
           ]
@@ -1989,7 +1989,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lake Verity",
+              "str": "بحيرة فيريتي",
               "strWidth": 147.375
             }
           ]
@@ -2025,7 +2025,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Valor Cavern",
+              "str": "كهف فالور",
               "strWidth": 169.39062
             }
           ]
@@ -2061,7 +2061,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lake Valor",
+              "str": "بحيرة فالور",
               "strWidth": 139.60938
             }
           ]
@@ -2097,7 +2097,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Acuity Cavern",
+              "str": "كهف أكيوتي",
               "strWidth": 181.1875
             }
           ]
@@ -2133,7 +2133,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lake Acuity",
+              "str": "بحيرة أكيوتي",
               "strWidth": 151.40625
             }
           ]
@@ -2169,7 +2169,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Newmoon Island",
+              "str": "جزيرة القمر الجديد",
               "strWidth": 214.53125
             }
           ]
@@ -2205,7 +2205,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Battle Park",
+              "str": "منتزه المعارك",
               "strWidth": 141.17188
             }
           ]
@@ -2241,7 +2241,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Battle Tower",
+              "str": "برج المعارك",
               "strWidth": 164.84375
             }
           ]
@@ -2277,7 +2277,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Verity Lakefront",
+              "str": "شاطئ بحيرة فيريتي",
               "strWidth": 209.57812
             }
           ]
@@ -2313,7 +2313,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Valor Lakefront",
+              "str": "شاطئ بحيرة فالور",
               "strWidth": 201.8125
             }
           ]
@@ -2349,7 +2349,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hotel Grand Lake",
+              "str": "فندق البحيرة الكبرى",
               "strWidth": 232.5
             }
           ]
@@ -2385,7 +2385,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Restaurant",
+              "str": "مطعم",
               "strWidth": 136.60938
             }
           ]
@@ -2421,7 +2421,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Acuity Lakefront",
+              "str": "شاطئ بحيرة أكيوتي",
               "strWidth": 213.60938
             }
           ]
@@ -2457,7 +2457,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Spring Path",
+              "str": "طريق الربيع",
               "strWidth": 147.60938
             }
           ]
@@ -2493,7 +2493,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 201",
+              "str": "الطريق 201",
               "strWidth": 135.0
             }
           ]
@@ -2529,7 +2529,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 202",
+              "str": "الطريق 202",
               "strWidth": 139.0
             }
           ]
@@ -2565,7 +2565,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 203",
+              "str": "الطريق 203",
               "strWidth": 139.0
             }
           ]
@@ -2601,7 +2601,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 204",
+              "str": "الطريق 204",
               "strWidth": 139.0
             }
           ]
@@ -2637,7 +2637,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 205",
+              "str": "الطريق 205",
               "strWidth": 139.0
             }
           ]
@@ -2673,7 +2673,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 206",
+              "str": "الطريق 206",
               "strWidth": 139.0
             }
           ]
@@ -2709,7 +2709,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 207",
+              "str": "الطريق 207",
               "strWidth": 139.0
             }
           ]
@@ -2745,7 +2745,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 208",
+              "str": "الطريق 208",
               "strWidth": 139.0
             }
           ]
@@ -2781,7 +2781,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 209",
+              "str": "الطريق 209",
               "strWidth": 139.0
             }
           ]
@@ -2817,7 +2817,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 210",
+              "str": "الطريق 210",
               "strWidth": 135.0
             }
           ]
@@ -2853,7 +2853,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Café Cabin",
+              "str": "مقهى الكابينة",
               "strWidth": 145.9375
             }
           ]
@@ -2889,7 +2889,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 211",
+              "str": "الطريق 211",
               "strWidth": 131.00002
             }
           ]
@@ -2925,7 +2925,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 212",
+              "str": "الطريق 212",
               "strWidth": 135.0
             }
           ]
@@ -2961,7 +2961,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Mansion",
+              "str": "قصر البوكيمونات ",
               "strWidth": 237.0625
             }
           ]
@@ -2997,7 +2997,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 213",
+              "str": "الطريق 213",
               "strWidth": 135.0
             }
           ]
@@ -3033,7 +3033,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 214",
+              "str": "الطريق 214",
               "strWidth": 135.0
             }
           ]
@@ -3069,7 +3069,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 215",
+              "str": "الطريق 215",
               "strWidth": 135.0
             }
           ]
@@ -3105,7 +3105,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 216",
+              "str": "الطريق 216",
               "strWidth": 135.0
             }
           ]
@@ -3141,7 +3141,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 217",
+              "str": "الطريق 217",
               "strWidth": 135.0
             }
           ]
@@ -3177,7 +3177,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 218",
+              "str": "الطريق 218",
               "strWidth": 135.0
             }
           ]
@@ -3213,7 +3213,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 219",
+              "str": "الطريق 219",
               "strWidth": 135.0
             }
           ]
@@ -3249,7 +3249,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 221",
+              "str": "الطريق 221",
               "strWidth": 135.0
             }
           ]
@@ -3285,7 +3285,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 222",
+              "str": "الطريق 222",
               "strWidth": 139.0
             }
           ]
@@ -3321,7 +3321,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 224",
+              "str": "الطريق 224",
               "strWidth": 139.0
             }
           ]
@@ -3357,7 +3357,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 225",
+              "str": "الطريق 225",
               "strWidth": 139.0
             }
           ]
@@ -3393,7 +3393,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 227",
+              "str": "الطريق 227",
               "strWidth": 139.0
             }
           ]
@@ -3429,7 +3429,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 228",
+              "str": "الطريق 228",
               "strWidth": 139.0
             }
           ]
@@ -3465,7 +3465,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 229",
+              "str": "الطريق 229",
               "strWidth": 139.0
             }
           ]
@@ -3501,7 +3501,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Twinleaf Town",
+              "str": "بلدة توينليف",
               "strWidth": 187.28125
             }
           ]
@@ -3537,7 +3537,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sandgem Town",
+              "str": "بلدة سانجيم",
               "strWidth": 196.82812
             }
           ]
@@ -3573,7 +3573,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Flower Shop",
+              "str": "محل الزهور",
               "strWidth": 160.64062
             }
           ]
@@ -3609,7 +3609,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Floaroma Town",
+              "str": "بلدة فلوراما",
               "strWidth": 199.5625
             }
           ]
@@ -3645,7 +3645,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Nursery",
+              "str": "حضانة البوكيمونات",
               "strWidth": 226.71875
             }
           ]
@@ -3681,7 +3681,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Solaceon Town",
+              "str": "بلدة سولاسيون",
               "strWidth": 196.6875
             }
           ]
@@ -3717,7 +3717,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Celestic Town",
+              "str": "بلدة سيليستيك",
               "strWidth": 181.4375
             }
           ]
@@ -3753,7 +3753,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Survival Area",
+              "str": "منطقة البقاء",
               "strWidth": 169.25
             }
           ]
@@ -3789,7 +3789,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Resort Area",
+              "str": "منطقة المنتجع ",
               "strWidth": 151.6875
             }
           ]
@@ -3825,7 +3825,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 220",
+              "str": "الطريق 220",
               "strWidth": 139.0
             }
           ]
@@ -3861,7 +3861,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 223",
+              "str": "الطريق 223",
               "strWidth": 139.0
             }
           ]
@@ -3897,7 +3897,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 226",
+              "str": "الطريق 226",
               "strWidth": 139.0
             }
           ]
@@ -3933,7 +3933,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Route 230",
+              "str": "الطريق 230",
               "strWidth": 139.0
             }
           ]
@@ -3969,7 +3969,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Seabreak Path",
+              "str": "طريق سيبريك",
               "strWidth": 185.57812
             }
           ]
@@ -4005,7 +4005,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oreburgh Gym",
+              "str": "صالة أوربيرغ ",
               "strWidth": 193.35938
             }
           ]
@@ -4041,7 +4041,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eterna Gym",
+              "str": "صالة إترنا",
               "strWidth": 151.48438
             }
           ]
@@ -4077,7 +4077,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pastoria Gym",
+              "str": "صالة باستوريا",
               "strWidth": 171.95312
             }
           ]
@@ -4113,7 +4113,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Veilstone Gym",
+              "str": "صالة فيلستون",
               "strWidth": 190.71875
             }
           ]
@@ -4149,7 +4149,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hearthome Gym",
+              "str": "صالة هارثوم",
               "strWidth": 213.5
             }
           ]
@@ -4185,7 +4185,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Snowpoint Gym",
+              "str": "صالة سنوبوينت",
               "strWidth": 204.73438
             }
           ]
@@ -4221,7 +4221,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Canalave Gym",
+              "str": "صالة كانالاف",
               "strWidth": 188.64062
             }
           ]
@@ -4257,7 +4257,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sunyshore Gym",
+              "str": "صالة سانيشور ",
               "strWidth": 199.95312
             }
           ]
@@ -4293,7 +4293,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Grand Underground",
+              "str": "الأرض الكبرى تحت الأرض",
               "strWidth": 261.07812
             }
           ]
@@ -4329,7 +4329,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Hoenn region",
+              "str": "إقليم هوين",
               "strWidth": 227.39062
             }
           ]
@@ -4365,7 +4365,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Kanto region",
+              "str": "إقليم كانتو ",
               "strWidth": 218.21875
             }
           ]
@@ -4401,7 +4401,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a distant land",
+              "str": "أرض بعيدة",
               "strWidth": 175.95312
             }
           ]
@@ -4437,7 +4437,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Johto region",
+              "str": "إقليم جوتو ",
               "strWidth": 213.67188
             }
           ]
@@ -4473,7 +4473,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a faraway place",
+              "str": "مكان بعيد",
               "strWidth": 202.39062
             }
           ]
@@ -4509,7 +4509,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Unova region",
+              "str": "إقليم يونوفا ",
               "strWidth": 224.54688
             }
           ]
@@ -4545,7 +4545,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Kalos region",
+              "str": "إقليم كالوس ",
               "strWidth": 211.89062
             }
           ]
@@ -4581,7 +4581,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Alola region",
+              "str": "إقليم ألوها",
               "strWidth": 209.23438
             }
           ]
@@ -4617,7 +4617,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Galar region",
+              "str": "إقليم غالار ",
               "strWidth": 212.45312
             }
           ]
@@ -4653,7 +4653,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon GO",
+              "str": "بوكيمون جو",
               "strWidth": 176.0625
             }
           ]
@@ -4689,7 +4689,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Riley",
+              "str": "رايلي ",
               "strWidth": 63.359375
             }
           ]
@@ -4725,7 +4725,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Nursery Couple",
+              "str": "ثنائي الحضانة",
               "strWidth": 201.03125
             }
           ]
@@ -4761,7 +4761,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Traveling Man",
+              "str": "الرجل المسافر ",
               "strWidth": 184.8125
             }
           ]
@@ -4797,7 +4797,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Link Trade",
+              "str": "رابط المبادلة",
               "strWidth": 160.9375
             }
           ]
@@ -4833,7 +4833,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Link Trade",
+              "str": "رابط المبادلة",
               "strWidth": 160.9375
             }
           ]
@@ -4869,7 +4869,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Sinnoh region",
+              "str": "إقليم سينو ",
               "strWidth": 228.04688
             }
           ]
@@ -4941,7 +4941,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Link",
+              "str": "رابط البوكيمون",
               "strWidth": 181.3125
             }
           ]
@@ -4977,7 +4977,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Poké Pelago",
+              "str": "بوك بيلاجو",
               "strWidth": 161.5625
             }
           ]
@@ -5013,7 +5013,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon HOME",
+              "str": "بوكيمون هوم ",
               "strWidth": 216.57812
             }
           ]
@@ -5049,7 +5049,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a lovely place",
+              "str": "مكان جميل",
               "strWidth": 180.03125
             }
           ]
@@ -5085,7 +5085,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon movie",
+              "str": "فيلم بوكيمون",
               "strWidth": 229.84375
             }
           ]
@@ -5121,7 +5121,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2019 Pokémon movie",
+              "str": "فيلم بوكيمون 2019",
               "strWidth": 306.45312
             }
           ]
@@ -5157,7 +5157,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2020 Pokémon movie",
+              "str": "فيلم بوكيمون 2020 ",
               "strWidth": 310.45312
             }
           ]
@@ -5193,7 +5193,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2021 Pokémon movie",
+              "str": "فيلم بوكيمون 2021 ",
               "strWidth": 306.45312
             }
           ]
@@ -5229,7 +5229,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2022 Pokémon movie",
+              "str": "فيلم بوكيمون 2022 ",
               "strWidth": 310.45312
             }
           ]
@@ -5265,7 +5265,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2023 Pokémon movie",
+              "str": "فيلم بوكيمون 2023 ",
               "strWidth": 310.45312
             }
           ]
@@ -5301,7 +5301,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2024 Pokémon movie",
+              "str": "فيلم بوكيمون 2024 ",
               "strWidth": 310.45312
             }
           ]
@@ -5337,7 +5337,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Pokémon animated show",
+              "str": "عرض بوكيمون المتحرك",
               "strWidth": 371.14062
             }
           ]
@@ -5373,7 +5373,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon Center",
+              "str": "مركز البوكيمون",
               "strWidth": 239.78125
             }
           ]
@@ -5409,7 +5409,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Center Tohoku",
+              "str": "مركز بوكيمون توهوكو ",
               "strWidth": 321.89062
             }
           ]
@@ -5445,7 +5445,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a WCS",
+              "str": "بطولة العالم ",
               "strWidth": 88.3125
             }
           ]
@@ -5481,7 +5481,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "WCS 2019",
+              "str": "بطولة العالم 2019 ",
               "strWidth": 140.95312
             }
           ]
@@ -5517,7 +5517,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "WCS 2020",
+              "str": "بطولة العالم 2020 ",
               "strWidth": 144.95312
             }
           ]
@@ -5553,7 +5553,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "WCS 2021",
+              "str": "بطولة العالم 2021 ",
               "strWidth": 140.95312
             }
           ]
@@ -5589,7 +5589,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "WCS 2022",
+              "str": "بطولة العالم 2022 ",
               "strWidth": 144.95312
             }
           ]
@@ -5625,7 +5625,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "WCS 2023",
+              "str": "بطولة العالم 2023 ",
               "strWidth": 144.95312
             }
           ]
@@ -5661,7 +5661,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "WCS 2024",
+              "str": "بطولة العالم 2024 ",
               "strWidth": 144.95312
             }
           ]
@@ -5697,7 +5697,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Worlds",
+              "str": "عوالم ",
               "strWidth": 92.03125
             }
           ]
@@ -5733,7 +5733,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "2019 Worlds",
+              "str": "عوالم 2019 ",
               "strWidth": 168.64062
             }
           ]
@@ -5769,7 +5769,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "2020 Worlds",
+              "str": "عوالم 2020 ",
               "strWidth": 172.64062
             }
           ]
@@ -5805,7 +5805,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "2021 Worlds",
+              "str": "عوالم 2021 ",
               "strWidth": 168.64062
             }
           ]
@@ -5841,7 +5841,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "2022 Worlds",
+              "str": "عوالم 2022 ",
               "strWidth": 172.64062
             }
           ]
@@ -5877,7 +5877,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "2023 Worlds",
+              "str": "عوالم 2023 ",
               "strWidth": 172.64062
             }
           ]
@@ -5913,7 +5913,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "2024 Worlds",
+              "str": "عوالم 2024 ",
               "strWidth": 172.64062
             }
           ]
@@ -5949,7 +5949,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a VGE",
+              "str": "حدث فيديو جيم إكسبو ",
               "strWidth": 83.140625
             }
           ]
@@ -5985,7 +5985,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "VGE 2019",
+              "str": "حدث VGE 2019",
               "strWidth": 135.78125
             }
           ]
@@ -6021,7 +6021,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "VGE 2020",
+              "str": "حدث VGE 2020",
               "strWidth": 139.78125
             }
           ]
@@ -6057,7 +6057,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "VGE 2021",
+              "str": " حدث VGE 2021",
               "strWidth": 135.78125
             }
           ]
@@ -6093,7 +6093,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "VGE 2022",
+              "str": " حدث VGE 2022",
               "strWidth": 139.78125
             }
           ]
@@ -6129,7 +6129,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "VGE 2023",
+              "str": " حدث VGE 2023",
               "strWidth": 139.78125
             }
           ]
@@ -6165,7 +6165,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "VGE 2024",
+              "str": " حدث VGE 2024",
               "strWidth": 139.78125
             }
           ]
@@ -6201,7 +6201,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon event",
+              "str": "حدث بوكيمون",
               "strWidth": 223.95312
             }
           ]
@@ -6237,7 +6237,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Battle Competition",
+              "str": "معركة تنافسية",
               "strWidth": 270.48438
             }
           ]
@@ -6273,7 +6273,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a game event",
+              "str": "حدث لعبة",
               "strWidth": 174.45312
             }
           ]
@@ -6309,7 +6309,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Pokémon Daisuki Club",
+              "str": "نادي بوكيمون دايسوكي",
               "strWidth": 342.67188
             }
           ]
@@ -6345,7 +6345,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon TV program",
+              "str": "برنامج بوكيمون التلفزيوني",
               "strWidth": 306.03125
             }
           ]
@@ -6381,7 +6381,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a concert",
+              "str": "حفلة موسيقية",
               "strWidth": 120.28125
             }
           ]
@@ -6417,7 +6417,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "an online present",
+              "str": "هدية عبر الإنترنت",
               "strWidth": 223.875
             }
           ]
@@ -6453,7 +6453,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the PGL",
+              "str": "بوكيمون جلوبال لينك",
               "strWidth": 104.84375
             }
           ]
@@ -6489,7 +6489,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2019 Pokémon event",
+              "str": "حدث بوكيمون 2019 ",
               "strWidth": 300.5625
             }
           ]
@@ -6525,7 +6525,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2020 Pokémon event",
+              "str": "حدث بوكيمون 2020 ",
               "strWidth": 304.5625
             }
           ]
@@ -6561,7 +6561,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2021 Pokémon event",
+              "str": "حدث بوكيمون 2021 ",
               "strWidth": 300.5625
             }
           ]
@@ -6597,7 +6597,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2022 Pokémon event",
+              "str": "حدث بوكيمون 2022 ",
               "strWidth": 304.5625
             }
           ]
@@ -6633,7 +6633,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2023 Pokémon event",
+              "str": "حدث بوكيمون 2023 ",
               "strWidth": 304.5625
             }
           ]
@@ -6669,7 +6669,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2024 Pokémon event",
+              "str": "حدث بوكيمون 2024 ",
               "strWidth": 304.5625
             }
           ]
@@ -6705,7 +6705,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon event",
+              "str": "حدث بوكيمون",
               "strWidth": 223.95312
             }
           ]
@@ -6741,7 +6741,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2019 Pokémon event",
+              "str": "حدث بوكيمون 2019",
               "strWidth": 300.5625
             }
           ]
@@ -6777,7 +6777,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2020 Pokémon event",
+              "str": "حدث بوكيمون 2020 ",
               "strWidth": 304.5625
             }
           ]
@@ -6813,7 +6813,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2021 Pokémon event",
+              "str": "حدث بوكيمون 2021 ",
               "strWidth": 300.5625
             }
           ]
@@ -6849,7 +6849,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2022 Pokémon event",
+              "str": "حدث بوكيمون 2022 ",
               "strWidth": 304.5625
             }
           ]
@@ -6885,7 +6885,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2023 Pokémon event",
+              "str": "حدث بوكيمون 2023 ",
               "strWidth": 304.5625
             }
           ]
@@ -6921,7 +6921,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a 2024 Pokémon event",
+              "str": "حدث بوكيمون 2024 ",
               "strWidth": 304.5625
             }
           ]
@@ -6957,7 +6957,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark",
+              "str": "بوكيمون بارك",
               "strWidth": 120.265625
             }
           ]
@@ -6993,7 +6993,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark 2019",
+              "str": "بوكيمون بارك 2019 ",
               "strWidth": 196.875
             }
           ]
@@ -7029,7 +7029,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark 2020",
+              "str": "بوكيمون بارك 2020",
               "strWidth": 200.875
             }
           ]
@@ -7065,7 +7065,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark 2021",
+              "str": "بوكيمون بارك 2021",
               "strWidth": 196.875
             }
           ]
@@ -7101,7 +7101,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark 2022",
+              "str": "بوكيمون بارك 2022",
               "strWidth": 200.875
             }
           ]
@@ -7137,7 +7137,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark 2023",
+              "str": "بوكيمون بارك 2023",
               "strWidth": 200.875
             }
           ]
@@ -7173,7 +7173,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "PokéPark 2024",
+              "str": "بوكيمون بارك 2024",
               "strWidth": 200.875
             }
           ]
@@ -7209,7 +7209,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "an event site",
+              "str": "موقع الحدث",
               "strWidth": 165.0
             }
           ]
@@ -7281,7 +7281,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a stadium",
+              "str": "ملعب ",
               "strWidth": 124.015625
             }
           ]
@@ -7317,7 +7317,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a VGC event",
+              "str": "حدث بطولة فيديو جيم",
               "strWidth": 167.85938
             }
           ]
@@ -7353,7 +7353,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the VGC 2019",
+              "str": "بطولة VGC 2019",
               "strWidth": 190.45312
             }
           ]
@@ -7389,7 +7389,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the VGC 2020",
+              "str": "بطولة VGC 2020",
               "strWidth": 194.45312
             }
           ]
@@ -7425,7 +7425,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the VGC 2021",
+              "str": "بطولة VGC 2021",
               "strWidth": 190.45312
             }
           ]
@@ -7461,7 +7461,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the VGC 2022",
+              "str": "بطولة VGC 2022",
               "strWidth": 194.45312
             }
           ]
@@ -7497,7 +7497,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the VGC 2023",
+              "str": "بطولة VGC 2023",
               "strWidth": 194.45312
             }
           ]
@@ -7533,7 +7533,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the VGC 2024",
+              "str": "بطولة VGC 2024",
               "strWidth": 194.45312
             }
           ]
@@ -7569,7 +7569,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Virtual Console game",
+              "str": "لعبة جهاز افتراضي",
               "strWidth": 302.85938
             }
           ]
@@ -7605,7 +7605,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Bank",
+              "str": "بنك البوكيمون",
               "strWidth": 191.34375
             }
           ]
@@ -7641,7 +7641,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Pokémon shop",
+              "str": "متجر البوكيمون",
               "strWidth": 213.8125
             }
           ]
@@ -7677,7 +7677,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a demo version",
+              "str": "نسخة تجريبية",
               "strWidth": 197.32812
             }
           ]
@@ -7713,7 +7713,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Poké Ball Plus",
+              "str": "كرة بوكيمون بلس",
               "strWidth": 231.15625
             }
           ]
@@ -7749,7 +7749,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a stranger",
+              "str": "غريب ",
               "strWidth": 127.875
             }
           ]
@@ -7785,7 +7785,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Nursery worker",
+              "str": "عامل حضانة",
               "strWidth": 218.07812
             }
           ]
@@ -7821,7 +7821,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a treasure hunter",
+              "str": "صياد كنوز",
               "strWidth": 218.73438
             }
           ]
@@ -7857,7 +7857,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "an old hot-springs visitor",
+              "str": "زائر الينابيع الساخنة القديم",
               "strWidth": 320.07812
             }
           ]
