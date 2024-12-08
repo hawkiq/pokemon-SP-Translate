@@ -81,7 +81,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mysterious Shards S",
+              "str": "الشظايا الغامضة الصغيرة",
               "strWidth": 256.98438
             }
           ]
@@ -117,7 +117,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mysterious Shards L",
+              "str": "الشظايا الغامضة الكبيرة",
               "strWidth": 256.5
             }
           ]
@@ -153,7 +153,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Discovery Slates",
+              "str": "ألواح الاكتشاف ",
               "strWidth": 211.15625
             }
           ]
@@ -189,7 +189,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Regice Statues",
+              "str": "تماثيل ريجيس",
               "strWidth": 189.89062
             }
           ]
@@ -225,7 +225,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Registeel Statues",
+              "str": "تماثيل ريجيستيل",
               "strWidth": 221.25
             }
           ]
@@ -261,7 +261,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Regirock Statues",
+              "str": "تماثيل ريجي روك",
               "strWidth": 215.54688
             }
           ]
@@ -297,7 +297,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Kanto Slates",
+              "str": "ألواح كانتو",
               "strWidth": 161.85938
             }
           ]
@@ -333,7 +333,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Articuno Statues",
+              "str": "تماثيل أرتيكونو",
               "strWidth": 212.28125
             }
           ]
@@ -369,7 +369,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Zapdos Statues",
+              "str": "تماثيل زابدوس",
               "strWidth": 199.25
             }
           ]
@@ -405,7 +405,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Moltres Statues",
+              "str": "تماثيل مولتريس ",
               "strWidth": 200.6875
             }
           ]
@@ -441,7 +441,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Johto Slates",
+              "str": "ألواح جوتو",
               "strWidth": 157.3125
             }
           ]
@@ -477,7 +477,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Entei Statues",
+              "str": "تماثيل إنتي",
               "strWidth": 167.625
             }
           ]
@@ -513,7 +513,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Suicune Statues",
+              "str": "تماثيل سويكون ",
               "strWidth": 202.29688
             }
           ]
@@ -549,7 +549,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Raikou Statues",
+              "str": "تماثيل رايكو",
               "strWidth": 190.65625
             }
           ]
@@ -585,7 +585,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Soul Slates",
+              "str": "الواح الروح",
               "strWidth": 140.70312
             }
           ]
@@ -621,7 +621,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Latias Statues",
+              "str": "تماثيل لاتياس",
               "strWidth": 177.3125
             }
           ]
@@ -657,7 +657,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Latios Statues",
+              "str": "تماثيل لاتيوس",
               "strWidth": 179.17188
             }
           ]
@@ -693,7 +693,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rainbow Slates",
+              "str": "ألواح قوس قزح ",
               "strWidth": 195.0625
             }
           ]
@@ -729,7 +729,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ho-Oh Statues",
+              "str": "تماثيل هو-أوه",
               "strWidth": 192.92188
             }
           ]
@@ -765,7 +765,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Squall Slates",
+              "str": "الواح العاصفة",
               "strWidth": 163.90625
             }
           ]
@@ -801,7 +801,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Lugia Statues",
+              "str": "تماثيل لوغيا ",
               "strWidth": 172.21875
             }
           ]
@@ -837,7 +837,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oceanic Slates",
+              "str": "الواح المحيط",
               "strWidth": 191.48438
             }
           ]
@@ -873,7 +873,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Kyogre Statues",
+              "str": "تماثيل كيوجري",
               "strWidth": 194.96875
             }
           ]
@@ -909,7 +909,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tectonic Slates",
+              "str": "الالواح التكتونية",
               "strWidth": 196.125
             }
           ]
@@ -945,7 +945,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Groudon Statues",
+              "str": "تماثيل جراودون ",
               "strWidth": 218.3125
             }
           ]
@@ -981,7 +981,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stratospheric Slates",
+              "str": "ألواح الطبقات الجوية",
               "strWidth": 253.92188
             }
           ]
@@ -1017,7 +1017,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Rayquaza Statues",
+              "str": "تماثيل رايكوازا ",
               "strWidth": 226.35938
             }
           ]
@@ -1053,7 +1053,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Genome Slates",
+              "str": "الواح الجينوم ",
               "strWidth": 195.45312
             }
           ]
@@ -1089,7 +1089,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Mewtwo Statues",
+              "str": "تماثيل ميوتو",
               "strWidth": 211.35938
             }
           ]
@@ -1125,7 +1125,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Distortion Slates",
+              "str": "ألواح التشوه",
               "strWidth": 213.21875
             }
           ]
@@ -1161,7 +1161,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Griseous Orbs",
+              "str": "الكرات الرمادية",
               "strWidth": 183.8125
             }
           ]
