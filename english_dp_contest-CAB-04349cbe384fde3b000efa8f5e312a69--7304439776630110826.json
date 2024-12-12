@@ -45,7 +45,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dummy message",
+              "str": "رسالة تجريبية ",
               "strWidth": 215.34375
             }
           ]
@@ -81,7 +81,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? It seems you don’t have a Pokémon that can",
+              "str": "أوه؟ يبدو أنك لا تملك بوكيمون يمكنه",
               "strWidth": 636.2969
             },
             {
@@ -89,7 +89,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "enter a contest show.",
+              "str": "الدخول في المسابقة.",
               "strWidth": 274.76562
             },
             {
@@ -97,7 +97,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please come back with a Pokémon that knows",
+              "str": "يرجى العودة مع بوكيمون يعرف حركة ",
               "strWidth": 592.4844
             },
             {
@@ -105,7 +105,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a move that can be used in contest shows.",
+              "str": "يمكن استخدامها في عروض المسابقات.",
               "strWidth": 544.8906
             }
           ]
@@ -771,7 +771,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That’s it, folks! All evaluations have been tallied",
+              "str": "هذا كل شيء، أيها الأصدقاء! تم جمع وتلخيص جميع التقييمات!",
               "strWidth": 622.9219
             },
             {
@@ -779,7 +779,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and totaled! Which Pokémon will be crowned the",
+              "str": "أي بوكيمون سيتم تتويجه نجم العرض؟",
               "strWidth": 637.9375
             },
             {
@@ -787,7 +787,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Star of the Show? Let’s announce the results!",
+              "str": "دعونا نعلن النتائج!",
               "strWidth": 579.0781
             }
           ]
@@ -823,7 +823,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness Contest",
+              "str": "مسابقة الروعة",
               "strWidth": 226.15625
             }
           ]
@@ -859,7 +859,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beauty Contest",
+              "str": "مسابقة الجمال",
               "strWidth": 197.8125
             }
           ]
@@ -895,7 +895,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cuteness Contest",
+              "str": "مسابقة الجاذبية ",
               "strWidth": 225.65625
             }
           ]
@@ -931,7 +931,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cleverness Contest",
+              "str": "مسابقة الذكاء ",
               "strWidth": 247.51562
             }
           ]
@@ -967,7 +967,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Toughness Contest",
+              "str": "مسابقة الصلابة",
               "strWidth": 245.4375
             }
           ]
@@ -1003,7 +1003,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Normal Rank",
+              "str": "رتبة عادية",
               "strWidth": 166.21875
             }
           ]
@@ -1039,7 +1039,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great Rank",
+              "str": "تصنيف عالي",
               "strWidth": 146.28125
             }
           ]
@@ -1075,7 +1075,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ultra Rank",
+              "str": "تصنيف فائق",
               "strWidth": 136.10938
             }
           ]
@@ -1111,7 +1111,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Master Rank",
+              "str": "أعلى تصنيف ماستر",
               "strWidth": 160.45312
             }
           ]
@@ -1147,7 +1147,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Practice",
+              "str": "تدريب ",
               "strWidth": 102.765625
             }
           ]
@@ -1183,7 +1183,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Link",
+              "str": "رابط ",
               "strWidth": 52.96875
             }
           ]
@@ -1219,7 +1219,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest",
+              "str": "مسابقة ",
               "strWidth": 100.5625
             }
           ]
@@ -1255,7 +1255,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Back",
+              "str": "العودة ",
               "strWidth": 61.375
             }
           ]
@@ -1291,7 +1291,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Communicating. Please stand by...",
+              "str": "جارٍ الاتصال. يرجى الانتظار...",
               "strWidth": 442.07812
             }
           ]
@@ -1327,7 +1327,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Welcome to the Contest Hall! I can help you with",
+              "str": "مرحبًا بكم في قاعة المسابقة! يمكنني مساعدتكم",
               "strWidth": 639.6875
             },
             {
@@ -1335,7 +1335,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "registering for a Super Contest Show.",
+              "str": "في تسجيل بوكيمون في عرض المسابقة الكبرى.",
               "strWidth": 481.59375
             }
           ]
@@ -1371,7 +1371,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to enter a Pokémon in a Super",
+              "str": "هل ترغب في إدخال بوكيمون في",
               "strWidth": 599.5469
             },
             {
@@ -1379,7 +1379,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Show?",
+              "str": "عرض المسابقة الكبرى؟",
               "strWidth": 191.70312
             }
           ]
@@ -1415,7 +1415,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What would you like to know about?",
+              "str": "ماذا تود أن تعرف؟",
               "strWidth": 476.84375
             }
           ]
@@ -1451,7 +1451,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Welcome to the Contest Hall!",
+              "str": "مرحبًا بكم في قاعة المسابقة!",
               "strWidth": 386.375
             },
             {
@@ -1459,7 +1459,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "This is the reception counter for linked",
+              "str": "هذا هو مكتب الاستقبال",
               "strWidth": 501.3125
             },
             {
@@ -1467,7 +1467,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Super Contest Shows.",
+              "str": " لعروض المسابقات الكبرى .",
               "strWidth": 279.23438
             },
             {
@@ -1475,7 +1475,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You and your friends may enter your Pokémon in",
+              "str": "يمكنك أنت وأصدقاؤك إدخال بوكيموناتكم",
               "strWidth": 632.96875
             },
             {
@@ -1483,7 +1483,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the same Super Contest Show together.",
+              "str": "في نفس عرض المسابقة الكبرى.",
               "strWidth": 511.4375
             }
           ]
@@ -1519,7 +1519,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’d like to enter a show",
+              "str": "أود المشاركة في هذا العرض",
               "strWidth": 297.8125
             }
           ]
@@ -1555,7 +1555,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me more",
+              "str": "أخبرني المزيد ",
               "strWidth": 170.1875
             }
           ]
@@ -1591,7 +1591,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No, thanks",
+              "str": "لا، شكرًا ",
               "strWidth": 139.10938
             }
           ]
@@ -1627,7 +1627,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We look forward to your participation",
+              "str": "نتطلع لمشاركتك",
               "strWidth": 491.82812
             },
             {
@@ -1635,7 +1635,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "another time!",
+              "str": "مرة أخرى!",
               "strWidth": 171.5625
             }
           ]
@@ -1671,7 +1671,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to enter a Link Contest Show?",
+              "str": "هل ترغب في الدخول لعرض المسابقة؟",
               "strWidth": 594.8125
             }
           ]
@@ -1707,7 +1707,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There are five Super Contest Shows in all:",
+              "str": "هناك خمس مسابقات كبرى: ",
               "strWidth": 541.4844
             },
             {
@@ -1715,7 +1715,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness, Beauty, Cuteness, Cleverness,",
+              "str": " الروعة، الجمال، الجاذبية، الذكاء،",
               "strWidth": 521.53125
             },
             {
@@ -1723,7 +1723,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and Toughness.",
+              "str": "والصلابة.",
               "strWidth": 200.9375
             },
             {
@@ -1731,7 +1731,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Be sure to choose the one that best suits the",
+              "str": "تأكد من اختيار الأنسب",
               "strWidth": 576.4844
             },
             {
@@ -1739,7 +1739,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon you want to enter with.",
+              "str": " للبوكيمون الذي ترغب في الدخول به.",
               "strWidth": 426.25
             }
           ]
@@ -1775,7 +1775,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There are four different ranks for Super Contest",
+              "str": "هناك أربع مراتب مختلفة لعروض المسابقات الكبرى: ",
               "strWidth": 617.625
             },
             {
@@ -1783,7 +1783,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Shows. The four ranks are Normal, Great, Ultra,",
+              "str": "العادية، الكبيرة، الفائقة،",
               "strWidth": 615.875
             },
             {
@@ -1791,7 +1791,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and Master.",
+              "str": "والدرجة العليا ماستر.",
               "strWidth": 153.20312
             },
             {
@@ -1799,7 +1799,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you put on a successful show in a Normal Rank",
+              "str": "إذا قمت بتقديم عرض ناجح في مسابقة الروعة العادية،",
               "strWidth": 630.1094
             },
             {
@@ -1807,7 +1807,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness Contest, you’ll get to participate in the",
+              "str": "ستتمكن من المشاركة في مسابقة",
               "strWidth": 632.6875
             },
             {
@@ -1815,7 +1815,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great Rank Coolness Contest, and so on.",
+              "str": " الروعة الكبيرة، وهكذا.",
               "strWidth": 533.4219
             },
             {
@@ -1823,7 +1823,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Likewise, putting on a successful Great Rank",
+              "str": "بالمثل، النجاح في مسابقة التصنيف الكبير ",
               "strWidth": 574.1875
             },
             {
@@ -1831,7 +1831,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "contest show will qualify you for Ultra Rank,",
+              "str": "سيؤهلك لمسابقة التصنيف الفائق،",
               "strWidth": 569.65625
             },
             {
@@ -1839,7 +1839,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and a successful Ultra Rank contest show will",
+              "str": "والنجاح في مسابقة التصنيف الفائق",
               "strWidth": 580.03125
             },
             {
@@ -1847,7 +1847,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "make you eligible for Master Rank contest shows.",
+              "str": "يؤهلك للمسابقة بأعلى تصنيف وهو الماستر .",
               "strWidth": 638.875
             },
             {
@@ -1855,7 +1855,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Reach for the top and try to participate in each",
+              "str": "اسعَ للوصول إلى القمة وحاول المشاركة",
               "strWidth": 612.5
             },
             {
@@ -1863,7 +1863,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Master Rank category: Coolness, Beauty,",
+              "str": "في كل فئة من التصنيف الأعلى الماستر ",
               "strWidth": 532.375
             },
             {
@@ -1871,7 +1871,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cuteness, Cleverness, and Toughness!",
+              "str": "الروعة، الجمال، الجاذبية، الذكاء، والصلابة!",
               "strWidth": 490.0
             }
           ]
@@ -1907,7 +1907,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Pokémon would you like to enter?",
+              "str": "أي بوكيمون ترغب في المشاركة به؟ ",
               "strWidth": 532.84375
             }
           ]
@@ -1943,7 +1943,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please choose a Pokémon.",
+              "str": "يرجى اختيار بوكيمون. ",
               "strWidth": 343.03125
             }
           ]
@@ -1992,7 +1992,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK! Your Pokémon has been accepted for entry!",
+              "str": "حسنًا! تم قبول بوكيمونك للانضمام! ",
               "strWidth": 629.1406
             },
             {
@@ -2000,7 +2000,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Your entry number is ",
+              "str": "رقم دخولك هو",
               "strWidth": 277.90625
             },
             {
@@ -2052,7 +2052,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We look forward to your participation",
+              "str": "نتطلع إلى مشاركتك ",
               "strWidth": 491.82812
             },
             {
@@ -2060,7 +2060,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "another time!",
+              "str": "في وقت لاحق!",
               "strWidth": 171.5625
             }
           ]
@@ -2096,7 +2096,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Enter",
+              "str": "انضمام ",
               "strWidth": 67.09375
             }
           ]
@@ -2132,7 +2132,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me about contest shows",
+              "str": "أخبرني عن عروض المسابقات.",
               "strWidth": 367.20312
             }
           ]
@@ -2168,7 +2168,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "إنهاء ",
               "strWidth": 57.625
             }
           ]
@@ -2204,7 +2204,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which rank would you like to enter?",
+              "str": "أي تصنيف ترغب في الدخول فيه؟",
               "strWidth": 468.51562
             }
           ]
@@ -2240,7 +2240,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which contest show would you like to enter?",
+              "str": "أي عرض مسابقة ترغب في الدخول فيه؟ ",
               "strWidth": 580.1719
             }
           ]
@@ -2276,7 +2276,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to cancel your entry?",
+              "str": "هل ترغب في إلغاء انضمامك؟",
               "strWidth": 478.34375
             }
           ]
@@ -2312,7 +2312,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -2348,7 +2348,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا ",
               "strWidth": 38.78125
             }
           ]
@@ -2384,7 +2384,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Normal Rank",
+              "str": "التصنيف العادي",
               "strWidth": 166.21875
             }
           ]
@@ -2420,7 +2420,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great Rank",
+              "str": "التصنيف الكبير",
               "strWidth": 146.28125
             }
           ]
@@ -2456,7 +2456,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ultra Rank",
+              "str": "التصنيف الفائق ",
               "strWidth": 136.10938
             }
           ]
@@ -2492,7 +2492,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Master Rank",
+              "str": "التصنيف الأعلى ماستر",
               "strWidth": 160.45312
             }
           ]
@@ -2528,7 +2528,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "إنهاء ",
               "strWidth": 57.625
             }
           ]
@@ -2564,7 +2564,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness Contest",
+              "str": "مسابقة الروعة",
               "strWidth": 226.15625
             }
           ]
@@ -2600,7 +2600,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beauty Contest",
+              "str": "مسابقة الجمال",
               "strWidth": 197.8125
             }
           ]
@@ -2636,7 +2636,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cuteness Contest",
+              "str": "مسابقة الجاذبية",
               "strWidth": 225.65625
             }
           ]
@@ -2672,7 +2672,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cleverness Contest",
+              "str": "مسابقة الذكاء",
               "strWidth": 247.51562
             }
           ]
@@ -2708,7 +2708,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Toughness Contest",
+              "str": "مسابقة الصلابة",
               "strWidth": 245.4375
             }
           ]
@@ -2744,7 +2744,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "إنهاء",
               "strWidth": 57.625
             }
           ]
@@ -2780,7 +2780,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Right this way, please! Good luck!",
+              "str": "من هنا، من فضلك! حظًا موفقًا!",
               "strWidth": 438.82812
             }
           ]
@@ -2816,7 +2816,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hi! This is the registration counter for",
+              "str": "مرحبًا! هذا هو مكتب التسجيل ",
               "strWidth": 482.3125
             },
             {
@@ -2824,7 +2824,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "practice sessions.",
+              "str": "لجلسات التدريب",
               "strWidth": 222.6875
             },
             {
@@ -2832,7 +2832,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Here you can take Contest Show lessons!",
+              "str": " هنا يمكنك تعلم كيفية المشاركة في عروض المسابقات!",
               "strWidth": 530.5625
             }
           ]
@@ -2868,7 +2868,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to join a practice session?",
+              "str": "هل ترغب في الانضمام إلى جلسة تدريبية؟ ",
               "strWidth": 539.65625
             }
           ]
@@ -2904,7 +2904,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’d like to practice",
+              "str": "أرغب في المشاركة",
               "strWidth": 237.625
             }
           ]
@@ -2940,7 +2940,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me more",
+              "str": "أخبرني المزيد.",
               "strWidth": 170.1875
             }
           ]
@@ -2976,7 +2976,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No, thanks",
+              "str": "لا، شكرًا. ",
               "strWidth": 139.10938
             }
           ]
@@ -3012,7 +3012,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We look forward to your next visit!",
+              "str": "نتطلع لزيارتك القادمة! ",
               "strWidth": 450.32812
             }
           ]
@@ -3048,7 +3048,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What would you like to know about?",
+              "str": "ماذا تود أن تعرف؟",
               "strWidth": 476.84375
             }
           ]
@@ -3084,7 +3084,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Select",
+              "str": "اختر ",
               "strWidth": 79.171875
             }
           ]
@@ -3120,7 +3120,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That Pokémon can’t participate in this contest!",
+              "str": "لا يمكن لهذا البوكيمون المشاركة في هذه المسابقة!",
               "strWidth": 602.90625
             }
           ]
@@ -3205,7 +3205,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There are ",
+              "str": "هناك",
               "strWidth": 132.5625
             },
             {
@@ -3221,7 +3221,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Stars-of-the-Show pairs this time!",
+              "str": "عدد من أزواج نجوم العرض هذه المرة!",
               "strWidth": 436.46875
             }
           ]
@@ -3290,7 +3290,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " and ",
+              "str": " و ",
               "strWidth": 65.5
             },
             {
@@ -3342,7 +3342,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Quit",
+              "str": "إنهاء ",
               "strWidth": 57.625
             }
           ]
@@ -3378,7 +3378,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Normal",
+              "str": "عادي ",
               "strWidth": 94.234375
             }
           ]
@@ -3414,7 +3414,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great",
+              "str": "كبير ",
               "strWidth": 74.296875
             }
           ]
@@ -3450,7 +3450,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ultra",
+              "str": "فائق ",
               "strWidth": 64.125
             }
           ]
@@ -3486,7 +3486,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Master",
+              "str": "ماستر",
               "strWidth": 88.46875
             }
           ]
@@ -3522,7 +3522,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which Pokémon would you like to enter?",
+              "str": "اي بوكيمون ترغب في المشاركة به؟",
               "strWidth": 532.84375
             }
           ]
@@ -3558,7 +3558,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please choose a Pokémon.",
+              "str": "يرجى اختيار بوكيمون. ",
               "strWidth": 343.03125
             }
           ]
@@ -3607,7 +3607,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "OK, your Pokémon has been registered for a",
+              "str": "حسنًا، تم تسجيل بوكيمونك",
               "strWidth": 578.2969
             },
             {
@@ -3615,7 +3615,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "practice session.",
+              "str": " لجلسة التدريب.",
               "strWidth": 211.17188
             },
             {
@@ -3623,7 +3623,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Its entry number is ",
+              "str": "رقم دخوله هو ",
               "strWidth": 246.14062
             },
             {
@@ -3639,7 +3639,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": ". The practice will start",
+              "str": ". ستبدأ الجلسة التدريبية",
               "strWidth": 294.54688
             },
             {
@@ -3647,7 +3647,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "right away.",
+              "str": "في الحال.",
               "strWidth": 140.4375
             }
           ]
@@ -3683,7 +3683,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Right this way, please. Good luck!",
+              "str": "من هنا، من فضلك. حظًا موفقًا!",
               "strWidth": 439.46875
             }
           ]
@@ -3744,7 +3744,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "And now, for the ",
+              "str": "والآن، من أجل",
               "strWidth": 227.21875
             },
             {
@@ -3837,7 +3837,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Entry number 1!",
+              "str": "رقم الدخول 1!",
               "strWidth": 200.84375
             },
             {
@@ -3853,7 +3853,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " and ",
+              "str": " و ",
               "strWidth": 65.5
             },
             {
@@ -3930,7 +3930,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Entry number 2!",
+              "str": "رقم الدخول 2!",
               "strWidth": 204.84375
             },
             {
@@ -3946,7 +3946,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " and ",
+              "str": " و ",
               "strWidth": 65.5
             },
             {
@@ -4023,7 +4023,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Entry number 3!",
+              "str": "رقم الدخول 3!",
               "strWidth": 204.84375
             },
             {
@@ -4039,7 +4039,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " and ",
+              "str": " و ",
               "strWidth": 65.5
             },
             {
@@ -4116,7 +4116,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Entry number 4!",
+              "str": "رقم الدخول 4!",
               "strWidth": 204.84375
             },
             {
@@ -4132,7 +4132,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " and ",
+              "str": " و ",
               "strWidth": 65.5
             },
             {
@@ -4197,7 +4197,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The audience suddenly grew more enthusiastic",
+              "str": "ازداد حماس الجمهور فجأة",
               "strWidth": 602.0469
             },
             {
@@ -4205,7 +4205,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "when ",
+              "str": "عندما  ",
               "strWidth": 75.609375
             },
             {
@@ -4221,7 +4221,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " arrived!",
+              "str": " وصل!",
               "strWidth": 105.484375
             }
           ]
@@ -4270,7 +4270,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The audience became excited when",
+              "str": "أصبح الجمهور متحمسًا عندما",
               "strWidth": 463.98438
             },
             {
@@ -4286,7 +4286,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " arrived!",
+              "str": "وصل",
               "strWidth": 105.484375
             }
           ]
@@ -4335,7 +4335,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The audience grew a little more animated when",
+              "str": "أصبح الجمهور أكثر نشاطًا قليلًا عندما وصل",
               "strWidth": 615.0
             },
             {
@@ -4351,7 +4351,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " arrived.",
+              "str": " !!!.",
               "strWidth": 106.125
             }
           ]
@@ -4420,7 +4420,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " shows off with",
+              "str": " إستعرض بـ ",
               "strWidth": 191.32812
             },
             {
@@ -4472,7 +4472,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What a successful Super Contest Show!",
+              "str": "يا له من عرض ناجح!",
               "strWidth": 505.07812
             },
             {
@@ -4480,7 +4480,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You got some hall points!",
+              "str": "حصلت على بعض النقاط!",
               "strWidth": 330.35938
             }
           ]
@@ -4516,7 +4516,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Sorry! This Super Contest Show was a failure.",
+              "str": "عذرًا! هذا العرض كان فاشلًا.",
               "strWidth": 580.0469
             }
           ]
@@ -4552,7 +4552,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s time to announce the Stars of the Show!",
+              "str": "حان الوقت للإعلان عن نجوم العرض!",
               "strWidth": 563.7344
             }
           ]
@@ -4588,7 +4588,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "How would you like to participate?",
+              "str": "كيف ترغب في المشاركة؟",
               "strWidth": 454.89062
             }
           ]
@@ -4624,7 +4624,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Alone",
+              "str": "بمفردي",
               "strWidth": 76.609375
             }
           ]
@@ -4660,7 +4660,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "With my group!",
+              "str": "مع مجموعتي! ",
               "strWidth": 199.40625
             }
           ]
@@ -4696,7 +4696,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Stars of the Show are...",
+              "str": "نجوم العرض هم... ",
               "strWidth": 355.15625
             }
           ]
@@ -4732,7 +4732,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hi! This is the registration counter for",
+              "str": "مرحبًا! هذا هو مكتب التسجيل",
               "strWidth": 482.3125
             },
             {
@@ -4740,7 +4740,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "practice sessions.",
+              "str": " لجلسات التدريب.",
               "strWidth": 222.6875
             },
             {
@@ -4748,7 +4748,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Here you can take Super Contest Show lessons.",
+              "str": "هنا يمكنك أخذ دروس عروض المسابقات الكبرى.",
               "strWidth": 613.78125
             },
             {
@@ -4756,7 +4756,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to practice?",
+              "str": "هل ترغب في التدرب؟",
               "strWidth": 359.8125
             }
           ]
@@ -4792,7 +4792,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "In a Super Contest Show, four performers work",
+              "str": "في المسابقة الكبرى، يعمل أربعة مؤدين معًا،",
               "strWidth": 604.1719
             },
             {
@@ -4800,7 +4800,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "together, acting in front of a large audience and",
+              "str": "مقدمين عرضًا أمام جمهور كبير",
               "strWidth": 625.375
             },
             {
@@ -4808,7 +4808,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "doing their best to put on a successful show!",
+              "str": " ويبذلون قصارى جهدهم لإنجاح العرض!",
               "strWidth": 573.3906
             },
             {
@@ -4816,7 +4816,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "While performing, they’ll be evaluated in three",
+              "str": "أثناء الأداء، يتم تقييمهم في ثلاث فئات: ",
               "strWidth": 609.2656
             },
             {
@@ -4824,7 +4824,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "categories: Visual, Dance, and Moves.",
+              "str": "المظهر، الرقص، والحركات.",
               "strWidth": 497.26562
             },
             {
@@ -4832,7 +4832,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "We offer lessons to anyone who wants to enter a",
+              "str": "نحن نوفر دروساً لأي شخص يرغب بالمشاركة",
               "strWidth": 631.6719
             },
             {
@@ -4840,7 +4840,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Super Contest Show!",
+              "str": "بالمسابقة الكبرى!",
               "strWidth": 267.07812
             }
           ]
@@ -4876,7 +4876,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Visual Evaluation will be based on the",
+              "str": "يتم تقييم المظهر بناءً على",
               "strWidth": 549.2656
             },
             {
@@ -4884,7 +4884,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon’s conditions and the spectacle of",
+              "str": "حالة البوكيمون وتأثير",
               "strWidth": 555.2656
             },
             {
@@ -4892,7 +4892,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "its customized Ball Capsule.",
+              "str": "كبسولة الكرة المعدلة.",
               "strWidth": 359.76562
             },
             {
@@ -4900,7 +4900,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There are five types of conditions: Coolness,",
+              "str": "هناك خمسة أنواع من الحالات:",
               "strWidth": 580.09375
             },
             {
@@ -4908,7 +4908,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beauty, Cuteness, Cleverness, and Toughness.",
+              "str": "الروعة، الجمال، الجاذبية، الذكاء، والصلابة.",
               "strWidth": 596.71875
             },
             {
@@ -4916,7 +4916,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can raise each of these by giving your",
+              "str": "يمكنك تحسين كل من هذه الحالات عن طريق",
               "strWidth": 548.75
             },
             {
@@ -4924,7 +4924,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Pokémon Poffins!",
+              "str": "إطعام بوكيمونك الحلويات! ",
               "strWidth": 223.28125
             },
             {
@@ -4932,7 +4932,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Customize your Capsule Decoration by placing",
+              "str": "تزيين الكبسولة الخاصة بك",
               "strWidth": 607.4531
             },
             {
@@ -4940,7 +4940,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Stickers onto Ball Capsules. You can access them",
+              "str": "بوضع الملصقات عليها, ويمكنك الوصول إليها",
               "strWidth": 634.2969
             },
             {
@@ -4948,7 +4948,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "through the X menu or by using a PC.",
+              "str": "من قائمة X أو باستخدام جهاز الكمبيوتر.",
               "strWidth": 485.51562
             },
             {
@@ -4956,7 +4956,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Different Stickers pair well with different contest",
+              "str": "تتناسب الملصقات المختلفة مع عروض المسابقات المختلفة،",
               "strWidth": 627.625
             },
             {
@@ -4964,7 +4964,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "shows, so try out a variety of them!",
+              "str": " لذا جرّب مجموعة متنوعة منها! ",
               "strWidth": 451.46875
             }
           ]
@@ -5000,7 +5000,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Dance Evaluation is based on your",
+              "str": " يتم تقييم الرقص بناءً على! ",
               "strWidth": 503.8125
             },
             {
@@ -5008,7 +5008,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "rhythm skills!",
+              "str": "مهاراتك في الإيقاع!",
               "strWidth": 164.90625
             },
             {
@@ -5016,7 +5016,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Push the button with the right timing as notes",
+              "str": "اضغط على الزر بالتوقيت الصحيح أثناء تحرك النوتات",
               "strWidth": 586.125
             },
             {
@@ -5024,7 +5024,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "move along with the music.",
+              "str": "مع الموسيقى.",
               "strWidth": 350.53125
             },
             {
@@ -5032,7 +5032,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Scores for each note are divided into categories:",
+              "str": "تنقسم الدرجات لكل نوتة إلى فئات:",
               "strWidth": 632.4219
             },
             {
@@ -5040,7 +5040,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Too Fast/Slow, Nice, Great, and Brilliant!",
+              "str": "بطيء جدًا/سريع جدًا، جيد، رائع، ومذهل!",
               "strWidth": 534.84375
             },
             {
@@ -5048,7 +5048,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The better your timing, the more your Heart",
+              "str": "كلما كان توقيتك أفضل، امتلأ مقياس القلوب، ",
               "strWidth": 570.5
             },
             {
@@ -5056,7 +5056,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gauge will fill, and when it fills up completely,",
+              "str": "وعندما يمتلئ تمامًا،",
               "strWidth": 602.34375
             },
             {
@@ -5064,7 +5064,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you’ll get a ",
+              "str": "ستحصل على",
               "strWidth": 155.01562
             },
             {
@@ -5104,7 +5104,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A performance that earns a lot of ",
+              "str": "الأداء الذي يكسب الكثير من",
               "strWidth": 439.98438
             },
             {
@@ -5136,7 +5136,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s is definitely",
+              "str": "بالتأكيد ",
               "strWidth": 169.96875
             },
             {
@@ -5144,7 +5144,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a brilliant one! And that’ll be sure to send your",
+              "str": "سيكون عرضًا رائعًا! وهذا سيرفع ",
               "strWidth": 606.5156
             },
             {
@@ -5152,7 +5152,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dance Evaluation score sky high, too!",
+              "str": "درجات تقييم الرقص بشكل كبير!",
               "strWidth": 484.89062
             },
             {
@@ -5160,7 +5160,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Collecting ",
+              "str": "جمع",
               "strWidth": 140.98438
             },
             {
@@ -5192,7 +5192,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s will also raise the Hype Meter",
+              "str": "سيرفع أيضًا عداد الحماس المشترك",
               "strWidth": 407.15625
             },
             {
@@ -5200,7 +5200,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "shared by all four performers, pumping up the",
+              "str": " بين جميع المؤدين الأربعة،",
               "strWidth": 595.375
             },
             {
@@ -5208,7 +5208,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "audience into a frenzy!",
+              "str": "مما يثير الجمهور حماسًا!",
               "strWidth": 294.57812
             },
             {
@@ -5216,7 +5216,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Put on successful shows to earn hall points,",
+              "str": "قدم عروضًا ناجحة لتحصل على نقاط القاعة، ",
               "strWidth": 556.1719
             },
             {
@@ -5224,7 +5224,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and you can gradually upgrade the stage into",
+              "str": " وبمرور الوقت ستتمكن من تحسين المسرح",
               "strWidth": 588.25
             },
             {
@@ -5232,7 +5232,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "something truly magnificent!",
+              "str": " ليصبح مذهلًا حقًا! ",
               "strWidth": 364.71875
             }
           ]
@@ -5268,7 +5268,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Dance Evaluation is based on your",
+              "str": "يتم تقييم الرقص بناءً على",
               "strWidth": 503.8125
             },
             {
@@ -5276,7 +5276,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "rhythm skills!",
+              "str": "مهاراتك في الإيقاع!",
               "strWidth": 164.90625
             },
             {
@@ -5284,7 +5284,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Push the button with the right timing as notes",
+              "str": "اضغط على الزر بالتوقيت الصحيح أثناء تحرك",
               "strWidth": 586.125
             },
             {
@@ -5292,7 +5292,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "move along with the music.",
+              "str": " النوتات مع الموسيقى.",
               "strWidth": 350.53125
             },
             {
@@ -5300,7 +5300,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Scores for each note are divided into categories:",
+              "str": "تنقسم الدرجات لكل نوتة إلى فئات:",
               "strWidth": 632.4219
             },
             {
@@ -5308,7 +5308,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Too Fast/Slow, Nice, Great, and Shining!",
+              "str": "بطيء جدًا/سريع جدًا، جيد، رائع، ومتلألئ!",
               "strWidth": 529.7656
             },
             {
@@ -5316,7 +5316,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The better your timing, the more your Heart",
+              "str": "كلما كان توقيتك أفضل، امتلأ مقياس القلوب،",
               "strWidth": 570.5
             },
             {
@@ -5324,7 +5324,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Gauge will fill, and when it fills up completely,",
+              "str": "وعندما يمتلئ تمامًا، ",
               "strWidth": 602.34375
             },
             {
@@ -5332,7 +5332,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you’ll get a ",
+              "str": "ستحصل على",
               "strWidth": 155.01562
             },
             {
@@ -5372,7 +5372,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "A performance that earns a lot of ",
+              "str": "الأداء الذي يكسب الكثير من",
               "strWidth": 439.98438
             },
             {
@@ -5404,7 +5404,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s is definitely",
+              "str": "بالتأكيد ",
               "strWidth": 169.96875
             },
             {
@@ -5412,7 +5412,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a shining one! And that’ll be sure to send your",
+              "str": "بالتأكيد سيكون عرضًا رائعًا! وهذا سيرفع درجات",
               "strWidth": 597.5625
             },
             {
@@ -5420,7 +5420,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dance Evaluation score sky high, too!",
+              "str": "تقييم الرقص بشكل كبير!",
               "strWidth": 484.89062
             },
             {
@@ -5428,7 +5428,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Collecting ",
+              "str": "جمع",
               "strWidth": 140.98438
             },
             {
@@ -5460,7 +5460,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s will also raise the Hype Meter",
+              "str": "سيرفع أيضًا عداد الحماس",
               "strWidth": 407.15625
             },
             {
@@ -5468,7 +5468,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "shared by all four performers, pumping up the",
+              "str": "المشترك بين جميع المؤدين الأربعة، ",
               "strWidth": 595.375
             },
             {
@@ -5476,7 +5476,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "audience into a frenzy!",
+              "str": " مما يثير الجمهور حماسًا!",
               "strWidth": 294.57812
             },
             {
@@ -5484,7 +5484,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Put on successful shows to earn hall points,",
+              "str": "قدم عروضًا ناجحة لتحصل على نقاط القاعة،",
               "strWidth": 556.1719
             },
             {
@@ -5492,7 +5492,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and you can gradually upgrade the stage into",
+              "str": " وبمرور الوقت ستتمكن من تحسين",
               "strWidth": 588.25
             },
             {
@@ -5500,7 +5500,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "something truly magnificent!",
+              "str": "المسرح ليصبح مذهلًا حقًا!",
               "strWidth": 364.71875
             }
           ]
@@ -5536,7 +5536,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Move Evaluation is based on a Pokémon’s",
+              "str": "حركات المسابقة يتم تقييمها بناءً على ",
               "strWidth": 601.3125
             },
             {
@@ -5544,7 +5544,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Move, which the Pokémon can only use",
+              "str": " حركة المسابقة الخاصة بالبوكيمون",
               "strWidth": 619.8594
             },
             {
@@ -5552,7 +5552,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "once during the performance!",
+              "str": "التي يمكن استخدامها مرة واحدة فقط أثناء الأداء!",
               "strWidth": 382.39062
             },
             {
@@ -5560,7 +5560,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Moves can have a variety of effects",
+              "str": "حركات المسابقة يمكن أن تحتوي على تأثيرات متنوعة",
               "strWidth": 567.9531
             },
             {
@@ -5568,7 +5568,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "that will help with the Dance Evaluation.",
+              "str": "تساعد في تقييم الرقص. ",
               "strWidth": 522.28125
             },
             {
@@ -5576,7 +5576,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Choose the move you’d like in advance at the",
+              "str": "اختر الحركة التي ترغب بها مسبقًا",
               "strWidth": 595.4844
             },
             {
@@ -5584,7 +5584,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "reception desk, then use your Contest Move",
+              "str": "عند مكتب الاستقبال، ثم استخدمها ",
               "strWidth": 574.375
             },
             {
@@ -5592,7 +5592,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "when you feel like the moment is right!",
+              "str": "عندما تشعر أن اللحظة مناسبة!",
               "strWidth": 501.65625
             },
             {
@@ -5600,7 +5600,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Based on the success of your move, you may",
+              "str": "بناءً على نجاح الحركة، قد ",
               "strWidth": 577.0156
             },
             {
@@ -5608,7 +5608,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "receive ",
+              "str": "تحصل على",
               "strWidth": 101.875
             },
             {
@@ -5640,7 +5640,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s from the audience!",
+              "str": "من الجمهور!",
               "strWidth": 262.92188
             },
             {
@@ -5648,7 +5648,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Also, if you coordinate with other performers and",
+              "str": "إذا نسقت مع المؤدين الآخرين",
               "strWidth": 639.21875
             },
             {
@@ -5656,7 +5656,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "use Contest Moves in succession, you can create",
+              "str": "واستخدمتم حركات المسابقة بشكل متتابع، ",
               "strWidth": 628.21875
             },
             {
@@ -5664,7 +5664,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a Move Chain! Pull it off, and you’ll get more",
+              "str": "يمكنك إنشاء سلسلة حركات! إذا نجحت، ستحصل على المزيد من",
               "strWidth": 586.0625
             },
             {
@@ -5696,7 +5696,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s than if you’d just used a move on your own.",
+              "str": "مقارنة باستخدام الحركة بمفردك.",
               "strWidth": 585.3125
             },
             {
@@ -5704,7 +5704,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you create a Move Chain with moves that have",
+              "str": "إذا قمت بسلسلة حركات مع حركات",
               "strWidth": 633.375
             },
             {
@@ -5712,7 +5712,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the same type, you’ll get even more ",
+              "str": "من نفس النوع، ستحصل على المزيد من",
               "strWidth": 475.0625
             },
             {
@@ -5744,7 +5744,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "s.",
+              "str": "!!!!.",
               "strWidth": 19.421875
             },
             {
@@ -5752,7 +5752,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The key to success is figuring out the perfect",
+              "str": ". المفتاح للنجاح هو تحديد اللحظة المثالية",
               "strWidth": 578.6875
             },
             {
@@ -5760,7 +5760,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "time to use your Contest Move!",
+              "str": "لاستخدام حركة المسابقة الخاصة بك!",
               "strWidth": 407.75
             }
           ]
@@ -5796,7 +5796,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please choose a Pokémon to enter, as well as its",
+              "str": "يرجى اختيار بوكيمون للانضمام، ",
               "strWidth": 624.5469
             },
             {
@@ -5804,7 +5804,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Move.",
+              "str": "وكذلك حركة المسابقة الخاصة به.",
               "strWidth": 190.32812
             }
           ]
@@ -5840,7 +5840,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to cancel your practice session?",
+              "str": "هل ترغب في إلغاء جلسة التدريب الخاصة بك؟",
               "strWidth": 615.9844
             }
           ]
@@ -5876,7 +5876,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please choose a Ball Capsule to use in",
+              "str": "يرجى اختيار كبسولة الكرة لاستخدامها ",
               "strWidth": 495.40625
             },
             {
@@ -5884,7 +5884,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Contest Show.",
+              "str": " في عرض المسابقة. ",
               "strWidth": 235.40625
             }
           ]
@@ -5920,7 +5920,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to practice again?",
+              "str": "هل ترغب في التدرب مرة أخرى؟ ",
               "strWidth": 438.45312
             }
           ]
@@ -5956,7 +5956,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Good luck!",
+              "str": "حظًا موفقًا!",
               "strWidth": 142.98438
             }
           ]
@@ -5992,7 +5992,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’m so sorry. Link Contest Shows aren’t ready yet.",
+              "str": "انا آسف جدًا. عروض المسابقات عبر الرابط غير جاهز. ",
               "strWidth": 637.5469
             }
           ]
@@ -6763,7 +6763,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "And that’s it for this practice session!",
+              "str": "وهذا كل شيء لهذه الجلسة التدريبية!",
               "strWidth": 477.17188
             }
           ]
@@ -6799,7 +6799,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Hall Rank is already maxed out.",
+              "str": "تصنيف القاعة قد وصل إلى أقصاه بالفعل.",
               "strWidth": 468.09375
             }
           ]
@@ -6835,7 +6835,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Hall Rank went up! The stage will be fancier",
+              "str": "تصنيف القاعة ارتفع! المسرح سيكون أكثر فخامة",
               "strWidth": 626.125
             },
             {
@@ -6843,7 +6843,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "starting with your next Super Contest Show!",
+              "str": "بدءًا من عرض المسابقة الكبرى القادم! ",
               "strWidth": 563.5781
             }
           ]
@@ -6879,7 +6879,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hooray! The Hall Rank has reached its max!",
+              "str": "هوووراايي ! تصنيف القاعة وصل إلى أقصاه! ",
               "strWidth": 563.5
             }
           ]
@@ -6915,7 +6915,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Move",
+              "str": "حركة المسابقة",
               "strWidth": 182.42188
             }
           ]
@@ -6951,7 +6951,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Visual",
+              "str": "المظهر ",
               "strWidth": 77.78125
             }
           ]
@@ -6987,7 +6987,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dance",
+              "str": "الرقص ",
               "strWidth": 82.90625
             }
           ]
@@ -7023,7 +7023,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Move",
+              "str": "الحركة ",
               "strWidth": 73.1875
             }
           ]
@@ -7059,7 +7059,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Coolness Contest",
+              "str": "مسابقة الروعة",
               "strWidth": 226.15625
             }
           ]
@@ -7095,7 +7095,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Beauty Contest",
+              "str": "مسابقة الجمال",
               "strWidth": 197.8125
             }
           ]
@@ -7131,7 +7131,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cuteness Contest",
+              "str": "مسابقة الجاذبية",
               "strWidth": 225.65625
             }
           ]
@@ -7167,7 +7167,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Cleverness Contest",
+              "str": "مسابقة الذكاء",
               "strWidth": 247.51562
             }
           ]
@@ -7203,7 +7203,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Toughness Contest",
+              "str": "مسابقة الصلابة ",
               "strWidth": 245.4375
             }
           ]
@@ -7239,7 +7239,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Normal Rank",
+              "str": "التصنيف العادي",
               "strWidth": 166.21875
             }
           ]
@@ -7275,7 +7275,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Great Rank",
+              "str": "التصنيف الكبير",
               "strWidth": 146.28125
             }
           ]
@@ -7311,7 +7311,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ultra Rank",
+              "str": "التصنيف الفائق",
               "strWidth": 136.10938
             }
           ]
@@ -7347,7 +7347,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Master Rank",
+              "str": "التصنيف الأعلى ماستر",
               "strWidth": 160.45312
             }
           ]
@@ -7383,7 +7383,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "BRILLIANT!",
+              "str": "مذهل!",
               "strWidth": 147.79688
             }
           ]
@@ -7419,7 +7419,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "SHINING!",
+              "str": "متلألئ!",
               "strWidth": 128.09375
             }
           ]
@@ -7455,7 +7455,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "GREAT!",
+              "str": "جيد!",
               "strWidth": 101.3125
             }
           ]
@@ -7491,7 +7491,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "NICE!",
+              "str": "جيد!",
               "strWidth": 73.375
             }
           ]
@@ -7527,7 +7527,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "TOO FAST!/TOO SLOW!",
+              "str": "سريع جدًا/بطيء جدًا! !",
               "strWidth": 328.79688
             }
           ]
@@ -7668,7 +7668,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Time left: ",
+              "str": "الوقت المتبقي: ",
               "strWidth": 134.4375
             },
             {
@@ -7728,7 +7728,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Super Contest Show basics",
+              "str": "أساسيات عروض المسابقة الكبرى",
               "strWidth": 345.625
             }
           ]
@@ -7764,7 +7764,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Types of Super Contest Shows",
+              "str": "أنواع عروض المسابقة الكبرى",
               "strWidth": 391.82812
             }
           ]
@@ -7800,7 +7800,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Super Contest Show ranks",
+              "str": "تصنيفات عروض المسابقة الكبرى",
               "strWidth": 335.34375
             }
           ]
@@ -7836,7 +7836,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What’s a Super Contest Show?",
+              "str": "ما هي عروض المسابقة الكبرى؟",
               "strWidth": 396.82812
             }
           ]
@@ -7872,7 +7872,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Visual Evaluation",
+              "str": "تقييم المظهر ",
               "strWidth": 220.71875
             }
           ]
@@ -7908,7 +7908,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dance Evaluation",
+              "str": "تقييم الرقص",
               "strWidth": 225.84375
             }
           ]
@@ -7944,7 +7944,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Move Evaluation",
+              "str": "تقييم الحركة",
               "strWidth": 216.125
             }
           ]
@@ -7980,7 +7980,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Practice show basics",
+              "str": "أساسيات جلسة التدريب",
               "strWidth": 261.3125
             }
           ]
@@ -8016,7 +8016,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Brilliant Contest",
+              "str": "مسابقة مذهلة",
               "strWidth": 207.90625
             }
           ]
@@ -8052,7 +8052,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Shining Contest",
+              "str": "مسابقة متلألئة",
               "strWidth": 202.82812
             }
           ]
@@ -8088,7 +8088,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Eligible",
+              "str": "مؤهل ",
               "strWidth": 96.03125
             }
           ]
@@ -8124,7 +8124,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Ineligible",
+              "str": "غير مؤهل",
               "strWidth": 120.125
             }
           ]
@@ -8160,7 +8160,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a Pokémon.",
+              "str": "يرجى اختيار بوكيمون.",
               "strWidth": 326.9375
             }
           ]
@@ -8196,7 +8196,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a move.",
+              "str": "يرجى اختيار حركة.",
               "strWidth": 277.1875
             }
           ]
@@ -8232,7 +8232,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a Ball Capsule.",
+              "str": "يرجى اختيار كبسولة الكرة. ",
               "strWidth": 367.75
             }
           ]
@@ -8268,7 +8268,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please select a style.",
+              "str": "يرجى اختيار نمط.",
               "strWidth": 266.95312
             }
           ]
@@ -8317,7 +8317,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hall ",
+              "str": "القاعة ",
               "strWidth": 61.546875
             },
             {
@@ -8361,7 +8361,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Internet",
+              "str": "الإنترنت ",
               "strWidth": 101.234375
             }
           ]
@@ -8397,7 +8397,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Local",
+              "str": "الاتصال المحلي ",
               "strWidth": 69.15625
             }
           ]
@@ -8433,7 +8433,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Tell me about contest shows",
+              "str": "أخبرني عن عروض المسابقات. ",
               "strWidth": 367.20312
             }
           ]
@@ -8469,7 +8469,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Visual Evaluation",
+              "str": "تقييم المظهر",
               "strWidth": 220.71875
             }
           ]
@@ -8505,7 +8505,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Dance Evaluation",
+              "str": "تقييم الرقص",
               "strWidth": 225.84375
             }
           ]
@@ -8541,7 +8541,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Move Evaluation",
+              "str": "تقييم الحركة ",
               "strWidth": 216.125
             }
           ]
@@ -8577,7 +8577,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "With a Link Code",
+              "str": "مع رمز الرابط",
               "strWidth": 226.8125
             }
           ]
@@ -8613,7 +8613,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to change your style?",
+              "str": "هل ترغب في تغيير نمطك؟",
               "strWidth": 482.4375
             }
           ]
@@ -8649,7 +8649,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Change into Contest Style",
+              "str": "غير إلى نمط المسابقة. ",
               "strWidth": 339.45312
             }
           ]
@@ -8685,7 +8685,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Change into something else",
+              "str": "غير إلى شيء آخر. ",
               "strWidth": 358.85938
             }
           ]
@@ -8721,7 +8721,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Congratulations on becoming Stars of the Show!",
+              "str": "تهانينا لنيلك لقب نجم العرض! ",
               "strWidth": 621.6719
             }
           ]
@@ -8770,7 +8770,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please accept ",
+              "str": "يرجى قبول",
               "strWidth": 186.625
             },
             {
@@ -8794,7 +8794,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "as your reward!",
+              "str": "كمكافأة لك!",
               "strWidth": 195.85938
             }
           ]
@@ -8830,7 +8830,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "In a Super Contest Show, four performers work",
+              "str": "في عرض المسابقة الكبرى، يعمل أربعة مؤدين معًا،",
               "strWidth": 604.1719
             },
             {
@@ -8838,7 +8838,7 @@
               "eventID": 4,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "together, acting in front of a large audience and",
+              "str": "مقدمين عرضًا أمام جمهور كبير",
               "strWidth": 625.375
             },
             {
@@ -8846,7 +8846,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "aiming to complete a successful show!",
+              "str": "بهدف إنجاح العرض!",
               "strWidth": 490.15625
             },
             {
@@ -8854,7 +8854,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Meanwhile, they’ll be evaluated in three",
+              "str": "وفي الوقت نفسه، سيتم تقييمهم في ثلاث فئات: ",
               "strWidth": 523.0469
             },
             {
@@ -8862,7 +8862,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "categories: Visual, Dance, and Moves.",
+              "str": "المظهر، الرقص، والحركات.",
               "strWidth": 497.26562
             }
           ]
@@ -8898,7 +8898,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "There are four different ranks of Link Contest",
+              "str": "هناك أربع مراتب مختلفة لعروض المسابقة الكبرى عبر الرابط:",
               "strWidth": 587.03125
             },
             {
@@ -8906,7 +8906,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Shows: Normal, Great, Ultra, and Master.",
+              "str": "العادية، الكبيرة، الفائقة، والماستر.",
               "strWidth": 536.65625
             },
             {
@@ -8914,7 +8914,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The difficulty level increases as you approach",
+              "str": "تزداد صعوبة المستويات كلما اقتربت ",
               "strWidth": 588.46875
             },
             {
@@ -8922,7 +8922,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Master Rank.",
+              "str": "من التصنيف الأعلى ماستر.",
               "strWidth": 168.35938
             },
             {
@@ -8930,7 +8930,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "For Link Contest Shows, all ranks are playable",
+              "str": "بالنسبة لعروض المسابقة الكبرى عبر الرابط،",
               "strWidth": 595.1875
             },
             {
@@ -8938,7 +8938,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "right from the start!",
+              "str": "جميع المراتب متاحة للعب من البداية! ",
               "strWidth": 249.8125
             }
           ]
@@ -8974,7 +8974,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Leader",
+              "str": "قائد ",
               "strWidth": 89.140625
             }
           ]
@@ -9010,7 +9010,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Guest",
+              "str": "ضيف ",
               "strWidth": 76.4375
             }
           ]
@@ -9046,7 +9046,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "How many players would you like to include?",
+              "str": "كم عدد اللاعبين الذين ترغب في ضمهم؟ ",
               "strWidth": 585.8125
             }
           ]
@@ -9103,7 +9103,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " players",
+              "str": " لاعبين ",
               "strWidth": 100.515625
             }
           ]
@@ -9139,7 +9139,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Random",
+              "str": "عشوائي ",
               "strWidth": 105.65625
             }
           ]
@@ -9175,7 +9175,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "At least one support performer will join.",
+              "str": "سيتم ضم مؤدٍ مساعد واحد على الأقل.",
               "strWidth": 516.3281
             }
           ]
@@ -9211,7 +9211,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Failed to find enough players.",
+              "str": "فشل في العثور على عدد كافٍ من اللاعبين.",
               "strWidth": 388.01562
             }
           ]
@@ -9247,7 +9247,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Participate via local communication",
+              "str": "المشاركة عبر الاتصال المحلي ",
               "strWidth": 458.9375
             }
           ]
@@ -9283,7 +9283,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Participate via internet",
+              "str": "المشاركة عبر الإنترنت ",
               "strWidth": 293.79688
             }
           ]
@@ -9319,7 +9319,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to switch back to",
+              "str": "هل ترغب في العودة إلى",
               "strWidth": 425.98438
             },
             {
@@ -9327,7 +9327,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "local communication?",
+              "str": "الاتصال المحلي؟",
               "strWidth": 280.0625
             }
           ]
@@ -9363,7 +9363,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Switch back to local communication",
+              "str": "العودة إلى الاتصال المحلي",
               "strWidth": 462.57812
             }
           ]
@@ -9399,7 +9399,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’ve switched back to local communication.",
+              "str": "لقد عدت إلى الاتصال المحلي. ",
               "strWidth": 599.40625
             }
           ]
@@ -9435,7 +9435,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Searching...",
+              "str": "جارٍ البحث...",
               "strWidth": 149.0
             }
           ]
@@ -9471,7 +9471,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to play again with the",
+              "str": "هل ترغب في اللعب مرة أخرى",
               "strWidth": 486.9375
             },
             {
@@ -9479,7 +9479,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "same rules?",
+              "str": "بنفس القواعد؟",
               "strWidth": 149.14062
             }
           ]
@@ -9515,7 +9515,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hm?",
+              "str": "همممم?",
               "strWidth": 59.203125
             },
             {
@@ -9523,7 +9523,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It appears that you can’t participate in Link",
+              "str": "يبدو أنك لا تستطيع المشاركة في",
               "strWidth": 559.2969
             },
             {
@@ -9531,7 +9531,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Shows.",
+              "str": " عروض المسابقة الكبرى عبر الرابط.",
               "strWidth": 196.65625
             }
           ]
@@ -9567,7 +9567,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to connect to the internet?",
+              "str": "هل ترغب في الاتصال بالإنترنت؟",
               "strWidth": 553.5781
             }
           ]
@@ -9603,7 +9603,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Connect to the internet",
+              "str": "الاتصال بالإنترنت ",
               "strWidth": 303.79688
             }
           ]
@@ -9639,7 +9639,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You are now connected to the internet.",
+              "str": "أنت الآن متصل بالإنترنت.",
               "strWidth": 510.20312
             }
           ]
@@ -9675,7 +9675,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to be the leader or participate as",
+              "str": "هل ترغب في أن تكون القائد أو أن ",
               "strWidth": 635.34375
             },
             {
@@ -9683,7 +9683,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "a guest?",
+              "str": "تشارك كضيف؟ ",
               "strWidth": 107.734375
             }
           ]
@@ -9719,7 +9719,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Link Contest Show",
+              "str": "عرض المسابقة الكبرى عبر الرابط ",
               "strWidth": 238.875
             }
           ]
@@ -9755,7 +9755,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Check effects",
+              "str": "تحقق من التأثيرات",
               "strWidth": 176.21875
             }
           ]
@@ -9791,7 +9791,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You can only communicate with people who are",
+              "str": "مكنك فقط التواصل مع الأشخاص",
               "strWidth": 620.9531
             },
             {
@@ -9799,7 +9799,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "in the same group.",
+              "str": "الذين هم في نفس المجموعة.",
               "strWidth": 240.03125
             }
           ]
@@ -9835,7 +9835,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Brilliant Contest",
+              "str": "مسابقة مذهلة ",
               "strWidth": 207.90625
             }
           ]
@@ -9871,7 +9871,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "What a successful Super Contest Show!",
+              "str": "يا له من عرض مسابقة كبرى ناجح! ",
               "strWidth": 505.07812
             },
             {
@@ -9879,7 +9879,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The audience had a blast!",
+              "str": "الجمهور استمتع كثيرًا! ",
               "strWidth": 333.20312
             }
           ]
@@ -9915,7 +9915,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hm?",
+              "str": "همممم?",
               "strWidth": 59.203125
             },
             {
@@ -9923,7 +9923,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It appears you don’t have any Pokémon with you",
+              "str": "يبدو أنك لا تملك أي بوكيمون",
               "strWidth": 632.0469
             },
             {
@@ -9931,7 +9931,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "that are able to enter that contest show.",
+              "str": "قادر على الانضمام إلى تلك المسابقة الكبرى.",
               "strWidth": 520.5156
             },
             {
@@ -9939,7 +9939,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please come back with a Pokémon wearing the",
+              "str": "يرجى العودة مع بوكيمون",
               "strWidth": 604.34375
             },
             {
@@ -9947,7 +9947,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Star Ribbon.",
+              "str": " يحمل شريط نجم المسابقة.",
               "strWidth": 268.73438
             }
           ]
@@ -9983,7 +9983,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Which would you like to participate in?",
+              "str": "أي عرض ترغب في المشاركة به؟",
               "strWidth": 509.125
             }
           ]
@@ -10019,7 +10019,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Allow me to explain the rules of the Super",
+              "str": "اسمح لي أن أشرح قواعد ",
               "strWidth": 546.3906
             },
             {
@@ -10027,7 +10027,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Show!",
+              "str": "عرض المسابقة الكبرى!",
               "strWidth": 184.5
             }
           ]
@@ -10063,7 +10063,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The Super Contest Show begins with the",
+              "str": "يبدأ عرض المسابقة الكبرى",
               "strWidth": 521.9219
             },
             {
@@ -10071,7 +10071,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Visual Evaluation.",
+              "str": "بتقييم المظهر. ",
               "strWidth": 228.625
             }
           ]
@@ -10107,7 +10107,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It’s an evaluation of your Pokémon’s conditions,",
+              "str": "إنه تقييم لحالة البوكيمون، ",
               "strWidth": 622.09375
             }
           ]
@@ -10143,7 +10143,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and the spectacle of its customized Ball Capsule!",
+              "str": "ولعرض كبسولة الكرة المزينة!",
               "strWidth": 632.21875
             }
           ]
@@ -10179,7 +10179,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Next, the Dance Evaluation will begin.",
+              "str": "بعد ذلك، يبدأ تقييم الرقص.",
               "strWidth": 496.54688
             }
           ]
@@ -10215,7 +10215,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Here, your Pokémon’s rhythm will be evaluated!",
+              "str": "هنا، سيتم تقييم إيقاع البوكيمون الخاص بك!",
               "strWidth": 619.96875
             }
           ]
@@ -10251,7 +10251,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Notes will flow across the screen from the right.",
+              "str": "ستتحرك النوتات عبر الشاشة من اليمين.",
               "strWidth": 614.3906
             }
           ]
@@ -10287,7 +10287,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Press the A Button just as they overlap with the",
+              "str": "اضغط على زر A تمامًا عندما تتداخل",
               "strWidth": 609.5
             },
             {
@@ -10295,7 +10295,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "scoring area!",
+              "str": "مع منطقة التسجيل! ",
               "strWidth": 163.8125
             }
           ]
@@ -10331,7 +10331,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Notes stretched out into a line are called",
+              "str": "النوتات الممتدة على شكل خط تسمى",
               "strWidth": 531.4219
             },
             {
@@ -10339,7 +10339,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "long notes.",
+              "str": "النوتات الطويلة.",
               "strWidth": 143.54688
             }
           ]
@@ -10375,7 +10375,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hold the A Button down for as long as the line",
+              "str": "اضغط مع الاستمرار على زر A طالما",
               "strWidth": 603.65625
             },
             {
@@ -10383,7 +10383,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "stretches on.",
+              "str": " أن الخط ممتد. ",
               "strWidth": 163.5625
             }
           ]
@@ -10419,7 +10419,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If your timing is good as you hit the notes, your",
+              "str": "إذا كان توقيتك دقيقًا أثناء ضرب النوتات، ",
               "strWidth": 612.90625
             },
             {
@@ -10427,7 +10427,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Heart Gauge will fill up.",
+              "str": " فسيبدأ مقياس القلوب في الامتلاء.",
               "strWidth": 310.6875
             }
           ]
@@ -10463,7 +10463,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Each time the gauge fills up completely, you’ll",
+              "str": "في كل مرة يمتلئ المقياس تمامًا،",
               "strWidth": 599.1406
             },
             {
@@ -10471,7 +10471,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "receive one Hype Point (",
+              "str": "ستحصل على نقطة حماس (",
               "strWidth": 324.23438
             },
             {
@@ -10539,7 +10539,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Just once during the Dance Evaluation,",
+              "str": "خلال تقييم الرقص، ولمرة واحدة فقط ,",
               "strWidth": 505.28125
             }
           ]
@@ -10575,7 +10575,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you can press the X Button to use a",
+              "str": "يمكنك الضغط على زر X لاستخدام",
               "strWidth": 460.375
             },
             {
@@ -10583,7 +10583,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Move.",
+              "str": "حركة المسابقة.",
               "strWidth": 190.32812
             }
           ]
@@ -10619,7 +10619,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Contest Moves can give you Hype Points (",
+              "str": "يمكن أن تمنحك حركات المسابقة نقاط حماس (",
               "strWidth": 550.90625
             },
             {
@@ -10687,7 +10687,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and if you use yours consecutively with",
+              "str": "وإذا استخدمتها بالتتابع ",
               "strWidth": 502.625
             },
             {
@@ -10695,7 +10695,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "other performers,",
+              "str": "مع المؤدين الآخرين،",
               "strWidth": 225.21875
             }
           ]
@@ -10731,7 +10731,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you can pull off a Move Chain and receive even",
+              "str": "يمكنك تنفيذ سلسلة حركات والحصول",
               "strWidth": 620.8125
             },
             {
@@ -10739,7 +10739,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "more Hype Points!",
+              "str": "على نقاط حماس أكثر! ",
               "strWidth": 237.90625
             }
           ]
@@ -10775,7 +10775,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If the total of all four contestants’ Hype Points",
+              "str": "إذا وصل مجموع نقاط الحماس ",
               "strWidth": 602.71875
             },
             {
@@ -10815,7 +10815,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": ") reaches a certain quota,",
+              "str": ") لكل المتسابقين الأربعة إلى حد معين،",
               "strWidth": 331.57812
             }
           ]
@@ -10851,7 +10851,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Super Contest Show will be a success!",
+              "str": "سيكون عرض المسابقة الكبرى ناجحًا!",
               "strWidth": 537.53125
             }
           ]
@@ -10887,7 +10887,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Successful shows will earn you hall points,",
+              "str": "العروض الناجحة ستمنحك نقاط قاعة، ",
               "strWidth": 539.6875
             },
             {
@@ -10895,7 +10895,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "and as you collect more of those,",
+              "str": "ومع جمع المزيد منها،",
               "strWidth": 432.26562
             }
           ]
@@ -10931,7 +10931,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "the Hall Rank will go up, and the stage will",
+              "str": "سيرتفع تصنيف القاعة،",
               "strWidth": 555.5625
             },
             {
@@ -10939,7 +10939,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "grow fancier!",
+              "str": "وسيصبح المسرح أكثر فخامة! ",
               "strWidth": 166.57812
             }
           ]
@@ -10975,7 +10975,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "That’s all for the explanation. Would you like",
+              "str": "هذا كل شيء لشرح القواعد. هل ترغب ",
               "strWidth": 587.78125
             },
             {
@@ -10983,7 +10983,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "to try some practice?",
+              "str": "في التدرب لبعض الوقت ؟",
               "strWidth": 272.85938
             }
           ]
@@ -11019,7 +11019,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Hm?",
+              "str": "همممم?",
               "strWidth": 59.203125
             },
             {
@@ -11027,7 +11027,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "It appears that you can’t enter a contest show",
+              "str": "يبدو أنك لا تستطيع الانضمام إلى المسابقة",
               "strWidth": 592.6719
             },
             {
@@ -11035,7 +11035,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "with that rank.",
+              "str": "بهذا التصنيف.",
               "strWidth": 184.60938
             },
             {
@@ -11043,7 +11043,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please come back after you’ve successfully",
+              "str": "يرجى العودة بعد إكمال مسابقة",
               "strWidth": 553.28125
             },
             {
@@ -11051,7 +11051,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "completed a contest show at one rank below.",
+              "str": "بنجاح في تصنيف أقل. ",
               "strWidth": 587.71875
             }
           ]
@@ -11087,7 +11087,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Shining Contest",
+              "str": "مسابقة متلألئة",
               "strWidth": 202.82812
             }
           ]
@@ -11256,7 +11256,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Brilliant Contest",
+              "str": "مسابقة مذهلة",
               "strWidth": 207.90625
             }
           ]
@@ -11292,7 +11292,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Shining Contest",
+              "str": "مسابقة متلألئة",
               "strWidth": 202.82812
             }
           ]
@@ -11328,7 +11328,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Oh? It seems you haven’t joined a group yet.",
+              "str": "أوه؟ يبدو أنك لم تنضم إلى مجموعة بعد.",
               "strWidth": 582.7656
             },
             {
@@ -11336,7 +11336,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please join a group first.",
+              "str": "يرجى الانضمام إلى مجموعة أولاً. ",
               "strWidth": 312.79688
             }
           ]
@@ -11372,7 +11372,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "If you set a Link Code, you can communicate",
+              "str": "إذا قمت بتعيين رمز ، يمكنك التواصل",
               "strWidth": 582.4375
             },
             {
@@ -11380,7 +11380,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "only with people who set the same Link Code.",
+              "str": "فقط مع الأشخاص الذين يقومون بتعيين نفس الرمز.",
               "strWidth": 597.3906
             }
           ]
@@ -11416,7 +11416,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please enter an 8-digit passcode.",
+              "str": "يرجى إدخال رمز مرور مكون من 8 أرقام.",
               "strWidth": 431.35938
             }
           ]
@@ -11452,7 +11452,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Thanks for participating! Your Pokémon danced",
+              "str": "شكرًا لمشاركتك! رقص بوكيمونك بشكل رائع!",
               "strWidth": 617.25
             },
             {
@@ -11460,7 +11460,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "quite well! It’s ready for a real Contest Show!",
+              "str": " إنه مستعد لعرض مسابقة حقيقي!",
               "strWidth": 582.2344
             },
             {
@@ -11468,7 +11468,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Or, would you like to practice dancing again?",
+              "str": "أو، هل ترغب في ممارسة الرقص مرة أخرى؟ ",
               "strWidth": 591.3281
             }
           ]
@@ -11504,7 +11504,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Are you confident in your contest show mastery?",
+              "str": "هل تشعر بالثقة في إتقانك لعروض المسابقات الكبرى؟ ",
               "strWidth": 628.8281
             }
           ]
@@ -11540,7 +11540,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Of course!",
+              "str": "بالطبع! ",
               "strWidth": 133.92188
             }
           ]
@@ -11576,7 +11576,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Maybe?",
+              "str": "ربما؟",
               "strWidth": 103.34375
             }
           ]
@@ -11612,7 +11612,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Not really",
+              "str": "ليس حقًا.",
               "strWidth": 128.35938
             }
           ]
@@ -11648,7 +11648,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "I’m sorry. Your connection seems to be unstable.",
+              "str": "أنا آسف. يبدو أن الاتصال لديك غير مستقر.",
               "strWidth": 630.2344
             }
           ]
@@ -11684,7 +11684,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " OK with these members!",
+              "str": "حسنًا مع هؤلاء الأعضاء!",
               "strWidth": 323.3125
             }
           ]
@@ -11720,7 +11720,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": " Cancel",
+              "str": "إلغاء ",
               "strWidth": 97.5
             }
           ]
@@ -11792,7 +11792,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Searching for members...",
+              "str": "جارٍ البحث عن أعضاء... ",
               "strWidth": 318.71875
             }
           ]
@@ -11828,7 +11828,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Members couldn’t be found.",
+              "str": "لم يتم العثور على أعضاء. ",
               "strWidth": 367.76562
             }
           ]
@@ -11864,7 +11864,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to search for members again?",
+              "str": "هل ترغب في البحث عن أعضاء مرة أخرى؟",
               "strWidth": 586.40625
             }
           ]
@@ -11900,7 +11900,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Members have been found!",
+              "str": "تم العثور على أعضاء!",
               "strWidth": 353.39062
             }
           ]
@@ -11936,7 +11936,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to decide which contest show to",
+              "str": "هل ترغب في تحديد أي مسابقة",
               "strWidth": 622.4219
             },
             {
@@ -11944,7 +11944,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "put on with these members?",
+              "str": "ستقدمها مع هؤلاء الأعضاء؟",
               "strWidth": 362.6875
             }
           ]
@@ -11980,7 +11980,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Yes",
+              "str": "نعم ",
               "strWidth": 46.8125
             }
           ]
@@ -12016,7 +12016,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "No",
+              "str": "لا ",
               "strWidth": 38.78125
             }
           ]
@@ -12052,7 +12052,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Preparing for the contest show...",
+              "str": "التحضير لعرض المسابقة...",
               "strWidth": 418.39062
             }
           ]
@@ -12088,7 +12088,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The contest show details have been decided!",
+              "str": "تم تحديد تفاصيل المسابقة!",
               "strWidth": 582.8281
             }
           ]
@@ -12124,7 +12124,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Members have left. The group will be disbanded.",
+              "str": "غادر الأعضاء. سيتم حل المجموعة.",
               "strWidth": 635.8281
             }
           ]
@@ -12160,7 +12160,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Be sure to select a style before you start!",
+              "str": "تأكد من اختيار نمط قبل أن البدأ!",
               "strWidth": 529.5
             }
           ]
@@ -12196,7 +12196,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You don’t have four members. We’ll find some",
+              "str": "ليس لديك أربعة أعضاء. سنجد بعض",
               "strWidth": 605.03125
             },
             {
@@ -12204,7 +12204,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "other performers to help you out.",
+              "str": "المؤدين الآخرين لمساعدتك.",
               "strWidth": 432.65625
             }
           ]
@@ -12240,7 +12240,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "And now, let the Link Contest Show begin!",
+              "str": "والآن، دع عرض المسابقة الكبرى عبر الرابط يبدأ!",
               "strWidth": 551.84375
             }
           ]
@@ -12276,7 +12276,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "The show will start with the current members.",
+              "str": "سيبدأ العرض بالأعضاء الحاليين.",
               "strWidth": 581.7656
             }
           ]
@@ -12312,7 +12312,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Would you like to quit the Link Contest Show?",
+              "str": "هل ترغب في الخروج من عرض المسابقة الكبرى عبر الرابط؟",
               "strWidth": 604.40625
             }
           ]
@@ -12432,7 +12432,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Good luck!",
+              "str": "حظًا موفقًا!\r\n",
               "strWidth": 142.98438
             }
           ]
@@ -12468,7 +12468,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Confirm",
+              "str": "تأكيد",
               "strWidth": 102.734375
             }
           ]
@@ -12517,7 +12517,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Please accept this ",
+              "str": "يرجى قبول",
               "strWidth": 240.04688
             },
             {
@@ -12541,7 +12541,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "as your reward!",
+              "str": "كمكافأة لك!",
               "strWidth": 195.85938
             }
           ]
@@ -12590,7 +12590,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "You’ve become Star of the Show in every",
+              "str": "لقد أصبحت نجم العرض في",
               "strWidth": 534.8594
             },
             {
@@ -12598,7 +12598,7 @@
               "eventID": 3,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "contest show!",
+              "str": "كل مسابقات العرض!",
               "strWidth": 174.26562
             },
             {
@@ -12606,7 +12606,7 @@
               "eventID": 1,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "To commemorate your achievement, I’ll present",
+              "str": "لتخليد إنجازك،",
               "strWidth": 618.125
             },
             {
@@ -12614,7 +12614,7 @@
               "eventID": 0,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "you with this ",
+              "str": "سأقدم لك هذا",
               "strWidth": 170.92188
             },
             {
@@ -12638,7 +12638,7 @@
               "eventID": 7,
               "tagIndex": -1,
               "tagValue": 0.0,
-              "str": "Congratulations!",
+              "str": "! تهانينا!",
               "strWidth": 212.0
             }
           ]
